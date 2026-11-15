@@ -57,3 +57,23 @@
 - **생성·수정 파일**: `src/analyze_ngrams.py`(신규), `docs/ai_usage_log.md`(7~10번이 로컬 파일에 없어 함께 복원), 프로젝트_기획서_영어권명절언어_v4.md(§5.3·변경 이력 추가, claude.ai 프로젝트 문서)
 - **주요 내용**: 기획서에 정의된 N-gram 분석 기준이 없음을 확인(과거 대화의 Google Books Ngram·COHA는 외부 코퍼스 예비 점검이었음)하고, 중심 `Christmas` 기준 2·3-gram의 빈도·시기별 출현·4대 범주·sub_type 7종 교차표·원문 역추적표(CSV 5종)를 산출하는 스크립트를 임시 폴더에서 실제 데이터로 시험한 뒤 승인받아 저장함. 트라이그램은 내용어만 허용, 그래프는 만들지 않음, `--anchor all` 옵션은 구현하지 않음
 - **판단 근거**: 조각당 중심 히트 하나만 집계해 범주와 1:1로 대응시키고 구두점 경계를 넘는 조합은 만들지 않음. LLM이 n-gram이 포함된 문맥 전체를 보고 범주를 판정하므로 결과는 독립 증거가 아닌 일관성 점검(방법 검증 보조)으로 해석하고, 10건 미만 칸은 `small_n`으로 표시함. 기획서의 주 분석 범위(4대 범주 시기별 비율, 분류 신뢰도 검증)는 변경하지 않음
+
+## 12. 2026-11-15 오후 10시대 (KST) — 지면 군집 편향 보정 분석(`analyze_page_bias_adjusted.py`) 작성 및 실행
+- **생성·수정 파일**: `src/analyze_page_bias_adjusted.py`(신규), `data/processed/bias_adjusted_period_category.csv`, `bias_adjusted_ngram_period.csv`, `bias_adjusted_leave_extreme_out.csv`, `bias_adjusted_page_diversity.csv`(모두 신규, 기존 v0.3 산출물은 수정하지 않음)
+- **주요 내용**: 실행 전에 입력 파일의 실제 열 구조를 확인하고, 재계산한 값이 `discourse_page_profile_v0.3.csv`·`summary_period_category_v0.3.csv`·`ngram_instances_v0.3.csv`와 일치하는지 단언문으로 검증함. 면 단위 범주 비율을 먼저 구한 뒤 시기별 평균·중앙값·표준편차(면 균등 가중)와 합산 비율과의 차이(`diff_pct`), n-gram별 TF·DF·집중도와 순위 비교, 극단 면 1·3·5개 제외(조각 수 기준·집중도 기준) 후 재집계, 면별 엔트로피 기반 다양성을 산출함. 예: `christmas sale` TF 17·DF 1, 1930s 종교·기원 합산 8.4% → 집중도 기준 5면 제외 시 28.0%
+- **판단 근거**: 시기당 5개 면 표본이라 면 단위 표준편차·중앙값은 불안정하고, `ngram_instances_v0.3.csv`에는 선정된 29개 n-gram만 있음을 출력에 명시함. 극단 면 선정 기준과 지면 유형 임계값(0.9/0.6)은 AI가 정한 기본값이며 옵션으로 조정 가능. 연구자의 즉시 실행 요청에 따라 승인 전 실행했고, `--write`는 기존 파일을 덮어쓰지 않음
+
+## 13. 2026-11-15 오후 10시대 (KST) — 20쪽 발표 구성안(`ppt_outline_20p.md`) 작성 및 저장
+- **생성·수정 파일**: `docs/ppt_outline_20p.md`(신규), `docs/ai_usage_log.md`
+- **주요 내용**: 지정된 요약·평가·N-gram·담론 파일에서 실제 수치와 `snippet_id`만 인용해 20쪽 슬라이드별 구성안(제목·본문·시각화·대본)을 작성하고 [AI]와 [연구자] 역할을 구분해 표기함. 연구자가 검토·승인한 뒤 저장함
+- **판단 근거**: `1920s 상업화`는 데이터상 1920s~40s에 높고 1950s 이후 낮아지므로 직선적 상업화로 쓰지 않았고, v0.3 정확도(91.1%)는 검증 표본 관찰 후 보정된 탐색적 값이라 공식 기준선 v0.1(88.9%)과 함께 표기함. `year` 열이 없어 `date`로 대체했고, 지정 목록 밖의 `bias_adjusted_*.csv`는 7쪽·18쪽의 보조 근거로만 사용함
+
+## 14. 2026-11-15 오후 10시대 (KST) — 발표용 차트 이미지 일괄 생성 스크립트(`generate_ppt_charts.py`) 작성 및 실행
+- **생성·수정 파일**: `src/generate_ppt_charts.py`(신규), `outputs/ppt_charts/` 아래 PNG 9개(300 DPI, 신규): `slide05_period_counts.png`, `slide07_tf_vs_df.png`, `slide08_version_accuracy.png`, `slide09_overall_donut.png`, `slide10_top10_ngrams.png`, `slide12_period_category_stacked.png`, `slide13_ngram_category_mapping.png`, `slide16_low_confidence_by_period.png`, `slide18_leave_extreme_out.png`, `docs/ai_usage_log.md`
+- **주요 내용**: `data/processed/`의 요약·N-gram·보정 분석 CSV를 읽기 전용으로 읽어 20쪽 구성안의 9개 슬라이드용 차트를 그림. 그리기 전에 시기 7개·788건·범주 비율 합 100%·`ngram_frequency`와 `bias_adjusted_ngram_period`의 TF 일치를 단언문으로 검증하고, 한글 폰트(Malgun Gothic 우선)를 찾지 못하면 중단하도록 함. `--write` 없이는 저장하지 않고 기존 파일은 덮어쓰지 않음. 결과 이미지를 직접 확인하며 겹친 라벨(18쪽 시작값, 16쪽 평균선)을 수정함
+- **판단 근거**: 지정된 범주 팔레트는 색약 시뮬레이션에서 인접 색(주황·초록)이 가깝고 주황은 배경 대비가 낮아, 블록 안 수치 라벨·흰색 간격·범례를 함께 써서 색에만 의존하지 않게 함(주황 블록은 어두운 글씨). 8쪽은 v0.2·v0.3을 빗금으로 표시해 탐색적 결과임을 드러냄. 18쪽은 집중도·조각 수 기준 두 패널로 나눠 1930s 값이 기준에 따라 달라짐을 숨기지 않음(집중도 기준 5개 제외 후 남는 지면 1930s 2개). 1960–63은 `(4 yrs, n=71)`로 표기함. 이번 실행은 환경에 Malgun Gothic이 없어 NanumGothic으로 렌더링함(en 대시가 하이픈처럼 보임)
+
+## 15. 2026-11-15 오후 10시대 (KST) — 발표용 차트 전면 개정(DF 표기 삭제·추이 차트 추가·빈티지 크리스마스 팔레트)
+- **생성·수정 파일**: `src/generate_ppt_charts.py`(수정), `outputs/ppt_charts/` 아래 PNG 9개 갱신·신규(`slide05_period_counts.png`, `slide08_version_accuracy.png`, `slide09_overall_donut.png`, `slide10_top10_ngrams.png`, `slide12_period_category_stacked.png`, `slide13_ngram_category_mapping.png`, `slide13_top2_ngrams_period_trend.png`(신규), `slide16_low_confidence_by_period.png`, `slide18_leave_extreme_out.png`), `docs/ppt_outline_20p.md`(5·7·8·9·10·12·13·16·18쪽 시각화 안내와 변경 이력), `docs/ai_usage_log.md`
+- **주요 내용**: 연구자 요청에 따라 모든 차트에서 `DF`(출현 지면 수) 표기를 삭제해 건수(n)·퍼센트(%)만 쓰고, 이에 따라 TF·DF 비교 차트(`slide07_tf_vs_df.png`)는 생성 목록에서 제외함. `christmas day`(n=58)·`christmas tree`(n=53)의 10년 단위 4대 범주 비율을 좌우 2단으로 비교하는 차트를 추가함(`ngram_instances_v0.3.csv`로 산출하고 `ngram_context_christmas_{day,tree}_v0.3.csv`의 시기×범주 건수와 일치함을 실행 시 확인, n<5인 시기는 흐리게 표시). 팔레트를 버건디 브라운·포레스트 그린·앤틱 골드·웜 토프 중심의 빈티지 크리스마스 톤으로 교체하고 어두운 회색 막대를 폐기함. 기존 파일 갱신을 위해 `--overwrite` 옵션을 추가하고(기본은 덮어쓰기 금지 유지), `--transparent` 옵션을 추가함
+- **판단 근거**: 지정 4색 범주 팔레트는 검증 스크립트에서 채도·색각이상(적록)·보통시력 구분(앤틱 골드↔웜 토프 ΔE 13) 기준 FAIL이어서, 색을 바꾸지 않고 블록 안 수치 라벨·흰색 간격·범례로 색 의존을 줄임(앤틱 골드 블록은 코코아 글씨, 대안 토프 `#6F665E`는 구분 기준 통과). `slide18_leave_extreme_out.png`는 요청 목록에 없었지만 18쪽에서 쓰이고 DF 표기가 없어 새 팔레트로 함께 갱신함. 구성안 7·10쪽 본문에는 DF 언급이 남아 있어 연구자 결정 대기. 이번 실행도 Malgun Gothic이 없는 환경이라 NanumGothic으로 렌더링함
