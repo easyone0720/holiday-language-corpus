@@ -1,0 +1,31 @@
+﻿ngram,n_total,n_종교·기원,n_가정·사교·공동체,n_상업·소비,n_시사·기타,pct_종교·기원,pct_가정·사교·공동체,pct_상업·소비,pct_시사·기타,small_n
+christmas day,58,12,42,1,3,20.7,72.4,1.7,5.2,False
+christmas tree,53,13,36,1,3,24.5,67.9,1.9,5.7,False
+christmas eve,46,11,29,0,6,23.9,63.0,0.0,13.0,False
+passed christmas,36,0,36,0,0,0.0,100.0,0.0,0.0,False
+spent christmas,33,0,33,0,0,0.0,100.0,0.0,0.0,False
+merry christmas,29,2,10,15,2,6.9,34.5,51.7,6.9,False
+christmas party,21,1,20,0,0,4.8,95.2,0.0,0.0,False
+christmas vacation,20,0,19,0,1,0.0,95.0,0.0,5.0,False
+christmas sale,17,0,0,17,0,0.0,0.0,100.0,0.0,False
+christmas dinner,15,1,13,1,0,6.7,86.7,6.7,0.0,False
+christmas holidays,15,0,15,0,0,0.0,100.0,0.0,0.0,False
+christmas program,13,5,8,0,0,38.5,61.5,0.0,0.0,False
+spend christmas,11,0,11,0,0,0.0,100.0,0.0,0.0,False
+christmas concert,9,5,4,0,0,55.6,44.4,0.0,0.0,True
+christmas guests,9,0,9,0,0,0.0,100.0,0.0,0.0,True
+christmas morning,9,5,4,0,0,55.6,44.4,0.0,0.0,True
+christmas card,8,5,3,0,0,62.5,37.5,0.0,0.0,True
+christmas gift,8,1,4,3,0,12.5,50.0,37.5,0.0,True
+christmas season,8,1,1,5,1,12.5,12.5,62.5,12.5,True
+christmas gifts,7,0,4,3,0,0.0,57.1,42.9,0.0,True
+family christmas,7,0,7,0,0,0.0,100.0,0.0,0.0,True
+first christmas,7,6,1,0,0,85.7,14.3,0.0,0.0,True
+home christmas,7,0,7,0,0,0.0,100.0,0.0,0.0,True
+annual christmas,6,2,3,0,1,33.3,50.0,0.0,16.7,True
+christmas trees,6,1,4,0,1,16.7,66.7,0.0,16.7,True
+school christmas,6,1,5,0,0,16.7,83.3,0.0,0.0,True
+christmas exercises,5,2,3,0,0,40.0,60.0,0.0,0.0,True
+christmas seals,2,0,2,0,0,0.0,100.0,0.0,0.0,True
+spent christmas eve,7,0,7,0,0,0.0,100.0,0.0,0.0,True
+(전체 조각),788,159,492,93,44,20.2,62.4,11.8,5.6,False

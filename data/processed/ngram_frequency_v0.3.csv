@@ -1,0 +1,30 @@
+﻿ngram,n_words,n_snippets,pct_snippets,pinned
+christmas day,2,58,7.4,False
+christmas tree,2,53,6.7,True
+christmas eve,2,46,5.8,True
+passed christmas,2,36,4.6,False
+spent christmas,2,33,4.2,False
+merry christmas,2,29,3.7,True
+christmas party,2,21,2.7,False
+christmas vacation,2,20,2.5,False
+christmas sale,2,17,2.2,False
+christmas dinner,2,15,1.9,True
+christmas holidays,2,15,1.9,False
+christmas program,2,13,1.6,False
+spend christmas,2,11,1.4,False
+christmas concert,2,9,1.1,False
+christmas guests,2,9,1.1,False
+christmas morning,2,9,1.1,False
+christmas card,2,8,1.0,False
+christmas gift,2,8,1.0,False
+christmas season,2,8,1.0,False
+christmas gifts,2,7,0.9,True
+family christmas,2,7,0.9,False
+first christmas,2,7,0.9,False
+home christmas,2,7,0.9,False
+annual christmas,2,6,0.8,False
+christmas trees,2,6,0.8,False
+school christmas,2,6,0.8,False
+christmas exercises,2,5,0.6,False
+christmas seals,2,2,0.3,True
+spent christmas eve,3,7,0.9,False

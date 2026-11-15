@@ -1,0 +1,46 @@
+﻿snippet_id,category,sub_type,confidence,rationale,status,model,prompt_version
+S0529,종교·기원,기원·역사해설,medium,청교도가 크리스마스를 금지했던 역사 해설; 백악관 트리 캡션 혼재,ok,claude-sonnet-5-5,v0.1-draft
+S0699,가정·사교·공동체,일상·사교형,high,"크리스마스를 딸 가족과 보내러 온 방문 소식, 개인 사교 단신",ok,claude-sonnet-5-5,v0.1-draft
+S0192,가정·사교·공동체,일상·사교형,high,"크리스마스 이브 손님 초대, 트리, 산타 등 가정 사교 소식",ok,claude-sonnet-5-5,v0.1-draft
+S0154,가정·사교·공동체,일상·사교형,medium,"교회 성탄 행사의 낭송·노래 등 아동 프로그램 중심, 예배·교리 초점 아님",ok,claude-sonnet-5-5,v0.1-draft
+S0081,가정·사교·공동체,일상·사교형,high,지역 소식란: 크리스마스를 보내러 귀가한 개인 사교 소식,ok,claude-sonnet-5-5,v0.1-draft
+S0557,가정·사교·공동체,일상·사교형,high,"지역 사교 소식, 청년회·클럽 크리스마스 파티 모임",ok,claude-sonnet-5-5,v0.1-draft
+S0507,가정·사교·공동체,일상·사교형,low,"키워드 주변은 청혼 장면의 ""가장 즐거운 크리스마스""; 뒤는 베들레헴 시가 섞임",ok,claude-sonnet-5-5,v0.1-draft
+S0163,가정·사교·공동체,일상·사교형,medium,"병원의 크리스마스 행사(트리, 저녁식사, 시가) 소식; 앞부분 광고는 키워드와 거리 있음",ok,claude-sonnet-5-5,v0.1-draft
+S0526,시사·기타,시사·단신,medium,"크리스마스 노래(White Christmas) 유래·판매 기사, 전시 언급; 기타 분류",ok,claude-sonnet-5-5,v0.1-draft
+S0729,종교·기원,예배·신학,medium,교회 성탄 예배 안내와 성탄 캐럴 합창 행사,ok,claude-sonnet-5-5,v0.1-draft
+S0345,상업·소비,판촉·광고형,high,"""마지막 크리스마스 선물"" 상점 광고, 상품 목록 나열",ok,claude-sonnet-5-5,v0.1-draft
+S0349,가정·사교·공동체,일상·사교형,medium,"낭송·합창 등 크리스마스 프로그램 순서; 학교/교회 행사, 예배 중심 아님",ok,claude-sonnet-5-5,v0.1-draft
+S0142,가정·사교·공동체,일상·사교형,high,크리스마스를 부모와 함께 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.1-draft
+S0374,가정·사교·공동체,자선·나눔형,high,구세군 등 단체가 가난한 가정을 돕는 구호 활동 안내,ok,claude-sonnet-5-5,v0.1-draft
+S0473,가정·사교·공동체,일상·사교형,high,크리스마스를 가족과 보내는 개인 사교 소식과 장식 심사 소식,ok,claude-sonnet-5-5,v0.1-draft
+S0376,가정·사교·공동체,일상·사교형,high,크리스마스 당일 손님으로 방문한 개인 사교 소식,ok,claude-sonnet-5-5,v0.1-draft
+S0180,가정·사교·공동체,일상·사교형,high,크리스마스 만찬 손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.1-draft
+S0558,가정·사교·공동체,일상·사교형,high,"클럽 가족 크리스마스 파티, 게임과 트리 장식 등 사교 소식",ok,claude-sonnet-5-5,v0.1-draft
+S0045,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 프로그램(낭독, 노래, 산타, 트리); 앞부분은 약광고 잡음",ok,claude-sonnet-5-5,v0.1-draft
+S0626,가정·사교·공동체,일상·사교형,high,크리스마스 주말 친척 방문·가족 모임 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.1-draft
+S0435,가정·사교·공동체,일상·사교형,high,크리스마스에 친척 집을 방문했다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.1-draft
+S0009,가정·사교·공동체,일상·사교형,high,"학교 크리스마스 프로그램(노래, 암송) 목록",ok,claude-sonnet-5-5,v0.1-draft
+S0369,가정·사교·공동체,일상·사교형,medium,"주일학교 프로그램, 선물 배부, 양로원 크리스마스 트리 등 공동체 행사",ok,claude-sonnet-5-5,v0.1-draft
+S0569,상업·소비,판촉·광고형,high,"보석상 크리스마스 특가 시계 판매 광고, 영업시간 안내",ok,claude-sonnet-5-5,v0.1-draft
+S0307,시사·기타,시사·단신,medium,크리스마스 로즈 재배에 관한 원예 기사로 어느 분류에도 맞지 않음,ok,claude-sonnet-5-5,v0.1-draft
+S0779,가정·사교·공동체,일상·사교형,medium,주니어 가든클럽 아이들이 퍼레이드에서 캐럴을 부르는 지역 공동체 행사 사진 설명,ok,claude-sonnet-5-5,v0.1-draft
+S0333,가정·사교·공동체,일상·사교형,high,"크리스마스 만찬을 준비하는 가정 이야기(칠면조, 크랜베리 소스)",ok,claude-sonnet-5-5,v0.1-draft
+S0609,가정·사교·공동체,일상·사교형,high,크리스마스 휴가에 부모를 방문하는 개인 사교 소식,ok,claude-sonnet-5-5,v0.1-draft
+S0362,가정·사교·공동체,일상·사교형,medium,병원 크리스마스 장식과 간호사 트리 행사 등 공동체 행사 묘사,ok,claude-sonnet-5-5,v0.1-draft
+S0389,가정·사교·공동체,일상·사교형,high,크리스마스 만찬과 가족 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.1-draft
+S0334,가정·사교·공동체,일상·사교형,low,"소설풍 가정 장면, 크리스마스 이브 식사와 대화",ok,claude-sonnet-5-5,v0.1-draft
+S0090,시사·기타,시사·단신,high,부고 기사에서 Christmas eve는 날짜 표시로만 쓰임,ok,claude-sonnet-5-5,v0.1-draft
+S0757,가정·사교·공동체,일상·사교형,medium,가족의 새 딸 출생과 크리스마스 전통을 회고하는 개인 가정 이야기,ok,claude-sonnet-5-5,v0.1-draft
+S0215,종교·기원,예배·신학,medium,크리스마스 종 시가 그리스도 탄생 소식을 전함,ok,claude-sonnet-5-5,v0.1-draft
+S0788,상업·소비,판촉·광고형,medium,"상점(Wilson's Flower Box, Ben Franklin Store)의 연말 인사 광고 형식",ok,claude-sonnet-5-5,v0.1-draft
+S0099,가정·사교·공동체,일상·사교형,high,지역 소식난: 교회 크리스마스 트리 행사 참석 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.1-draft
+S0036,가정·사교·공동체,일상·사교형,high,크리스마스를 딸과 보내는 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.1-draft
+S0418,상업·소비,판촉·광고형,high,상점 주인이 고객에게 전하는 성탄·新年 인사 광고,ok,claude-sonnet-5-5,v0.1-draft
+S0655,가정·사교·공동체,일상·사교형,high,크리스마스 당일 친지 집에서 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.1-draft
+S0097,가정·사교·공동체,일상·사교형,high,친지와 크리스마스를 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.1-draft
+S0456,가정·사교·공동체,일상·사교형,medium,지역 사교 단신: 크리스마스 휴가를 집에서 보냄,ok,claude-sonnet-5-5,v0.1-draft
+S0652,가정·사교·공동체,일상·사교형,high,가족 크리스마스 모임 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.1-draft
+S0460,상업·소비,판촉·광고형,high,"Halsey Drug, Gem Cafe 등 상점의 연말 인사·감사 광고",ok,claude-sonnet-5-5,v0.1-draft
+S0356,종교·기원,예배·신학,high,"크리스마스 예배 음악 순서, 성가대 행렬과 캐럴 안내",ok,claude-sonnet-5-5,v0.1-draft
+S0760,상업·소비,판촉·광고형,medium,사무용품 상점의 광고에 실린 성탄 인사말(상인의 계절 인사),ok,claude-sonnet-5-5,v0.1-draft
