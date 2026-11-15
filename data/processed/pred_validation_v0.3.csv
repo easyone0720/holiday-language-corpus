@@ -1,0 +1,46 @@
+﻿snippet_id,category,sub_type,confidence,rationale,status,model,prompt_version
+S0529,종교·기원,기원·역사해설,medium,청교도의 성탄 금지 역사 해설; 백악관 트리 사진 설명이 섞임,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0699,가정·사교·공동체,일상·사교형,high,크리스마스를 딸 가족과 보내러 온 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0192,가정·사교·공동체,일상·사교형,high,"가정에서 크리스마스 이브 모임, 트리, 산타 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0154,종교·기원,예배·신학,medium,감리교회가 주최한 성탄 행사 순서(암송·노래); 교회 주관 규칙 적용,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0081,가정·사교·공동체,일상·사교형,high,지역 소식란; 크리스마스를 집에서 보내러 온 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0557,가정·사교·공동체,일상·사교형,high,"지역 사교 소식, 청년모임·클럽의 크리스마스 파티",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0507,종교·기원,예배·신학,low,짧은 연애 이야기 뒤에 베들레헴 아기 예수를 찬양하는 시가 이어짐. 내용이 섞여 있음.,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0163,가정·사교·공동체,일상·사교형,medium,"병원 크리스마스 행사: 트리, 저녁식사, 시가 등 세속적 공동체 행사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0526,시사·기타,시사·단신,medium,"White Christmas 노래의 음악사·판매 기록 해설, 어느 범주에도 맞지 않음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0729,종교·기원,예배·신학,medium,"교회 성탄 예배 안내가 키워드 가까이에 있고, 공원 캐럴 모임이 뒤따름",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0345,상업·소비,판촉·광고형,high,"""마지막 크리스마스 선물"" 상품 목록 광고, 법원 기사는 무관",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0349,종교·기원,예배·신학,medium,"찬송·성경적 낭독이 있는 크리스마스 프로그램 순서, 교회 주관으로 추정",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0142,가정·사교·공동체,일상·사교형,high,크리스마스를 부모와 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0374,가정·사교·공동체,자선·나눔형,high,여러 단체가 가난한 가정을 돕는 구호 활동 안내,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0473,가정·사교·공동체,일상·사교형,high,"크리스마스를 가족과 보낸 개인 소식, 여성클럽 장식 심사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0376,가정·사교·공동체,일상·사교형,high,크리스마스 날 손님·방문을 전하는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0180,가정·사교·공동체,일상·사교형,high,크리스마스 만찬 손님을 알리는 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0558,가정·사교·공동체,일상·사교형,high,"클럽 주최 가족 크리스마스 파티, 게임과 트리, 선물 교환",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0045,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 프로그램(암송, 노래, 산타, 트리); 교회 주관 표시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0626,가정·사교·공동체,일상·사교형,high,크리스마스 주말을 친척과 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0435,가정·사교·공동체,일상·사교형,high,크리스마스에 친지가 방문했다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0009,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 프로그램 순서, 교회 주최 언급 없음; 캐럴 일부 포함",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0369,가정·사교·공동체,일상·사교형,low,키워드 인근은 홈의 크리스마스 트리 장식; 앞부분 주일학교 선물 배분과 혼재,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0569,상업·소비,판촉·광고형,high,"보석상 크리스마스 특가 시계 광고, 가격과 영업시간 안내",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0307,시사·기타,시사·단신,medium,크리스마스 로즈 재배에 관한 원예 기사로 어느 범주에도 맞지 않음,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0779,가정·사교·공동체,일상·사교형,high,정원 클럽 어린이들이 퍼레이드에서 캐럴을 부르는 지역 행사 사진 설명,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0333,가정·사교·공동체,일상·사교형,high,크리스마스 만찬을 준비하는 가정 이야기(소설풍),ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0609,가정·사교·공동체,일상·사교형,high,크리스마스 휴가를 부모와 보내려 도착했다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0362,가정·사교·공동체,일상·사교형,medium,"병원 크리스마스 장식과 트리 중심, 미사·성화는 배경 요소",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0389,가정·사교·공동체,일상·사교형,high,크리스마스 가족 저녁식사와 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0334,가정·사교·공동체,일상·사교형,low,"크리스마스 이브 부부 일상 장면의 소설 조각, 식사 언급",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0090,시사·기타,시사·단신,high,부고 기사에서 크리스마스 이브는 날짜 표지로만 쓰임,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0757,가정·사교·공동체,일상·사교형,medium,새 딸과 함께한 가족 크리스마스 추억담; 개인적 가정 회고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0215,종교·기원,예배·신학,medium,"크리스마스 종 시, 그리스도 탄생 소식을 찬미하는 서정시",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0788,상업·소비,판촉·광고형,high,"상호(Wilson's Flower Box, Ben Franklin Store)가 붙은 성탄 인사 광고",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0099,가정·사교·공동체,일상·사교형,medium,"지역 사교 소식, 교회 크리스마스 트리 참석이며 교회는 장소일 뿐",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0036,가정·사교·공동체,일상·사교형,high,"개인 소식: 크리스마스를 딸과 함께 보내려 포틀랜드로 떠남, 휴가 귀가",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0418,상업·소비,판촉·광고형,high,"사업체와 주인 명기, 고객에게 보내는 성탄·새해 인사 광고",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0655,가정·사교·공동체,일상·사교형,high,크리스마스 당일 친척 집에서 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0097,가정·사교·공동체,일상·사교형,high,친척과 함께 크리스마스를 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0456,가정·사교·공동체,일상·사교형,medium,"지역 개인 소식란, 크리스마스 휴가를 집에서 보냄",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0652,가정·사교·공동체,일상·사교형,high,"지역 사교 소식, 가족 크리스마스 모임",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0460,상업·소비,판촉·광고형,high,"Halsey Drug, Gem Cafe 등 상호가 명시된 성탄 인사 광고",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0356,종교·기원,예배·신학,high,"미사 음악, 봉헌송, 찬송가, 성탄절 예배 순서 안내",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0760,상업·소비,판촉·광고형,high,상호(Gaffaney's)가 명시된 업체의 성탄 인사 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
