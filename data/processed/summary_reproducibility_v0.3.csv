@@ -1,0 +1,4 @@
+﻿metric,n,n_match,agreement_pct,differing_ids
+category,45,44,97.8,S0507
+sub_type,45,44,97.8,S0507
+category+sub_type,45,44,97.8,S0507

@@ -1,0 +1,15 @@
+﻿section,item,n,pct
+category,종교·기원,159,20.2
+category,가정·사교·공동체,492,62.4
+category,상업·소비,93,11.8
+category,시사·기타,44,5.6
+sub_type,예배·신학,123,15.6
+sub_type,기원·역사해설,36,4.6
+sub_type,일상·사교형,466,59.1
+sub_type,자선·나눔형,26,3.3
+sub_type,판촉·광고형,75,9.5
+sub_type,상업화 비판·성찰형,18,2.3
+sub_type,시사·단신,44,5.6
+confidence,high,431,54.7
+confidence,medium,261,33.1
+confidence,low,96,12.2
