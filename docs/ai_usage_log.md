@@ -1,25 +1,39 @@
 # AI 활용 기록
 
-작업 시각(KST)·모델·변경 파일·판단 근거를 시간순으로 적는다.
+- **사용 모델**: Claude Sonnet 5.5 (`claude-sonnet-5-5`)
+- **연구 원칙**: 원본 코퍼스 읽기 전용 유지, OCR 오탈자 임의 교정 금지, 검증 표본 데이터 누수(leakage) 방지 및 모든 수정 전 연구자 승인 필수
 
-## 초기 작업 (시각·내용 보충 예정)
+## 1. 2026-11-15 오전 5시대 (KST) — 데이터 진단 및 파이프라인 초안 작성
+- **생성·수정 파일**: 없음 (읽기 전용 진단, 임시 환경에서 dry-run 수행)
+- **주요 내용**: `*_page` / `*_text` 원본 35쌍 구조 점검, OCR 노이즈 진단, KWIC 정제 코드 및 분류 프롬프트 초안 작성
+- **판단 근거**: 원본 데이터 무결성을 위해 읽기 전용으로 점검하고, OCR 오탈자를 인위적으로 교정하지 않는 정제 순서를 설계함
 
-| # | 일시(KST) | 모델 | 파일 | 주요 변경 및 판단 근거 |
-|---|---|---|---|---|
-| A | 2026-11-15 ( ) | ( ) | 프로젝트 폴더 변경 없음(읽기 전용) | 데이터 현황·쌍(pair) 점검, full_text 노이즈 진단 |
-| B | 2026-11-15 ( ) | ( ) | src/parse_and_clean.py, src/make_samples.py, data/processed/kwic_snippets.csv, sample_design_20.csv, sample_validation_45.csv, data/labels/manual_labels_validation45.csv | 정제·KWIC 추출 코드 저장 및 실행, 설계 20·검증 45 표본 분리 |
-| C | 2026-11-15 ( ) | ( ) | docs/category_definitions.md | 4대 범주·sub_type 정의, 경계 규칙 |
-| D | 2026-11-15 ( ) | ( ) | src/classify_kwic.py(최초 저장) | 분류 스크립트 초안 저장(API 실행 보류) |
+## 2. 2026-11-15 오전 5시대 (KST) — 1·2단계 전처리 실행 및 표본 추출
+- **생성·수정 파일**: `src/parse_and_clean.py`, `src/make_samples.py`, `src/classify_kwic.py`, `data/processed/kwic_snippets.csv`, `data/processed/sample_design_20.csv`, `data/processed/sample_validation_45.csv`, `data/labels/manual_labels_validation45.csv`, `docs/category_definitions.md`, 프로젝트 기획서(3.1 표본 규모 788조각 반영)
+- **주요 내용**: 전체 788개 KWIC 조각 추출 및 정제, 설계용 표본(20건)과 검증용 표본(45건) 비복원 추출, 범주 정의서(코드북) 작성
+- **판단 근거**: 비중첩(strict) 30단어 윈도우와 소문자 앞 하이픈 결합 규칙을 적용하고, 노이즈 기호(`* _ \ ~ { }`) 제거 범위를 확대함. 설계용과 검증용 표본을 한 번에 비복원 추출하여 표본 간 중복을 원천 차단함
 
-## 2026-11-15 작업 기록
+## 3. 2026-11-15 오전 7시대 (KST) — 3단계 검증 환경 구축 및 다중 프롬프트 구조 구현
+- **생성·수정 파일**: `src/classify_kwic.py`, `src/evaluate_validation.py`, `requirements.txt`, `CLAUDE.md`, 프로젝트 기획서(2.2, 4.2, 5.1, 5.2)
+- **주요 내용**: 프롬프트 버전 선택(`v0.1-draft`, `v0.2-edge-rules`) 실행 옵션 구현, 혼동 행렬 및 Cohen's kappa 산출 평가 스크립트 작성
+- **판단 근거**: 검증 표본에서 도출된 경계 규칙을 일반화(특정 상호명·OCR 예시 배제)하여 데이터 누수를 통제하고, 순수 기준선(`v0.1`)과 보정본(`v0.2`)을 모두 비교 보고할 수 있도록 재현 가능한 파이프라인을 구축함
 
-| # | 일시(KST) | 모델 | 파일 | 주요 변경 및 판단 근거 |
-|---|---|---|---|---|
-| 1 | 2026-11-15 7시대 | Claude Sonnet 5.5 (claude-sonnet-5-5) | 프로젝트 폴더 변경 없음 | 임시 폴더에서 evaluate_validation.py 가짜 예측 테스트. 라벨 파일은 무변경으로 읽기만 수행. 일반화 방안과 평가 순서 대안 제시 |
-| 2 | 2026-11-15 7시대 | Claude Sonnet 5.5 (claude-sonnet-5-5) | src/classify_kwic.py(수정), src/evaluate_validation.py, requirements.txt(신규 내용), CLAUDE.md, 프로젝트_기획서 | API 키 부재로 파일럿 보류, 다중 프롬프트 선택 구조 구현 |
-| 3 | 2026-11-15 8시대 | Claude Sonnet 5.5 (claude-sonnet-5-5) | 프로젝트 폴더 변경 없음 | 예측 파일 status와 diff 분석으로 SDK 시그니처 원인 특정 |
-| 4 | 2026-11-15 8시대 | Claude Sonnet 5.5 (claude-sonnet-5-5) | src/classify_kwic.py(덮어쓰기), requirements.txt(python-dotenv 추가) | 승인된 수정안 반영, .env는 열람하지 않는 원칙 준수 |
-| 5 | 2026-11-15 9시대 | Claude Sonnet 5.5 (claude-sonnet-5-5) | 프로젝트 폴더 변경 없음 | 공식 문서 확인 후 forced tool_choice, temperature, thinking 제약을 모의 테스트 |
-| 6 | 2026-11-15 9시대 | Claude Sonnet 5.5 (claude-sonnet-5-5) | src/classify_kwic.py(수정) | tool_choice를 auto로 변경, strict 추가, max_tokens 4096 확대, 도구 호출 지시문 추가, 도구 호출이 없으면 CHECK 기록 |
-| 7 | 2026-11-15 9시대 | Claude Sonnet 5.5 (claude-sonnet-5-5) | 프로젝트 폴더 변경 없음(pred·eval CSV는 읽기 전용) | v0.1/v0.2 예측 대조(category 차이는 S0729 1건), v0.3 프롬프트 초안 제안 |
-| 8 | 2026-11-15 9시대 | Claude Sonnet 5.5 (claude-sonnet-5-5) | src/classify_kwic.py(v0.3-presenter-rule 추가), docs/ai_usage_log.md(신규 내용) | 주관 주체 기준 규칙 추가(고유명사·조각 ID 없음, S0362 전용 예외 없음). v0.3 수치는 검증 표본을 관찰한 뒤 보정한 탐색적 수치이며 공식 기준선은 v0.1(86.7%, kappa 0.749) |
+## 4. 2026-11-15 오전 8시대 (KST) — API 호출 오류 진단 및 `.env` 환경변수 지원 반영
+- **생성·수정 파일**: `src/classify_kwic.py`, `requirements.txt`(`python-dotenv` 추가)
+- **주요 내용**: 초기 API 호출 실패 원인(SDK 시그니처 불일치 및 `temperature` 인자 오류) 진단 및 `.env` 자동 로드 반영
+- **판단 근거**: 예측 파일의 `status` 로그 및 diff 분석으로 호출부 오류를 특정하고, 보안을 위해 `.env` 파일은 직접 열람하지 않는 원칙을 준수하여 수정 반영함
+
+## 5. 2026-11-15 오전 9시대 (KST) — Sonnet 5.5 모델 제약 대응(`tool_choice` 및 `max_tokens` 수정)
+- **생성·수정 파일**: `src/classify_kwic.py`
+- **주요 내용**: `tool_choice`를 `auto`로 변경, `strict: True` 스키마 적용, `max_tokens` 4096 확대, 도구 호출 지시문 추가 및 미호출 응답 `CHECK` 기록 처리
+- **판단 근거**: 공식 문서 확인 결과 `claude-sonnet-5-5`가 강제 `tool_choice` 및 기본값이 아닌 `temperature`를 400 오류로 거부하고 기본 thinking 토큰을 소비하므로, 호환성과 안정성을 확보하도록 호출 구조를 개선함
+
+## 6. 2026-11-15 오전 9시대 (KST) — `v0.3-presenter-rule` 프롬프트 반영 및 AI 활용 기록 통합
+- **생성·수정 파일**: `src/classify_kwic.py`(`v0.3-presenter-rule` 추가), `docs/ai_usage_log.md`
+- **주요 내용**: `v0.1`·`v0.2` 예측 대조 후 행사 주관 주체(교회·주일학교 등 종교 기관 여부) 기준 `v0.3-presenter-rule` 추가 및 전체 AI 활용 기록 통합 정리
+- **판단 근거**: 기존 프롬프트의 해시 불변성을 유지한 채 일반화된 주체 판정 규칙만 새 상수로 추가하고 `--dry-run` 검증을 마침. 검증 표본 재사용에 따른 낙관적 편향을 감안하여 `v0.1`을 공식 기준선, `v0.3`을 탐색적 개선 수치로 구분 보고하기로 확정함
+
+## 7. 2026-11-15 오전 10시대 (KST) — 전체 코퍼스 분석·시각화 스크립트(`analyze_corpus.py`) 초안 작성 및 검증
+- **생성·수정 파일**: `src/analyze_corpus.py`(신규), `docs/ai_usage_log.md`
+- **주요 내용**: `pred_full_v0.3.csv`와 `kwic_snippets.csv` 병합 무결성 검증(788행·전부 ok), 전체 분포·버전 비교(v0.1/v0.2/v0.3)·재현성 표, 시기×범주 집계(`n_pages`, `top_page_share`), 면 단위 민감도 표, 하위 유형·신뢰도 보조 표, 시기별 100% 누적 막대 그래프 구현. 임시 폴더에서 실제 데이터로 실행해 수치(v0.1 88.9%·kappa 0.786, v0.2 86.7%·0.738, v0.3 91.1%·0.838)와 덮어쓰기 방지·한글 폰트 처리를 검증한 뒤 승인받아 저장
+- **판단 근거**: 점수는 하드코딩 없이 라벨·예측 파일에서 재계산하고, `--write` 없이는 저장하지 않으며 기존 파일은 덮어쓰지 않도록 설계함. v0.3 수치는 검증 표본 관찰 후 보정한 탐색적 결과이고, 시기당 5개 면 표본이라 같은 면의 조각이 독립이 아님을 그림 주석에 명시함

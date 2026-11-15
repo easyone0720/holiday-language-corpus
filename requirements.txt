@@ -3,3 +3,5 @@ numpy
 rapidfuzz
 pyspellchecker
 anthropic
+python-dotenv
+matplotlib
