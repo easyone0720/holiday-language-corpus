@@ -1,0 +1,789 @@
+﻿snippet_id,category,sub_type,confidence,rationale,status,model,prompt_version
+S0001,가정·사교·공동체,일상·사교형,high,"공립학교 크리스마스 연예 프로그램, 종교단체 주관 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0002,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 프로그램 순서(노래, 산타 편지); 종교단체 주관 표시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0003,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 프로그램 순서(노래, 낭송); 교회 주관 언급 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0004,가정·사교·공동체,일상·사교형,medium,"학교식 크리스마스 프로그램 순서(산타 낭송, 노래); 교회 주관 표시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0005,가정·사교·공동체,일상·사교형,medium,학교 교실 크리스마스 프로그램(낭송·독창); 교회 주최 표시 없음,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0006,가정·사교·공동체,일상·사교형,high,"학교 크리스마스 프로그램(피아노 독주, 산타에게 편지, 캐럴), 교회 주관 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0007,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 프로그램 목록(낭송·노래), 교회 주관 불명, 산타 중심",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0008,가정·사교·공동체,일상·사교형,high,"학교 크리스마스 프로그램(노래, 낭독, 산타 역할) 순서, 종교단체 주관 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0009,가정·사교·공동체,일상·사교형,medium,학교 크리스마스 프로그램 순서; 교회 주관 표시 없고 세속 노래·낭송 위주,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0010,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 프로그램 순서(낭송, 노래); 교회 주관 표시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0011,가정·사교·공동체,일상·사교형,medium,"학교 학년 크리스마스 프로그램(암송·노래), 교회 주관 표시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0012,가정·사교·공동체,일상·사교형,medium,"학교 학급 크리스마스 프로그램 순서, 교회 주관 표시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0013,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 프로그램 순서(낭송, 노래); 교회 주최 표시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0014,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 연주회 프로그램(낭송·노래), 교회 주관 표시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0015,가정·사교·공동체,일상·사교형,medium,크리스마스 이브 학교 행사 기대와 바스켓 소셜 등 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0016,가정·사교·공동체,일상·사교형,high,"크리스마스 이브 친구 초대, 여행 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0017,시사·기타,시사·단신,high,노조 모임 취소 공지에서 크리스마스는 날짜 표지로만 쓰임,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0018,상업·소비,판촉·광고형,high,크리스마스 쇼핑 선물 구매를 권하는 상점 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0019,가정·사교·공동체,일상·사교형,medium,공립학교 크리스마스 축하 프로그램이 중심; 앞의 보석상 광고는 부수적,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0020,가정·사교·공동체,일상·사교형,high,"학교 크리스마스 프로그램, 산타와 트리, 칸타타 - 세속적 학교 행사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0021,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 연예 프로그램, 교회 주최 표시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0022,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 프로그램(암송·노래·대화극), 교회 주관 표시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0023,가정·사교·공동체,일상·사교형,medium,"Santa·양말 암송과 노래 순서표, 주최 교회 언급 없어 세속 행사로 판단",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0024,가정·사교·공동체,일상·사교형,medium,"학교 학년별 크리스마스 프로그램(노래·낭송), 교회 주최 표시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0025,가정·사교·공동체,일상·사교형,medium,"학생 낭송·노래 프로그램, 산타 중심, 교회 주관 표시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0026,가정·사교·공동체,일상·사교형,medium,학년별 학교 크리스마스 프로그램; 교회 주관 표시 없고 산타·트리 포함,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0027,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 프로그램 순서, 교회 주최 표시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0028,가정·사교·공동체,일상·사교형,medium,학교 학년별 크리스마스 프로그램 순서; 교회 주관 표시 없음,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0029,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 프로그램(낭송·노래), 교회 주관 표시 없고 산타 중심",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0030,상업·소비,판촉·광고형,high,"크리스마스 상품 상점 광고, 약·시가 광고 혼재",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0031,상업·소비,판촉·광고형,high,크리스마스 선물·초콜릿 등 상품 판매 광고 문구,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0032,상업·소비,판촉·광고형,high,"크리스마스 만찬용 식료품 상점 광고, 최저가 홍보",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0033,상업·소비,판촉·광고형,high,약국의 크리스마스 선물·상품 재고 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0034,상업·소비,판촉·광고형,high,"상점 광고: 크리스마스 카드, 선물 품목 나열, 방문 권유",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0035,상업·소비,판촉·광고형,high,"크리스마스용 시계 판매 상점 광고, 가격·품질 보증 강조",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0036,가정·사교·공동체,일상·사교형,high,"개인 사교 소식: 딸과 함께 크리스마스를 보내러 떠남, 휴가 귀가",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0037,가정·사교·공동체,일상·사교형,medium,크리스마스 방학을 부모와 보내는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0038,종교·기원,예배·신학,medium,교회 주일학교가 주관하는 성탄 프로그램 안내(규칙 2),ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0039,종교·기원,예배·신학,medium,"교회 주관 어린이 행사, 목사의 예수 탄생 설교와 트리 행사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0040,종교·기원,예배·신학,low,"성탄 프로그램 순서(찬송, 낭송), religious 곡명; 주최 불명확하여 낮은 확신",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0041,종교·기원,예배·신학,high,"교회 크리스마스 예배 순서: 성가, 봉헌송, 베들레헴 아기 찬양",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0042,종교·기원,예배·신학,high,"교회 주일 저녁 크리스마스 프로그램: 찬송, 기도, 암송 순서",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0043,가정·사교·공동체,일상·사교형,low,"학교·교실 순서의 낭송과 노래 프로그램, 주최 교회 불명확",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0044,가정·사교·공동체,일상·사교형,low,"크리스마스 프로그램 순서(암송·노래)이나 주최 불명, 교회 언급 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0045,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 프로그램(암송, 노래, 산타, 트리); 교회 주관 표시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0046,종교·기원,예배·신학,low,"Sunday school식 프로그램 순서, ""Gifts for Jesus""; 주최 불명확",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0047,종교·기원,예배·신학,high,"교회 공지: 성탄 음악과 설교, 주일학교 성탄 연주회, 찬송 순서",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0048,종교·기원,예배·신학,high,교회 예배·성찬식 및 주일학교 트리 안내 공지,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0049,종교·기원,예배·신학,medium,"교회 예배 공고 속 성탄 음악회와 트리 행사, 교회 주관",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0050,종교·기원,예배·신학,medium,감리교회 주일학교가 크리스마스 트리와 음악회를 주최(규칙 2),ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0051,상업·소비,판촉·광고형,high,"의류점 광고, 할인가와 크리스마스 쇼핑 권유",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0052,가정·사교·공동체,일상·사교형,high,"지역 소식: 크리스마스 만찬, 트리, 선물, 가족 모임",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0053,가정·사교·공동체,일상·사교형,high,크리스마스 휴일에 부모를 방문한 손님들의 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0054,종교·기원,예배·신학,high,"크리스마스 설교, 성경 본문, 특별 음악 등 예배 보도",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0055,종교·기원,예배·신학,medium,"채플 예배, 어린이 합창과 캐럴 독창, 크리스마스 장식 언급",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0056,가정·사교·공동체,일상·사교형,medium,"지역 사교 단신: 우편배달부가 크리스마스에 선물을 받음, 손님 방문 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0057,종교·기원,예배·신학,medium,침례교 주일학교가 교회에서 연 크리스마스 트리 음악회·낭송 프로그램,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0058,가정·사교·공동체,일상·사교형,high,크리스마스 휴일을 부모와 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0059,가정·사교·공동체,일상·사교형,high,"학교 교실에서 열린 크리스마스 트리 행사, 종교 단체 주관 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0060,가정·사교·공동체,일상·사교형,medium,"학교 합동 크리스마스 프로그램, 낭독 위주, 교회 주관 불명확",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0061,가정·사교·공동체,일상·사교형,medium,"어린이 낭송·학급 발표 프로그램, 교회 주관 언급 없고 세속적 내용",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0062,가정·사교·공동체,일상·사교형,medium,"크리스마스 콘서트와 트리, 목사 선물 등 지역 사교 소식; 교회 주관 명시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0063,가정·사교·공동체,일상·사교형,high,"지역 사교 소식, 친척과 함께 크리스마스를 보냈다는 내용",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0064,가정·사교·공동체,일상·사교형,high,"가족 크리스마스 만찬과 트리, 친척 방문 등 지역 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0065,가정·사교·공동체,일상·사교형,high,크리스마스 휴일 손님·방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0066,가정·사교·공동체,일상·사교형,high,"지역 인사 소식: 아들이 크리스마스에 귀가, 이웃 크리스마스 트리 행사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0067,가정·사교·공동체,일상·사교형,medium,지역 인사 소식 중 크리스마스 날 아팠다는 개인 사교 단신,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0068,종교·기원,예배·신학,medium,"침례교회에서 연 성탄 행사, 사중창 등 교회 주관 프로그램",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0069,가정·사교·공동체,일상·사교형,medium,"크리스마스 트리 선물 나눔 행사와 지역 사교 소식, 주최 종교단체 불명",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0070,가정·사교·공동체,일상·사교형,medium,"학교 도서관에 크리스마스 선물로 책 기증, 지역 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0071,가정·사교·공동체,일상·사교형,high,"개인 사교 소식: 크리스마스를 친척과 보냄, 방문 기록",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0072,가정·사교·공동체,일상·사교형,high,크리스마스를 부모와 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0073,가정·사교·공동체,일상·사교형,high,"지역 소식란, 크리스마스를 부모와 함께 보냈다는 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0074,가정·사교·공동체,일상·사교형,high,"지역 사교 소식: 크리스마스 트리 행사, 친지 방문 등",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0075,가정·사교·공동체,일상·사교형,high,크리스마스를 가족과 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0076,가정·사교·공동체,일상·사교형,high,크리스마스를 친척·친구와 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0077,시사·기타,시사·단신,medium,"지역 소식 단신; 갑작스러운 죽음으로 슬픈 크리스마스, 학교 개학 공지",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0078,가정·사교·공동체,일상·사교형,medium,지역 소식 중 크리스마스 트리 행사가 잘 치러졌다는 사교 단신,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0079,가정·사교·공동체,일상·사교형,high,Santa 역할과 크리스마스 손님 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0080,종교·기원,예배·신학,low,"침례교회 크리스마스 콘서트 언급, 지역 소식 속 단신이라 모호함",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0081,가정·사교·공동체,일상·사교형,high,지역 소식란; 크리스마스를 집에서 보내러 온 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0082,가정·사교·공동체,일상·사교형,medium,"지역 소식란: 친척과 크리스마스를 보냄, 교회에서 열린 콘서트",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0083,가정·사교·공동체,일상·사교형,high,지역 소식 중 크리스마스에 손님을 대접했다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0084,종교·기원,예배·신학,low,"교회에서 열린 크리스마스 트리와 음악회, 주최가 불분명한 지역 단신",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0085,가정·사교·공동체,일상·사교형,high,"지역 소식란: 크리스마스 이브 가족 트리, 부모와 함께 보낸 크리스마스",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0086,가정·사교·공동체,일상·사교형,low,"교회 크리스마스 트리와 여흥 행사 보도, 참석 성황. 글이 심하게 깨짐",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0087,가정·사교·공동체,일상·사교형,high,"지역 사교 소식: 크리스마스 방학, 어머니와 크리스마스를 보냄",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0088,가정·사교·공동체,일상·사교형,high,크리스마스 휴가 중 방문·체류를 다룬 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0089,가정·사교·공동체,일상·사교형,high,"개인 사교 소식: 크리스마스를 딸과 함께 보냄, 방문객 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0090,시사·기타,시사·단신,high,부고 기사에서 크리스마스 이브는 날짜 표지로만 쓰임,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0091,가정·사교·공동체,일상·사교형,medium,"가족 크리스마스 트리, 친척과 보낸 크리스마스 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0092,가정·사교·공동체,일상·사교형,high,크리스마스를 지인 집에서 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0093,가정·사교·공동체,일상·사교형,medium,"채플에서 열린 크리스마스 콘서트·트리 행사, 주최 교회 불명확, 지역 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0094,가정·사교·공동체,일상·사교형,medium,"노래·낭독·크리스 크링글 연극 등 세속적 크리스마스 공연 프로그램, 교회 주관 언급 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0095,가정·사교·공동체,일상·사교형,low,"선물 나눠주는 트리 행사 보도, 위원회 노력 칭찬; 종교적 어구가 섞임",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0096,가정·사교·공동체,일상·사교형,high,지역 인사 소식: 집에서 크리스마스를 보내고 방학 중 귀가,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0097,가정·사교·공동체,일상·사교형,high,친척과 크리스마스를 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0098,종교·기원,예배·신학,low,교회에서 열린 크리스마스 프로그램 언급이나 내용은 간략한 지역 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0099,가정·사교·공동체,일상·사교형,medium,"지역 사교 소식, 교회 크리스마스 트리 참석 언급",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0100,가정·사교·공동체,일상·사교형,medium,"개인 사교 소식; 집에서 크리스마스 방학을 보냄, 학교 행사 언급",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0101,가정·사교·공동체,일상·사교형,high,크리스마스에 친척·손님을 초대한 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0102,가정·사교·공동체,일상·사교형,high,크리스마스에 가족 방문·식사를 전하는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0103,가정·사교·공동체,일상·사교형,high,"지역 인사 소식: 크리스마스 연휴를 지인 집에서 보냄, 방문 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0104,가정·사교·공동체,일상·사교형,high,"개인 소식란: 크리스마스에 아들 출생, 크리스마스를 보냄",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0105,가정·사교·공동체,일상·사교형,high,"지역 사교 단신, 크리스마스에 집에 다녀온 개인 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0106,가정·사교·공동체,일상·사교형,high,"지역 사교 소식: 친구와 크리스마스를 보냄, 글리클럽 트리 행사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0107,가정·사교·공동체,일상·사교형,high,지역 사교 소식: 누구와 함께 크리스마스를 보냄,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0108,가정·사교·공동체,일상·사교형,high,크리스마스 날 손님 방문 등 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0109,가정·사교·공동체,일상·사교형,high,크리스마스 날 가족 초대·방문을 전하는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0110,가정·사교·공동체,일상·사교형,high,Christmas day 가족 모임을 알리는 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0111,가정·사교·공동체,일상·사교형,high,"학교가 연 크리스마스 트리와 여흥 프로그램, 종교 단체 주관 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0112,가정·사교·공동체,일상·사교형,high,크리스마스 휴가 중 손님·방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0113,가정·사교·공동체,일상·사교형,high,"친척 크리스마스 모임, 지인 집에서 보낸 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0114,가정·사교·공동체,일상·사교형,high,가족 방문과 가정 크리스마스 트리를 다룬 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0115,가정·사교·공동체,일상·사교형,high,크리스마스 날 친지 방문을 전하는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0116,가정·사교·공동체,일상·사교형,high,크리스마스 만찬과 가족 트리를 다룬 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0117,가정·사교·공동체,일상·사교형,high,크리스마스를 가족과 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0118,가정·사교·공동체,일상·사교형,medium,"지역 소식란; 주일학교 크리스마스 트리 언급, 개인 사교 소식 중심",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0119,가정·사교·공동체,일상·사교형,high,지역 소식란: 크리스마스를 딸과 함께 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0120,가정·사교·공동체,일상·사교형,high,가족 크리스마스 트리와 방문 등 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0121,가정·사교·공동체,일상·사교형,high,가정 크리스마스 트리 모임과 참석 가족을 전하는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0122,가정·사교·공동체,일상·사교형,high,"가족 모임, 크리스마스 트리와 산타의 선물 나눔 등 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0123,가정·사교·공동체,일상·사교형,medium,크리스마스 저녁 썰매 타고 트리 행사 참석하는 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0124,가정·사교·공동체,일상·사교형,medium,개인 소식: 대학생이 크리스마스 휴가를 부모와 보냄,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0125,가정·사교·공동체,일상·사교형,high,크리스마스를 친척과 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0126,가정·사교·공동체,일상·사교형,high,크리스마스를 친척과 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0127,가정·사교·공동체,일상·사교형,high,"""passed Christmas with"" 형태의 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0128,가정·사교·공동체,일상·사교형,medium,"지역 소식: 크리스마스 콘서트 참석, 성경학교 연례 오락회와 장식된 트리",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0129,가정·사교·공동체,일상·사교형,high,개인 사교 소식: 크리스마스를 친척과 함께 보냄,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0130,가정·사교·공동체,일상·사교형,medium,그레인지 홀 오락회와 크리스마스 트리 등 지역 소식; 교회 행사도 트리 중심,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0131,가정·사교·공동체,일상·사교형,medium,크리스마스에 자녀·손주가 부모 집에 모인 가족 모임 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0132,가정·사교·공동체,일상·사교형,high,학교 교사가 학생에게 크리스마스 카드와 간식을 준 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0133,가정·사교·공동체,일상·사교형,high,크리스마스를 지인 집에서 보낸 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0134,가정·사교·공동체,일상·사교형,high,크리스마스에 귀가·가족 초대 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0135,가정·사교·공동체,일상·사교형,high,크리스마스 가족 모임을 전하는 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0136,가정·사교·공동체,일상·사교형,high,크리스마스를 친척 집에서 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0137,가정·사교·공동체,일상·사교형,high,크리스마스 휴가를 친척과 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0138,가정·사교·공동체,일상·사교형,high,지역 단신: 가족이 친지와 크리스마스를 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0139,가정·사교·공동체,일상·사교형,high,크리스마스를 친지 집에서 보내는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0140,가정·사교·공동체,일상·사교형,high,크리스마스를 친지와 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0141,가정·사교·공동체,일상·사교형,high,크리스마스 방문객과 가족 방문을 다룬 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0142,가정·사교·공동체,일상·사교형,high,크리스마스를 부모와 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0143,가정·사교·공동체,일상·사교형,high,크리스마스 휴가를 부모와 보낸다는 개인 사교 소식과 신년 무도회 초대.,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0144,가정·사교·공동체,일상·사교형,high,"크리스마스 날 손님, 저녁 만찬과 트리 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0145,가정·사교·공동체,자선·나눔형,low,"헤드라인: 교회 행사, 구세군 만찬, 수용자 위문 등 나눔 중심; 우편 기사 혼재",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0146,가정·사교·공동체,일상·사교형,medium,"교회 예배 언급 있으나 선물, 기관 행사, 크리스마스 트리 등 공동체 축제 묘사 중심",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0147,종교·기원,예배·신학,medium,"교회 음악 프로그램과 주일학교 트리 행사가 중심, 휴일 근무 단신은 부수적",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0148,가정·사교·공동체,일상·사교형,high,"그레인지(공동체 단체)가 연 크리스마스 트리 행사, 선물 분배",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0149,종교·기원,예배·신학,medium,"교회 주일학교가 주최한 크리스마스 트리 행사, 규칙 2 적용",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0150,종교·기원,예배·신학,medium,"기도, 캐럴, 예수 탄생 낭송 등 교회학교 성탄 프로그램 순서",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0151,종교·기원,예배·신학,low,"크리스마스 프로그램 순서, 찬송·낭송; 주관 단체 불명",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0152,종교·기원,예배·신학,medium,"교회 주일학교가 주최한 크리스마스 프로그램(낭송·노래), 산타와 트리도 언급",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0153,가정·사교·공동체,일상·사교형,medium,"아이들의 크리스마스 낭송·노래 프로그램 순서, 교회 주관 언급 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0154,종교·기원,예배·신학,medium,감리교회가 주관한 성탄 행사 순서(암송·노래); 규칙 2 적용,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0155,가정·사교·공동체,일상·사교형,medium,칸타타 후 크리스마스 트리 선물 배분; 구세군 만찬 기사 혼재,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0156,종교·기원,예배·신학,medium,"기사단의 성탄 의식: 오르간, 목사의 복음 낭독, 사중창 등 예배 성격",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0157,가정·사교·공동체,일상·사교형,medium,"공제회 모임에서 단장에게 보낸 성탄·신년 인사 전문, 사교적 교류",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0158,가정·사교·공동체,일상·사교형,medium,"기사단(Templar) 회원에게 보내는 크리스마스 인사, 친목·우애 강조",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0159,가정·사교·공동체,자선·나눔형,medium,기사단에 지난 성탄절처럼 자선을 베풀라고 당부하는 내용,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0160,가정·사교·공동체,자선·나눔형,high,구세군 식료품 바구니를 가난한 이들에게 나눠줌,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0161,가정·사교·공동체,일상·사교형,medium,"아동 보호시설의 크리스마스 트리, 프로그램, 만찬 행사 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0162,가정·사교·공동체,자선·나눔형,medium,시설 수용자에게 의류·사탕·케이크를 나눠준 기부 내용,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0163,가정·사교·공동체,일상·사교형,medium,"병원 크리스마스 행사: 트리, 저녁식사, 시가 등 세속적 공동체 행사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0164,가정·사교·공동체,자선·나눔형,high,기금으로 가난한 아이들 225명에게 선물 나눔,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0165,가정·사교·공동체,일상·사교형,medium,"""Christmas at the Hotels"" 크리스마스 메뉴와 손님 식사 소식; 구빈원 기부는 앞부분",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0166,가정·사교·공동체,일상·사교형,high,"크리스마스 날 81세 생일 축하와 방문객, 댄스파티 등 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0167,가정·사교·공동체,일상·사교형,high,가족 크리스마스 만찬과 트리 모임을 전하는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0168,가정·사교·공동체,일상·사교형,medium,"교회에서 열린 크리스마스 트리 행사의 지역 소식, 장식과 선물 위주",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0169,가정·사교·공동체,일상·사교형,medium,"크리스마스 저녁 가정 결혼식, 개인 사교 소식; 날짜 표지 성격도 있음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0170,가정·사교·공동체,일상·사교형,high,"지역 소식란, 크리스마스 주간을 부모 집에서 보낸 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0171,가정·사교·공동체,일상·사교형,high,"가족 크리스마스 트리, 부모와 보낸 크리스마스 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0172,가정·사교·공동체,일상·사교형,high,크리스마스 손님 방문 등 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0173,가정·사교·공동체,일상·사교형,medium,크리스마스 방학을 집에서 보낸다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0174,가정·사교·공동체,일상·사교형,high,크리스마스 방문·손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0175,가정·사교·공동체,일상·사교형,high,크리스마스에 자매와 아들들을 초대했다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0176,가정·사교·공동체,일상·사교형,high,크리스마스를 부모와 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0177,가정·사교·공동체,일상·사교형,high,크리스마스 휴일 방문·손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0178,가정·사교·공동체,일상·사교형,high,개인 사교 소식: 크리스마스에 어머니와 며칠 보냄,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0179,가정·사교·공동체,일상·사교형,high,크리스마스를 친지와 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0180,가정·사교·공동체,일상·사교형,high,크리스마스 만찬 손님을 알리는 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0181,가정·사교·공동체,일상·사교형,high,"지역 사교 소식: 크리스마스 트리 행사, 휴가를 가족과 보냄",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0182,종교·기원,예배·신학,medium,"감리교회 연합 성탄 예배와 트리 행사 중심, 앞부분은 사교 소식이 섞임",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0183,가정·사교·공동체,일상·사교형,high,크리스마스 날 친척 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0184,가정·사교·공동체,일상·사교형,high,크리스마스를 부모 집에서 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0185,가정·사교·공동체,일상·사교형,medium,"지역 소식란의 크리스마스 트리 행사; 교회는 장소로만 언급, 예배 초점 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0186,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 프로그램(암송, 운동, 노래), 교회 주관 표시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0187,종교·기원,예배·신학,medium,교회·주일학교가 크리스마스 트리 행사 진행; 지역 소식과 혼재,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0188,가정·사교·공동체,일상·사교형,high,"""spent Christmas with his sisters"" 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0189,가정·사교·공동체,일상·사교형,low,크리스마스 행사 전기장식 감사와 지역 사교 소식; 주관 주체 불분명,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0190,종교·기원,예배·신학,medium,"감리교회 크리스마스 저녁 프로그램, 합창·responsive reading·기도 순서",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0191,가정·사교·공동체,일상·사교형,low,"Primary Dept.의 낭송·합창 프로그램, 교회 주관 여부 불명확, 개인 소식 혼재",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0192,가정·사교·공동체,일상·사교형,high,"가정 크리스마스 이브 모임, 트리와 산타 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0193,가정·사교·공동체,일상·사교형,high,크리스마스를 친지와 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0194,가정·사교·공동체,일상·사교형,high,크리스마스 때 부모와 지낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0195,가정·사교·공동체,일상·사교형,high,가족 모임과 크리스마스 트리 게임 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0196,가정·사교·공동체,일상·사교형,high,크리스마스에 손님을 대접한 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0197,가정·사교·공동체,일상·사교형,high,가족이 크리스마스 만찬에 모인 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0198,가정·사교·공동체,일상·사교형,high,크리스마스 손님 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0199,가정·사교·공동체,일상·사교형,high,"지역 사교 소식, 크리스마스에 자매와 식사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0200,가정·사교·공동체,일상·사교형,high,크리스마스 손님 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0201,시사·기타,시사·단신,medium,크리스마스는 학교 방학 후 재개를 알리는 날짜 표지로만 쓰인 지역 단신,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0202,가정·사교·공동체,일상·사교형,low,지역 소식 속 크리스마스 행사가 무난히 끝났다는 단신; 프로그램 내용 불명,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0203,가정·사교·공동체,일상·사교형,high,"개인 사교 소식: 누이와 크리스마스를 보냄, 손님 방문",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0204,가정·사교·공동체,일상·사교형,high,"크리스마스 손님, 학교 크리스마스 이브 공연과 선물 트리 등 지역 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0205,종교·기원,예배·신학,low,"교회에서 열린 크리스마스 트리 행사, 아이들 프로그램과 산타; 교회 주관 여부 모호",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0206,가정·사교·공동체,일상·사교형,high,크리스마스를 집에서 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0207,가정·사교·공동체,일상·사교형,high,지역 사교란: 크리스마스를 집에서 보내고 손님 방문 등 개인 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0208,종교·기원,예배·신학,medium,"교회가 주최한 크리스마스 콘서트와 트리 행사, 산타도 참석",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0209,종교·기원,예배·신학,medium,침례교회 주일학교가 크리스마스 콘서트와 트리 행사를 개최,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0210,가정·사교·공동체,일상·사교형,high,"가족 방문과 식사 등 개인 사교 소식(""passed Christmas day"")",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0211,가정·사교·공동체,일상·사교형,high,크리스마스를 부모·친척 집에서 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0212,가정·사교·공동체,일상·사교형,high,크리스마스 당일 친척 방문을 알리는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0213,가정·사교·공동체,일상·사교형,high,크리스마스 당일 가족 방문과 휘스트 클럽 모임 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0214,가정·사교·공동체,일상·사교형,high,연회 후 응접실의 크리스마스 트리와 선물 등 사교 모임 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0215,종교·기원,예배·신학,medium,"크리스마스 종 시, 그리스도 탄생 소식을 찬미하는 서정시",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0216,종교·기원,예배·신학,high,"유대 평원, 목동, 별을 노래한 성탄 찬미 시",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0217,가정·사교·공동체,일상·사교형,medium,보스턴 주민의 크리스마스이브 촛불 켜기 공동체 관습 안내; 종교 문구는 부수적,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0218,가정·사교·공동체,일상·사교형,low,"촛불 점등 풍습과 크리스마스 분위기 묘사, 종교·상업 초점 없음, 일부 훼손",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0219,가정·사교·공동체,자선·나눔형,medium,외로운 이·실업자 등 소외된 이를 위한 크리스마스 나눔 운동 취지,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0220,가정·사교·공동체,자선·나눔형,medium,궁핍한 이들을 위한 추가 기부를 권하는 크리스마스 선물 호소,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0221,시사·기타,시사·단신,low,"전통적 크리스마스 보내기에 관한 짧은 수필 단편, 뚜렷한 범주 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0222,종교·기원,기원·역사해설,low,"옛 크리스마스 풍습(호랑가시나무, 겨우살이) 논평; 맥락 불명확",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0223,가정·사교·공동체,일상·사교형,low,"크리스마스이브 겨우살이를 소재로 한 가벼운 유머 시, 사교적 분위기",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0224,시사·기타,시사·단신,low,Santa·트리를 소재로 한 유머 단편; 어느 범주에도 맞지 않음,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0225,가정·사교·공동체,자선·나눔형,low,적십자 씰 구매 홍보 동요와 베풂을 권하는 시; 기부 성격,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0226,가정·사교·공동체,자선·나눔형,medium,크리스마스 실 판매 수익으로 결핵 퇴치 기금 마련,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0227,종교·기원,예배·신학,medium,"목사의 ""Christmas Is Prophetic"" 글과 Eden 상징의 신앙적 시구",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0228,종교·기원,예배·신학,high,"크리스마스를 종교적 예배의 때로, 주님의 탄생 축제로 강조",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0229,종교·기원,예배·신학,medium,"성탄 Jesus 기억과 Tennyson 시구, 경건한 축복 및 종소리 시",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0230,종교·기원,예배·신학,medium,아기 예수의 탄생과 구원의 사랑을 찬미하는 경건한 시,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0231,시사·기타,시사·단신,low,"크리스마스 용돈 수요에 관한 재무부 단신, 앞부분은 나눔 시구",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0232,가정·사교·공동체,일상·사교형,high,크리스마스 만찬 초대 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0233,가정·사교·공동체,자선·나눔형,medium,여성들이 힘을 모아 이웃 노인에게 즐거운 크리스마스를 마련해 줌(나눔),ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0234,가정·사교·공동체,자선·나눔형,medium,여성들이 홀로 사는 노인에게 음식 마차를 실어 나눔,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0235,가정·사교·공동체,일상·사교형,high,지역 소식란: 친구와 크리스마스를 보내고 가족이 저녁을 함께함,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0236,가정·사교·공동체,일상·사교형,high,크리스마스 방학을 부모 집에서 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0237,가정·사교·공동체,일상·사교형,high,크리스마스를 가족과 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0238,가정·사교·공동체,일상·사교형,high,지역 사교란: 크리스마스 연휴를 딸과 보내는 방문 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0239,가정·사교·공동체,일상·사교형,high,"지역 방문·손님 등 개인 사교 소식, 크리스마스 손님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0240,가정·사교·공동체,일상·사교형,high,"크리스마스 방문객, 학교 크리스마스 행사와 트리 등 지역 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0241,가정·사교·공동체,일상·사교형,medium,"학교식 크리스마스 낭송 프로그램, 교회 주최 언급 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0242,가정·사교·공동체,일상·사교형,high,크리스마스를 친척과 보냈다는 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0243,가정·사교·공동체,일상·사교형,high,그레인지(공동체 단체)의 크리스마스 기념 프로그램과 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0244,가정·사교·공동체,일상·사교형,medium,"지역 소식란: 크리스마스 방학에 귀가, 친척 방문 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0245,가정·사교·공동체,일상·사교형,high,크리스마스 당일 손님·저녁 식사 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0246,종교·기원,예배·신학,medium,"Sunday school 주관 크리스마스 프로그램(기도, 노래, 암송); 규칙 2 적용",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0247,종교·기원,예배·신학,medium,"주일학교 추정 성탄 프로그램 순서(낭송·합창), 종교 주제 포함",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0248,가정·사교·공동체,일상·사교형,high,개인 사교 소식: 크리스마스를 딸과 함께 보냄,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0249,가정·사교·공동체,일상·사교형,high,크리스마스 방문·손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0250,가정·사교·공동체,일상·사교형,high,지역 사교 소식: 크리스마스를 지인·가족과 함께 보냄,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0251,가정·사교·공동체,일상·사교형,medium,친지와 크리스마스를 보냈다는 개인 소식과 교회 크리스마스 행사 언급,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0252,종교·기원,예배·신학,medium,교회 주일학교가 주관한 성탄 행사와 합창 프로그램,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0253,가정·사교·공동체,일상·사교형,medium,"어린이 낭송·드릴 크리스마스 프로그램, 주최 교회 불명확, 동요 중심",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0254,가정·사교·공동체,일상·사교형,medium,"학교/공동체 크리스마스 연예 프로그램, 산타와 트리, 사탕 나눔; 교회 주관 불명",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0255,가정·사교·공동체,일상·사교형,medium,주일학교 크리스마스 행사 준비위원과 방문객 등 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0256,가정·사교·공동체,일상·사교형,high,크리스마스 손님 방문 등 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0257,가정·사교·공동체,일상·사교형,high,크리스마스를 친척 집에서 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0258,가정·사교·공동체,일상·사교형,high,크리스마스 날 손님·친척 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0259,가정·사교·공동체,일상·사교형,high,"지역 사교 소식: 친척 방문, 크리스마스를 함께 보냄, 교회 트리 행사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0260,가정·사교·공동체,일상·사교형,high,크리스마스를 가족과 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0261,가정·사교·공동체,일상·사교형,high,가족 방문과 크리스마스 밤 트리 모임을 전하는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0262,가정·사교·공동체,일상·사교형,high,"지역 소식: 크리스마스를 가족과 보냄, 그레인지 트리 행사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0263,가정·사교·공동체,일상·사교형,high,지역 사교 소식: 크리스마스를 친지와 함께 보냄,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0264,종교·기원,예배·신학,medium,"교회에서 열린 성탄 행사 참석 소식, 교회 주관 프로그램",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0265,가정·사교·공동체,일상·사교형,high,크리스마스 손님으로 방문한 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0266,가정·사교·공동체,일상·사교형,high,크리스마스 기간 친척 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0267,가정·사교·공동체,일상·사교형,high,크리스마스를 어머니 집에서 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0268,가정·사교·공동체,일상·사교형,high,크리스마스를 친척과 보냈다는 개인 사교 소식과 가족 모임,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0269,가정·사교·공동체,일상·사교형,high,크리스마스를 친지와 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0270,가정·사교·공동체,일상·사교형,high,크리스마스 방문·손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0271,가정·사교·공동체,일상·사교형,high,크리스마스에 고향 집을 찾은 방문객 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0272,종교·기원,예배·신학,medium,"교회 주일학교 어린이 크리스마스 이브 프로그램, 교회 주관",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0273,가정·사교·공동체,일상·사교형,high,가족의 크리스마스 방문과 모임 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0274,상업·소비,판촉·광고형,high,"크리스마스 세일 광고, 기간과 낮은 가격 강조",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0275,상업·소비,판촉·광고형,high,크리스마스 세일 상품·가격을 내세운 상점 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0276,상업·소비,판촉·광고형,high,크리스마스 세일 직물 가격 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0277,상업·소비,판촉·광고형,high,크리스마스 세일 상품 가격 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0278,상업·소비,판촉·광고형,high,크리스마스 세일 상품 가격 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0279,상업·소비,판촉·광고형,high,크리스마스 세일 가격 목록의 상점 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0280,상업·소비,판촉·광고형,high,"크리스마스 세일 광고, 가격과 상품 목록, 우편 주문 안내",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0281,상업·소비,판촉·광고형,high,"크리스마스 세일 광고, 면직물 가격 및 상품 홍보",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0282,상업·소비,판촉·광고형,high,"Christmas Sale 시트 원단 가격 나열, 상점 세일 광고",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0283,상업·소비,판촉·광고형,high,가격이 나열된 크리스마스 세일 상점 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0284,상업·소비,판촉·광고형,high,크리스마스 세일 가격 나열 상점 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0285,상업·소비,판촉·광고형,high,"Christmas Sale 상점 광고, 가격과 상품 목록",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0286,상업·소비,판촉·광고형,high,크리스마스 세일 가격이 나열된 남성복 상점 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0287,상업·소비,판촉·광고형,high,"가격이 나열된 의류 ""Christmas Sale"" 상점 광고",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0288,상업·소비,판촉·광고형,high,크리스마스 세일 가격이 나열된 의류 매장 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0289,상업·소비,판촉·광고형,high,신발 크리스마스 세일 가격 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0290,상업·소비,판촉·광고형,high,신발 크리스마스 세일 가격 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0291,종교·기원,예배·신학,low,"하나님 나라와 '어린이의 크리스마스 왕국' 서정적·신앙적 묘사, 혼합",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0292,상업·소비,상업화 비판·성찰형,high,선물 구매보다 날의 의미를 강조하는 성찰적 논평,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0293,상업·소비,상업화 비판·성찰형,low,사랑과 어린이 축제를 강조하는 성찰적 논평이나 상업 비판은 뚜렷하지 않음,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0294,가정·사교·공동체,자선·나눔형,medium,"""White gifts"" 크리스마스 프로그램으로 근동구호 기금 모금, 빈곤층 돕기",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0295,가정·사교·공동체,자선·나눔형,high,근동 기근 고아 구호를 위한 '백색 선물' 크리스마스 모금 활동,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0296,가정·사교·공동체,자선·나눔형,medium,"Near East Relief의 '백색 선물' 크리스마스 제안, 받기보다 나눔 강조",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0297,가정·사교·공동체,자선·나눔형,medium,"백색 선물 프로그램에서 가난한 이들을 위한 선물 가져오기, 나눔 강조",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0298,가정·사교·공동체,자선·나눔형,high,"Near East Relief 기금, 가난한 이들에 대한 자선을 강조",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0299,상업·소비,상업화 비판·성찰형,low,"크리스마스는 날이 아닌 마음가짐이라는 성찰적 에세이, 상업 언급은 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0300,종교·기원,예배·신학,medium,"Christmas를 영적 창조물, 마음의 왕국으로 묘사하는 성찰적·신학적 논평",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0301,가정·사교·공동체,일상·사교형,medium,"크리스마스 식탁 장식 팁, 가정 꾸미기 중심",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0302,종교·기원,기원·역사해설,medium,"크리스마스 전설(글래스턴베리 가시나무) 유래 해설, 요리 문구 혼재",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0303,종교·기원,기원·역사해설,medium,"글래스턴베리 가시나무 전설, 성탄절에 꽃피는 민속·역사 설명",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0304,시사·기타,시사·단신,low,"크리스마스 트리용 가문비나무 재배·수량 기사, 일부 훼손된 OCR 텍스트",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0305,시사·기타,시사·단신,low,"크리스마스 트리 운송 선박 이야기, 상업·민속 서술이나 분류 모호",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0306,상업·소비,상업화 비판·성찰형,medium,"산업 사회 비판 논평, 구세군 모금은 성찰의 소재로 등장",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0307,시사·기타,시사·단신,medium,크리스마스 로즈 재배에 관한 원예 기사로 어느 범주에도 맞지 않음,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0308,종교·기원,기원·역사해설,high,크리스마스 상자 관습의 유래와 역사를 설명하는 글,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0309,종교·기원,기원·역사해설,high,Christmas box와 Boxing Day 관습의 유래를 설명하는 글,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0310,가정·사교·공동체,일상·사교형,medium,크리스마스 아침 식탁 장식과 손님용 선물 주머니 등 가정 행사 아이디어,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0311,가정·사교·공동체,일상·사교형,medium,크리스마스 카드와 호랑가시 장식을 갖춘 파티 식탁 묘사,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0312,시사·기타,시사·단신,medium,"군인 furlough 농담, Christmas는 휴가 시기 언급일 뿐",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0313,가정·사교·공동체,일상·사교형,medium,산타가 지역 아이들을 크리스마스 트리 행사에 초대하는 공동체 행사 안내,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0314,상업·소비,판촉·광고형,low,"고객에게 보내는 듯한 기업 연말 인사 광고 문구, 상호는 불분명",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0315,종교·기원,예배·신학,low,"성탄의 참뜻을 강조하는 신문사 인사말, 종교적 의미 중심이나 모호함",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0316,종교·기원,예배·신학,medium,크리스마스를 경건·숭배의 정신으로 찬양하는 종교적 성찰,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0317,상업·소비,상업화 비판·성찰형,low,"크리스마스의 정신과 의미를 성찰하는 편집자 논평, 문맥 불완전",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0318,시사·기타,시사·단신,low,신문 발행인의 감사·성탄 인사와 성탄호 안내; 상품 광고 아님,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0319,종교·기원,기원·역사해설,medium,"크리스마스 미신 유래 설명 기사가 키워드에 가깝고, 앞의 상인 광고 문구와 섞임",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0320,종교·기원,기원·역사해설,medium,크리스마스 이브·아침의 민간 미신과 풍습을 설명하는 민속 해설,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0321,종교·기원,기원·역사해설,medium,크리스마스 아침 관련 민간 미신·풍습 소개(민속 해설),ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0322,종교·기원,기원·역사해설,medium,"크리스마스 관련 민간 풍습·미신 나열, 풍습의 민속적 유래 설명",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0323,상업·소비,상업화 비판·성찰형,low,"크리스마스 folklore 뒤, 타인을 행복하게 하는 것이 최선이라는 성찰 에세이",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0324,종교·기원,예배·신학,medium,"베들레헴 마구간, 평화와 선의 선포 등 성서적 탄생 메시지 중심",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0325,시사·기타,시사·단신,low,"크리스마스 이브는 일화 배경일 뿐; 인디언 사냥 일화, 해당 범주 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0326,가정·사교·공동체,자선·나눔형,low,"가난한 아이들이 실망하지 않도록 한다는 내용, 요리법과 뒤섞인 심한 OCR 오류",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0327,종교·기원,기원·역사해설,medium,"크리스마스 전야 과수 관련 민속 풍습 설명, 기원·민속 해설",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0328,종교·기원,기원·역사해설,low,"크리스마스 이브 민간 속설 나열, 뒤에 자선 호소 섞여 있으나 속설 비중 큼",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0329,상업·소비,상업화 비판·성찰형,medium,선물 구매보다 타인을 기쁘게 하는 나눔을 강조하는 성찰적 훈계,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0330,가정·사교·공동체,일상·사교형,low,"어린이 이야기 속 크리스마스 선물 대화, OCR 심하게 깨짐",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0331,가정·사교·공동체,일상·사교형,low,"신혼부부의 첫 크리스마스를 다룬 가정 배경의 이야기, OCR 잡음 많음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0332,가정·사교·공동체,일상·사교형,low,"선물·크리스마스 카드를 보내는 개인적 이야기, 요리법과 섞인 잡다한 글",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0333,가정·사교·공동체,일상·사교형,high,크리스마스 만찬을 준비하는 가정 내 일상 이야기(소설풍),ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0334,가정·사교·공동체,일상·사교형,low,"크리스마스 이브 가정 장면의 소설풍 대화, 식사 언급",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0335,가정·사교·공동체,일상·사교형,medium,크리스마스 가정 저녁식사를 다루는 소설 속 가족 대화,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0336,가정·사교·공동체,일상·사교형,medium,"크리스마스 만찬에서 손님들이 먹는 가정 장면(소설풍), OCR 잡음 많음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0337,가정·사교·공동체,일상·사교형,medium,"가족 크리스마스 저녁식사 이야기, 푸딩과 삼촌 등장하는 가정 장면",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0338,상업·소비,판촉·광고형,high,크리스마스 선물 상품 목록을 나열한 상점 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0339,상업·소비,판촉·광고형,high,"약국 상품 광고와 호텔 크리스마스 만찬 광고, 업체 명의 인사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0340,가정·사교·공동체,일상·사교형,low,"크리스마스 무도회 공지와 시골의 즐거운 크리스마스를 노래한 세속적 시, 내용이 뒤섞임",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0341,가정·사교·공동체,일상·사교형,medium,"시골 크리스마스와 귀향을 노래한 시, 가정적·정서적 분위기",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0342,가정·사교·공동체,일상·사교형,low,"시골 크리스마스 정경 시구와 개인 소식 혼재, 가정적 분위기",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0343,가정·사교·공동체,일상·사교형,high,크리스마스 휴일을 부모와 보내러 온 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0344,종교·기원,예배·신학,medium,"Dec.25 예배 안내, 설교강연과 특별 크리스마스 음악 공지",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0345,상업·소비,판촉·광고형,high,"""마지막 크리스마스 선물"" 상품 목록 광고, 법원 기사는 무관",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0346,상업·소비,판촉·광고형,medium,가격표와 고객 대상 성탄·신년 인사 광고; 뒤에 교회 예배 기사 제목 혼재,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0347,종교·기원,예배·신학,high,"교회가 발표하는 성탄 예배·프로그램 안내(설교, 음악, 교회 트리 행사)",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0348,종교·기원,예배·신학,medium,"성경 낭독, 찬송, 기도가 포함된 크리스마스 프로그램 순서",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0349,종교·기원,예배·신학,medium,"찬송·성경적 낭송 등 순서가 있는 성탄 프로그램, 종교적 내용 중심",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0350,종교·기원,예배·신학,high,"교회 예배 순서: 찬송, 설교, 사도신경, 성가, 성경 낭독",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0351,종교·기원,예배·신학,medium,"교회학교 성탄 프로그램: 찬송, 시편, 기도, 낭송 순서",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0352,종교·기원,예배·신학,medium,찬송·성경낭독·King's Heralds 등 교회 성탄 프로그램 순서,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0353,종교·기원,예배·신학,high,"교회 예배 순서: 찬송, 성경 봉독, 설교 ""첫 크리스마스 노래""",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0354,종교·기원,예배·신학,high,"교회 크리스마스 예배 순서와 미사 시간 안내, 성가 포함",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0355,종교·기원,예배·신학,high,"교회 예배 시간표와 미사 음악(Sanctus, Agnus) 안내",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0356,종교·기원,예배·신학,high,"미사 음악, 봉헌 찬송, 성탄 예배 프로그램 안내",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0357,종교·기원,예배·신학,medium,교회 학교가 주관하는 예배 및 크리스마스 트리 행사 안내,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0358,종교·기원,예배·신학,high,성당 크리스마스 고성미사 음악·순서 안내,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0359,상업·소비,판촉·광고형,medium,"""Christmas Gift"" 바로 옆이 은행 예금통장 선물 광고(호텔 만찬 광고도 있음).",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0360,종교·기원,예배·신학,low,"교회 설교 주제와 교회 주관 성탄 행사 공지, 심한 OCR 오류",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0361,종교·기원,예배·신학,medium,병원 성탄 자정 미사 소식; 미사가 키워드 가까이 서술됨,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0362,가정·사교·공동체,일상·사교형,medium,"병원 크리스마스 장식과 트리 중심, 미사·성화는 배경이라 일상형",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0363,가정·사교·공동체,자선·나눔형,high,여성회 구호위원회가 시립 보호시설 거주자에게 크리스마스 선물을 전함,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0364,종교·기원,예배·신학,medium,Advent 주일학교가 주최한 크리스마스 연주회와 트리; 종교단체 주최 규칙 적용,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0365,가정·사교·공동체,일상·사교형,low,"학교 크리스마스 프로그램 순서, 목사 기도 포함되나 주최 불명확",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0366,종교·기원,예배·신학,low,"성탄 프로그램 순서(성경 낭독, 찬송 anthem); 주최 불명, 광고 섞임",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0367,상업·소비,판촉·광고형,medium,은행 크리스마스 저축 클럽 가입 광고; 뒤의 낭송 프로그램은 잡음,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0368,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 프로그램(피아노, 낭송); 교회 주관 명시 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0369,가정·사교·공동체,일상·사교형,medium,키워드 인근은 양로원 크리스마스 트리 장식 소식; 앞부분 주일학교 선물 배분과 혼재,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0370,시사·기타,시사·단신,medium,"크리스마스 날씨 보도(눈, 이상적인 날); 지역 단신",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0371,가정·사교·공동체,일상·사교형,medium,"상점 휴업 속 시립 크리스마스트리 묘사, 지역 공동체 풍경",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0372,가정·사교·공동체,일상·사교형,medium,아이들이 크리스마스 썰매·스키를 타고 스케이트장에서 노는 일상 풍경,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0373,시사·기타,시사·단신,medium,우체국 크리스마스 우편 폭주 지역 단신; 바구니 언급은 단편적,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0374,가정·사교·공동체,자선·나눔형,high,"여러 단체의 빈곤 가정 구호 활동, 겨울 내내 도움 계속",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0375,가정·사교·공동체,일상·사교형,low,"크리스마스 휴가·결혼 등 개인 소식, 주식 광고 섞인 혼합 문맥",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0376,가정·사교·공동체,일상·사교형,high,크리스마스에 손님으로 방문한 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0377,가정·사교·공동체,일상·사교형,high,크리스마스 당일 가족 방문·초대 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0378,가정·사교·공동체,일상·사교형,high,크리스마스 만찬 초대 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0379,가정·사교·공동체,일상·사교형,high,"크리스마스 당일 가족 모임, 트리, 선물 교환 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0380,가정·사교·공동체,일상·사교형,high,크리스마스 당일 가족 방문을 전하는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0381,가정·사교·공동체,일상·사교형,medium,"어린이 낭송·노래, 산타 방문과 트리 선물 배분, 사교 소식; 종교단체 주관 불명확",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0382,종교·기원,예배·신학,medium,교회 vestry에서 주일학교가 진행한 성탄 프로그램(암송·대화극),ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0383,종교·기원,예배·신학,medium,"Sunday school 크리스마스 프로그램 순서(찬송, 암송), 교회 주관 추정",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0384,종교·기원,예배·신학,medium,"주일학교 크리스마스 프로그램: 찬송, 낭송, 산타 선물 배부 병행",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0385,종교·기원,예배·신학,low,"감리교회 트리·프로그램(성경 낭독) 개최, 사교 소식과 혼재",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0386,가정·사교·공동체,일상·사교형,high,크리스마스 휴일을 가족과 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0387,가정·사교·공동체,일상·사교형,high,크리스마스 손님·귀향·친척 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0388,가정·사교·공동체,일상·사교형,high,크리스마스 만찬 손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0389,가정·사교·공동체,일상·사교형,high,크리스마스 가족 만찬과 방문을 전하는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0390,가정·사교·공동체,일상·사교형,high,크리스마스 만찬과 친지 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0391,상업·소비,판촉·광고형,high,와플 기계 크리스마스 선물 특가 판매 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0392,시사·기타,시사·단신,low,"짧은 소설 도입부; 크리스마스는 배경·정서로만 언급, 해당 유형 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0393,가정·사교·공동체,일상·사교형,medium,"소설풍 서사, 학교 크리스마스 행사와 가정에 대한 그리움 언급",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0394,시사·기타,시사·단신,low,크리스마스 이브 배경의 소설 속 개 이야기; 어느 범주에도 맞지 않음,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0395,상업·소비,상업화 비판·성찰형,low,"사랑과 베풂을 강조하는 성찰적 시구, 성경 인용; 쇼핑 언급, 텍스트 훼손",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0396,가정·사교·공동체,일상·사교형,low,"크리스마스의 기쁨과 추억을 말하는 정서적 일반 논평, 상업·종교 요소 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0397,상업·소비,상업화 비판·성찰형,low,"크리스마스의 정서적 의미를 성찰하는 글, 상업 언급은 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0398,상업·소비,상업화 비판·성찰형,low,선물보다 추억의 가치를 강조하는 성찰적 에세이; 상업 비판은 약함,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0399,가정·사교·공동체,일상·사교형,low,"소설 속 크리스마스 선물 고민 대화, 가정 내 사적 장면",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0400,종교·기원,기원·역사해설,medium,"산타 이야기 끝, 크리스마스 트리 유래 설명이 시작됨",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0401,종교·기원,기원·역사해설,high,크리스마스 트리 풍습의 기원(이탈리아·독일)을 설명하는 글,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0402,종교·기원,기원·역사해설,medium,크리스마스 선물 풍습의 기원을 동방박사 이야기로 설명,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0403,종교·기원,예배·신학,low,첫 크리스마스 기록을 읽자는 권유; 성경적 메시지 중심이나 혼합·훼손됨,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0404,상업·소비,판촉·광고형,high,식료품·사탕 가격 목록의 상점 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0405,시사·기타,시사·단신,medium,"지역 단신 중 크리스마스 당일 영화 상영 공지, 날짜 표지로만 사용",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0406,시사·기타,시사·단신,low,극장 상영 일정과 개인 소식이 뒤섞인 garbled 단신; Christmas는 날짜 표지,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0407,시사·기타,시사·단신,low,"극장 상영 안내와 지역 소식, Christmas는 날짜 표지로 쓰임; 텍스트 혼재",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0408,상업·소비,판촉·광고형,medium,"극장 영화 광고, 크리스마스 특별 상영 및 마티네 안내",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0409,종교·기원,예배·신학,high,교회 크리스마스 주간 예배 시간 안내,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0410,종교·기원,예배·신학,high,"목사의 성탄 설교와 어린이 성탄 예배, 구세주 탄생 복음 강조",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0411,종교·기원,예배·신학,high,"누가복음 인용, 성탄절 예배 초대와 종교적 인사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0412,종교·기원,예배·신학,high,교회가 크리스마스 아침 노래 예배와 설교를 안내하는 공지,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0413,종교·기원,예배·신학,low,크리스마스 예배 안내가 키워드 가까이에 있으나 사진 선물 광고가 섞임,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0414,상업·소비,판촉·광고형,high,업체명이 있는 감사·성탄 인사 광고(후원에 감사),ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0415,종교·기원,예배·신학,medium,루터교 목사의 크리스마스 예배 일정 공지,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0416,가정·사교·공동체,일상·사교형,medium,"목사 가족이 신문 독자에게 전하는 성탄·새해 인사와 감사, 상업광고 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0417,종교·기원,예배·신학,high,"교회 예배 공지와 성탄 칸타타, 구주 경배 초대",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0418,상업·소비,판촉·광고형,high,업체명과 주인이 밝힌 고객 대상 성탄·신년 인사 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0419,상업·소비,판촉·광고형,medium,"선물로 입을 것을 권하는 광고 문구, 가격 언급; OCR 훼손 심함",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0420,상업·소비,판촉·광고형,high,"상점 주인 명의의 성탄·신년 인사 광고, 고객 협조에 감사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0421,가정·사교·공동체,일상·사교형,low,"크리스마스 보낸 지역 소식: 교회 특별예배, 공동체 트리, 가방 나눔 등 혼재",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0422,가정·사교·공동체,일상·사교형,high,크리스마스를 가족과 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0423,가정·사교·공동체,일상·사교형,high,개인 사교 소식: 친척·가족과 크리스마스를 보냄,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0424,가정·사교·공동체,일상·사교형,high,"크리스마스 만찬 손님, 휴일을 보내러 온 방문 등 지역 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0425,가정·사교·공동체,일상·사교형,high,"손님 방문 등 지역 사교 소식, 크리스마스 방문 언급",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0426,가정·사교·공동체,일상·사교형,medium,개인 소식란: 크리스마스를 집에서 보내고 떠남,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0427,가정·사교·공동체,일상·사교형,high,지역 사교란: 크리스마스를 친지 집에서 보냈다는 개인 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0428,가정·사교·공동체,일상·사교형,high,학교 크리스마스 프로그램과 이웃 방문 등 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0429,가정·사교·공동체,일상·사교형,high,크리스마스 휴일을 친지와 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0430,가정·사교·공동체,일상·사교형,high,"""Amer Garvin spent Christmas at the Gwynn home"" 형태의 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0431,가정·사교·공동체,일상·사교형,high,크리스마스를 친구와 보내고 가족 만찬을 한 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0432,가정·사교·공동체,일상·사교형,high,크리스마스 만찬 초대 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0433,가정·사교·공동체,일상·사교형,high,크리스마스 만찬 손님 등 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0434,가정·사교·공동체,일상·사교형,high,"크리스마스 만찬 손님, 방문, 댄스 파티 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0435,가정·사교·공동체,일상·사교형,high,크리스마스에 친지가 방문했다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0436,가정·사교·공동체,일상·사교형,high,"지역 소식란: 크리스마스 방학 방문, 가족이 크리스마스 당일 보냄",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0437,가정·사교·공동체,일상·사교형,high,"학교 크리스마스 프로그램과 게임, 간식, 가정 방문 소식 등 지역 사교 뉴스",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0438,가정·사교·공동체,일상·사교형,medium,어린이 코너 글: 크리스마스 방학에 방문해 즐겁게 보냈다는 개인 일상 이야기,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0439,가정·사교·공동체,일상·사교형,high,아이들이 크리스마스에 받은 선물과 일상을 적은 개인 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0440,가정·사교·공동체,일상·사교형,high,아이들이 쓴 크리스마스 선물·가족 방문 등 개인적 일상 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0441,가정·사교·공동체,일상·사교형,high,"아이들이 크리스마스 선물과 조부모 방문, 방학 중 스케이팅을 적은 개인 일상 글",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0442,가정·사교·공동체,일상·사교형,high,아이들이 크리스마스 선물과 할머니 댁 방문을 적은 개인 일상 글,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0443,가정·사교·공동체,일상·사교형,high,아이들이 크리스마스에 받은 선물을 적은 개인적 일상 글,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0444,가정·사교·공동체,일상·사교형,high,아이가 크리스마스 선물을 받은 개인 소식을 전하는 편지,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0445,가정·사교·공동체,일상·사교형,high,"아이가 크리스마스 선물과 트리, 스케이트를 쓴 개인 일상 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0446,가정·사교·공동체,일상·사교형,high,"아이들이 가족 방문, 트리, 선물 받은 일을 적은 개인 일상 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0447,가정·사교·공동체,일상·사교형,medium,"아이가 자전거 선물과 친척 방문을 적은 글로, 가족 중심의 일상 이야기",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0448,가정·사교·공동체,일상·사교형,high,아이들이 받은 선물과 친척 방문 등 개인의 크리스마스 일상 이야기,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0449,가정·사교·공동체,일상·사교형,high,아이들 편지에서 크리스마스 선물 받은 개인적 일상 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0450,가정·사교·공동체,일상·사교형,high,아이들이 쓴 크리스마스 선물·가족 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0451,가정·사교·공동체,일상·사교형,high,아이들이 받은 크리스마스 선물과 새해 가족 저녁 식사를 전하는 개인 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0452,가정·사교·공동체,일상·사교형,high,아이들이 쓴 크리스마스 선물·가족 새해 식사 등 개인적 일상 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0453,가정·사교·공동체,일상·사교형,high,아이들이 가장 좋았던 크리스마스 선물을 말하는 개인적 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0454,가정·사교·공동체,일상·사교형,medium,어린이란에서 받은 크리스마스 선물과 방학 이야기를 나누는 개인적 일상 내용,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0455,가정·사교·공동체,일상·사교형,medium,"학교 소식란, 크리스마스 방학과 준비를 회상하는 일상 사교 내용",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0456,가정·사교·공동체,일상·사교형,medium,개인 사교 단신: 크리스마스 휴가를 집에서 보낸 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0457,가정·사교·공동체,일상·사교형,high,아이가 크리스마스 선물 받은 개인적 가정 이야기,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0458,가정·사교·공동체,일상·사교형,high,"여성클럽 크리스마스 파티, 카드게임과 선물 교환 등 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0459,상업·소비,판촉·광고형,medium,상인들이 고객에게 전하는 성탄·새해 인사 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0460,상업·소비,판촉·광고형,high,"Halsey Drug, Gem Cafe 등 업체명이 붙은 연말 인사 광고",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0461,상업·소비,판촉·광고형,high,"업체명이 붙은 크리스마스 인사 광고(Warwick Oil, Northern Hotel 등)",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0462,상업·소비,판촉·광고형,high,Grand Theatre 직원 명의의 크리스마스 인사 광고(업체 명시),ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0463,상업·소비,판촉·광고형,high,"사업체 명의의 성탄·새해 인사 광고(H. Earl Clack Co., Tracy's Barber Shop)",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0464,상업·소비,판촉·광고형,high,상점 이름이 붙은 메리 크리스마스 인사 광고(규칙 1),ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0465,상업·소비,판촉·광고형,high,"업체명(Vic's Service Station, Gamble Dealers)이 든 크리스마스 인사 광고",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0466,상업·소비,판촉·광고형,high,업체명이 있는 크리스마스 인사·고객 감사 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0467,상업·소비,판촉·광고형,high,업체명이 포함된 성탄 인사와 고객 후원 감사 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0468,가정·사교·공동체,일상·사교형,high,"학교 크리스마스 프로그램, 오페레타 공연 – 세속적 학교 행사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0469,가정·사교·공동체,일상·사교형,medium,"학교 글리클럽 크리스마스 오페레타·합창 공연, 교회 주관 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0470,가정·사교·공동체,일상·사교형,medium,"크리스마스를 부모와 보내려 귀가한 개인 소식, 텍스트 훼손 심함",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0471,가정·사교·공동체,일상·사교형,low,"감리교 부인회 모임 소식, 성탄 이야기 낭독 등 사교 뉴스; 종교 요소 혼재",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0472,가정·사교·공동체,일상·사교형,high,크리스마스 날 가족 저녁 초대와 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0473,가정·사교·공동체,일상·사교형,high,"크리스마스를 가족과 보낸 개인 사교 소식, 여성클럽 장식 심사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0474,가정·사교·공동체,일상·사교형,high,크리스마스를 친지 집에서 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0475,가정·사교·공동체,일상·사교형,medium,크리스마스를 가족과 보냈다는 개인 사교 소식(garbled),ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0476,가정·사교·공동체,일상·사교형,high,크리스마스를 가족과 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0477,가정·사교·공동체,일상·사교형,medium,교사들이 성탄 방학에 귀향하는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0478,가정·사교·공동체,일상·사교형,high,"학교 학생들의 크리스마스 프로그램과 산타 방문, 세속적 공동체 행사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0479,가정·사교·공동체,일상·사교형,high,크리스마스 방학을 집에서 보내는 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0480,가정·사교·공동체,일상·사교형,high,크리스마스 휴가 중 방문·손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0481,가정·사교·공동체,일상·사교형,high,크리스마스를 딸 집에서 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0482,가정·사교·공동체,일상·사교형,high,크리스마스 방문과 휴가 등 지역 개인 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0483,가정·사교·공동체,일상·사교형,high,"학교 크리스마스 프로그램, 트리, 산타 방문 등 세속적 공동체 행사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0484,가정·사교·공동체,일상·사교형,medium,"가족 방문·여행 등 개인 사교 소식, 크리스마스는 시기 언급",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0485,가정·사교·공동체,일상·사교형,medium,학교 크리스마스 프로그램과 가족 만찬 등 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0486,가정·사교·공동체,일상·사교형,high,"지역 사교 소식: 손님, 성탄 연휴 여행, 만찬 방문",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0487,가정·사교·공동체,일상·사교형,high,"클럽 여성들의 오찬, 크리스마스 낭독 프로그램, 선물 교환 등 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0488,상업·소비,판촉·광고형,high,상호가 명시된 업체의 고객 감사·성탄 인사 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0489,상업·소비,판촉·광고형,high,상점 명의의 크리스마스 인사 및 후원 감사 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0490,상업·소비,판촉·광고형,high,상호가 명시된 고객 감사·연말 인사 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0491,상업·소비,판촉·광고형,high,상점·낙농장의 고객 대상 성탄 인사 및 후원 감사 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0492,종교·기원,기원·역사해설,high,크리스마스 이전의 이교·유대 축제(하누카) 기원을 설명하는 역사 해설,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0493,종교·기원,기원·역사해설,high,12월 25일 날짜와 유대·이교 동지 의례 기원 설명,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0494,종교·기원,기원·역사해설,high,드루이드·사투르날리아 등 크리스마스 관습의 기원 설명,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0495,상업·소비,판촉·광고형,medium,호텔 이름이 붙은 성탄 인사 광고; 앞의 호루스 언급은 잡음,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0496,상업·소비,판촉·광고형,medium,업체명이 붙은 성탄 인사 광고가 중심. 뒤의 기원 설명은 부수적.,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0497,가정·사교·공동체,일상·사교형,low,"롱펠로 캐럴 시, 거리의 악사와 노래 등 축제 분위기 중심, 신앙 언급 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0498,가정·사교·공동체,일상·사교형,low,"크리스마스 노래를 불로 둘러앉아 부르는 시; 종교적 초점 약함, garbled",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0499,가정·사교·공동체,자선·나눔형,medium,"크리스마스 실 구매로 결핵 퇴치 돕자는 모금 호소, 캐럴 시구 혼재",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0500,상업·소비,판촉·광고형,high,상호와 업주가 명시된 고객 대상 크리스마스 인사 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0501,상업·소비,판촉·광고형,high,"상호와 업주명이 담긴 크리스마스 인사 광고(Starr Brothers, Thelma's)",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0502,상업·소비,판촉·광고형,high,상점 이름이 붙은 성탄·연말 인사 광고(감사 인사 포함),ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0503,시사·기타,시사·단신,low,"짧은 소설 장면, Christmas Eve는 배경일 뿐이며 분류 어려움",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0504,시사·기타,시사·단신,low,"소설 연재 일부로 보이며 크리스마스는 배경 장면일 뿐, 기타로 분류",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0505,가정·사교·공동체,일상·사교형,medium,소설 속 크리스마스 날 손님맞이·저녁식사 등 가정 장면,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0506,가정·사교·공동체,일상·사교형,low,"소설 속 촛불 저녁식사와 크리스마스 음악, 선물 장면. 사적 사교 분위기.",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0507,가정·사교·공동체,일상·사교형,low,"키워드는 약혼 장면 속 ""merriest Christmas""; 뒤는 베들레헴 시로 혼재",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0508,종교·기원,기원·역사해설,high,크리스마스 트리 전설의 기원을 설명하는 민담 이야기,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0509,시사·기타,시사·단신,low,"산타클로스(인디애나) 서신, 다음 크리스마스는 시점 언급; 내용 불명확",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0510,종교·기원,기원·역사해설,low,"트리 유래 설명과 ""Merry Christmas"" 인사말 성찰이 섞여 있어 불확실",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0511,가정·사교·공동체,일상·사교형,low,"아이들의 크리스마스 아침 풍경 묘사, 심하게 깨진 OCR, 광고 여부 불분명",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0512,가정·사교·공동체,일상·사교형,low,"어머니를 기리는 가정 중심 명절 인사글, 광고 여부 불분명",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0513,상업·소비,판촉·광고형,low,"상인들에게 보내는 메리 크리스마스 인사, 소비 찬양; 광고 가능성",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0514,가정·사교·공동체,일상·사교형,medium,"친구·방문객에게 보내는 개인적 크리스마스 인사, 사교적 분위기; 업체명 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0515,상업·소비,상업화 비판·성찰형,medium,선물 구매보다 베풂과 마음을 강조하는 성찰적 글,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0516,종교·기원,예배·신학,medium,예수 탄생일의 믿음·희망 재생을 강조하는 성찰적 사설 어조,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0517,상업·소비,판촉·광고형,medium,신문사가 구독자에게 보내는 메리 크리스마스 인사 광고 성격,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0518,종교·기원,기원·역사해설,medium,크리스마스 주간 날씨 점치는 민간 속신 설명,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0519,종교·기원,기원·역사해설,medium,크리스마스 카드 '최초' 디자인과 민간 속설 등 관습의 기원 설명,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0520,종교·기원,기원·역사해설,medium,최초의 크리스마스 카드에 대한 역사적 설명,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0521,종교·기원,기원·역사해설,high,초기 크리스마스 카드(1842)의 기원과 역사를 설명하는 글,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0522,종교·기원,기원·역사해설,high,"최초의 크리스마스 카드 역사 설명(Horsley, Cole 1846)",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0523,시사·기타,시사·단신,low,"크리스마스 날씨 속담 나열, 기원 설명 아님; 기타로 분류",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0524,종교·기원,기원·역사해설,medium,"최초의 크리스마스 카드 발견 주장, 관습의 역사 해설",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0525,시사·기타,시사·단신,low,"""White Christmas"" 노래의 인기에 관한 기사. 뚜렷한 범주가 없고 OCR이 섞여 있음.",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0526,시사·기타,시사·단신,medium,"White Christmas 노래 판매·영화 배경 해설, 전시 언급; 기타 문화 뉴스",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0527,시사·기타,시사·단신,low,"어빙 벌린의 ""White Christmas"" 노래 소개, 일반 소식·잡담 성격",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0528,가정·사교·공동체,일상·사교형,medium,"향수 어린 가정의 크리스마스 아침, 트리 아래 선물과 산타 회상",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0529,종교·기원,기원·역사해설,medium,청교도의 크리스마스 금지 역사 해설; 백악관 트리 사진 설명이 섞임,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0530,시사·기타,시사·단신,low,크리스마스 곡조를 다룬 서정시 일부로 신앙 내용이 없고 분류 어려움,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0531,가정·사교·공동체,일상·사교형,low,"워즈워스 시의 가정 인사 장면과 부모 대상 크리스마스 결심 칼럼, 혼합 내용",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0532,종교·기원,기원·역사해설,medium,키워드 인근은 1644년 청교도 금지령 역사 기사; 앞쪽 주유소 인사 광고가 섞임,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0533,종교·기원,기원·역사해설,high,의회의 크리스마스 금지와 지하 소책자 등 역사 해설,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0534,종교·기원,기원·역사해설,medium,"옛 팸플릿 ""Old Father Christmas 재판""을 다룬 역사 해설; OCR 훼손",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0535,종교·기원,기원·역사해설,medium,"청교도 금지 후 찰스 2세의 크리스마스 복원 등 역사 설명, 가정 독서 언급 혼재",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0536,종교·기원,예배·신학,medium,Christmas는 무엇보다 종교적이라며 신약의 예수 탄생 기사를 읽도록 권함,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0537,시사·기타,시사·단신,low,"크리스마스 문학(캐럴·The Other Wise Man) 소개, 맞는 항목 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0538,시사·기타,시사·단신,low,크리스마스 이야기책 소개 단신; 종교 요소 있으나 서평 성격,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0539,시사·기타,시사·단신,low,크리스마스 이야기책 소개; 어느 항목에도 맞지 않는 문학 안내,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0540,가정·사교·공동체,자선·나눔형,medium,"""Buy Christmas Seals"" 모금 구호; 주변은 무관한 지역 단신",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0541,시사·기타,시사·단신,medium,"전화 회사의 장거리 통화 혼잡 안내문, 크리스마스는 시기 표시",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0542,종교·기원,기원·역사해설,medium,"그리스도 탄생 연월일 불명 언급, 크리스마스 정신과 퀴즈; 기원 해설 성격",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0543,시사·기타,시사·단신,low,"크리스마스 상식 퀴즈 문항; 예배·광고 아님, 기타 분류",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0544,종교·기원,기원·역사해설,medium,"크리스마스 관습(호랑가시나무, 씰, 선물상자)의 기원을 묻는 퀴즈",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0545,상업·소비,판촉·광고형,medium,California Cafe 상호가 있는 메리 크리스마스 인사 광고로 보임,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0546,종교·기원,예배·신학,high,"교회의 성탄 예배 일정 안내(촛불예배, 주일학교 예배)",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0547,종교·기원,예배·신학,low,"교회 인사와 댄스·여관 광고가 섞인 혼합 문안, 교회 축복 문구가 키워드 가장 가까움",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0548,종교·기원,예배·신학,high,"교회 예배 안내: 성탄 예배, 목사 설교, 주일학교 프로그램",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0549,종교·기원,예배·신학,high,감리교회가 크리스마스 프로그램을 공지·주관함,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0550,종교·기원,예배·신학,high,교회가 주일학교 성탄 예배와 캐럴 순서를 안내함,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0551,종교·기원,예배·신학,high,교회 성탄 예배 안내와 그리스도 중심 메시지,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0552,종교·기원,예배·신학,high,교회가 크리스마스 이브 프로그램과 예배를 공지함,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0553,종교·기원,예배·신학,high,"교회가 캐럴 예배, 탄생 판토마임, Christmas Day 예배를 안내함",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0554,가정·사교·공동체,일상·사교형,medium,"어린이 프로그램, 트리 파티, 산타 방문 중심; 교회 예배 공지는 말미에만 나옴",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0555,종교·기원,예배·신학,high,"교회 예배 안내와 교회 주관 성탄 프로그램, 설교 제목 포함",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0556,종교·기원,예배·신학,high,교회의 성탄 자정미사 및 미사 시간 안내,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0557,가정·사교·공동체,일상·사교형,high,지역 사교 소식: 청년모임과 클럽의 크리스마스 파티,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0558,가정·사교·공동체,일상·사교형,high,"클럽 주최 가족 크리스마스 파티, 게임과 트리, 선물 교환",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0559,상업·소비,판촉·광고형,high,"상점(Bylund's Jewelry, Friendly Store)의 메리 크리스마스 인사 광고",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0560,종교·기원,예배·신학,high,"교회들의 크리스마스 주일 예배 안내, 성일 강조",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0561,종교·기원,예배·신학,high,"성당 미사 시간과 성가대, 고해성사 안내",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0562,종교·기원,예배·신학,high,교회의 성탄 성찬식·예배 안내와 주일학교 프로그램 공지,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0563,종교·기원,예배·신학,high,루터교회 예배·성탄 경건 프로그램과 촛불 예식 안내,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0564,종교·기원,예배·신학,high,"교회 설교, 성가대 음악, 주일학교 성탄 야외극 안내",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0565,가정·사교·공동체,일상·사교형,high,"클럽 크리스마스 파티, 선물 교환 등 사교 모임 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0566,가정·사교·공동체,일상·사교형,high,"개인 사교 소식: 크리스마스 방학을 아버지와 보내고, 청소년 모임이 부모 파티를 엶",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0567,가정·사교·공동체,일상·사교형,medium,"루터교 여성회의 크리스마스 파티, 친교 점심과 프로그램 등 사교 모임 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0568,가정·사교·공동체,일상·사교형,high,"걸스카우트 모임의 크리스마스 선물 교환, 캐럴, 빙고 등 사교 행사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0569,상업·소비,판촉·광고형,high,"보석상 크리스마스 특가 시계 판매 광고, 영업시간 안내",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0570,종교·기원,예배·신학,medium,크리스마스 미사 일정 공지가 키워드 인근 중심; 신발 광고는 부수적,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0571,가정·사교·공동체,일상·사교형,medium,첫 생일 파티 사교 소식; 크리스마스 이브는 생일 날짜 언급일 뿐,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0572,상업·소비,판촉·광고형,medium,Whitefish Creamery 업체명이 들어간 인사 광고; 심하게 깨진 OCR,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0573,상업·소비,판촉·광고형,medium,극장의 크리스마스 선물 영화 상영 홍보 성격,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0574,상업·소비,판촉·광고형,high,"미용실 이전 개업 광고, 크리스마스 파마 홍보",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0575,상업·소비,판촉·광고형,medium,"영화 ""White Christmas"" 상영 광고와 상영 시간 안내",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0576,가정·사교·공동체,일상·사교형,high,"학교 교사와 학생들이 연 크리스마스 프로그램, 종교 단체 주관 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0577,가정·사교·공동체,일상·사교형,high,크리스마스 이브를 가족·이웃 집에서 보냈다는 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0578,가정·사교·공동체,일상·사교형,high,크리스마스 이브에 가족·이웃이 손님으로 모인 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0579,가정·사교·공동체,일상·사교형,high,크리스마스 이브 가족 저녁 모임 등 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0580,가정·사교·공동체,일상·사교형,high,크리스마스 당일 가족 저녁 초대와 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0581,가정·사교·공동체,일상·사교형,high,크리스마스 당일 가족 만찬 모임을 알리는 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0582,가정·사교·공동체,일상·사교형,high,"지역 사교 소식, 홈메이커스 클럽 크리스마스 파티",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0583,가정·사교·공동체,일상·사교형,high,크리스마스 연휴를 자녀와 보내러 온 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0584,가정·사교·공동체,일상·사교형,high,크리스마스 휴일을 보내러 온 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0585,가정·사교·공동체,일상·사교형,medium,크리스마스 방학에 귀가한 학생의 개인 소식; 설교는 부수적,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0586,가정·사교·공동체,일상·사교형,high,크리스마스 연휴에 친척을 방문했다는 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0587,종교·기원,예배·신학,medium,장로교회에서 선교사 지도로 크리스마스 이브 프로그램 진행; 교회 주관 규칙 적용,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0588,시사·기타,시사·단신,medium,크리스마스는 수술 날짜 표지로만 쓰인 지역 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0589,가정·사교·공동체,일상·사교형,high,지역 사교 소식: 크리스마스를 부모와 함께 보냄,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0590,가정·사교·공동체,일상·사교형,high,크리스마스 만찬과 친지 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0591,가정·사교·공동체,일상·사교형,high,크리스마스 휴일에 친척을 방문한 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0592,가정·사교·공동체,일상·사교형,high,크리스마스 당일 저녁 손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0593,가정·사교·공동체,일상·사교형,high,크리스마스 당일 손님 방문 등 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0594,가정·사교·공동체,일상·사교형,high,크리스마스 연휴 가족 방문·손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0595,가정·사교·공동체,일상·사교형,high,크리스마스 만찬 손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0596,가정·사교·공동체,일상·사교형,high,크리스마스를 가족과 보내러 온 방문객 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0597,가정·사교·공동체,일상·사교형,high,크리스마스를 친척과 보낸 가족 방문·저녁식사 개인 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0598,가정·사교·공동체,일상·사교형,high,크리스마스 휴일을 부모와 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0599,가정·사교·공동체,일상·사교형,high,크리스마스 날 가족 저녁식사·방문을 전하는 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0600,가정·사교·공동체,일상·사교형,high,Christmas day 가족 방문·손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0601,가정·사교·공동체,일상·사교형,high,크리스마스 당일 가족·지인 방문을 전하는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0602,가정·사교·공동체,일상·사교형,high,크리스마스 손님·방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0603,가정·사교·공동체,일상·사교형,high,"크리스마스 휴가, 가족 방문과 저녁 식사 등 지역 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0604,가정·사교·공동체,일상·사교형,high,크리스마스 당일 가족 방문·손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0605,가정·사교·공동체,일상·사교형,high,크리스마스 이브 손님과 휴일 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0606,가정·사교·공동체,일상·사교형,high,크리스마스 만찬과 손님 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0607,가정·사교·공동체,일상·사교형,high,"지역 단신: 크리스마스 이브 손님, 크리스마스 날 가족 초대 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0608,가정·사교·공동체,일상·사교형,high,크리스마스 당일 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0609,가정·사교·공동체,일상·사교형,high,크리스마스 휴가를 부모와 보내려 도착한 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0610,가정·사교·공동체,일상·사교형,high,부모와 함께 크리스마스를 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0611,가정·사교·공동체,일상·사교형,low,"가정란의 프레리 크리스마스 회상 칼럼, 트리 언급; 심하게 훼손된 OCR",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0612,가정·사교·공동체,일상·사교형,medium,"어린 시절 가정의 크리스마스 트리 회상, 가정 일상 추억",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0613,가정·사교·공동체,일상·사교형,medium,"개인 회고, 가정의 크리스마스 트리 추억 이야기",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0614,가정·사교·공동체,일상·사교형,medium,"개인적 회상, 가정의 크리스마스 트리와 장식 이야기",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0615,가정·사교·공동체,일상·사교형,medium,"학교 크리스마스 프로그램과 트리 촛불 회상, 세속적 공동체 풍경",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0616,가정·사교·공동체,일상·사교형,medium,"어린 시절 크리스마스 트리 행사 회고; 낭송·노래 등 학교/공동체 행사, 종교 주관 불명",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0617,가정·사교·공동체,일상·사교형,medium,"크리스마스 전 시내 구경 등 개인 회고, 장식과 선물 보는 명절 즐거움",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0618,가정·사교·공동체,일상·사교형,high,"가족의 크리스마스 이브 회상: 썰매, 노래, 선물",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0619,가정·사교·공동체,일상·사교형,low,"어린 시절 선물·인형 회상, 가정의 크리스마스 추억; 앞부분 훼손",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0620,가정·사교·공동체,일상·사교형,low,"옛 크리스마스 선물·장난감 회고, 광고 아님; 가정의 선물 풍속 묘사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0621,종교·기원,예배·신학,low,"별빛 묘사 속 첫 성탄 전야의 동방박사 별 언급, 서정적·종교적 이미지",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0622,종교·기원,예배·신학,medium,성탄을 아기 예수와 성가족의 이야기로 풀이하는 신학적·설교적 성찰,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0623,종교·기원,예배·신학,low,"몰약·희생 언급, 축복 기원 메시지; 광고 여부 불분명, 서명 있음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0624,가정·사교·공동체,일상·사교형,high,클럽 선물 교환과 크리스마스 만찬 손님 등 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0625,가정·사교·공동체,일상·사교형,high,가족 크리스마스 만찬과 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0626,가정·사교·공동체,일상·사교형,high,크리스마스 주말을 친척과 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0627,가정·사교·공동체,일상·사교형,high,크리스마스 연휴를 지낸 개인 사교 소식과 생일 모임,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0628,가정·사교·공동체,일상·사교형,high,크리스마스 연휴를 친구 집에서 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0629,가정·사교·공동체,일상·사교형,high,크리스마스를 친지와 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0630,가정·사교·공동체,일상·사교형,high,크리스마스를 아들 가족과 보내고 저녁 초대받은 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0631,가정·사교·공동체,일상·사교형,high,가족 크리스마스 만찬과 친지 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0632,가정·사교·공동체,일상·사교형,high,크리스마스 당일 손님 방문을 알리는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0633,가정·사교·공동체,일상·사교형,high,가족이 함께 크리스마스를 보내고 만찬에 초대된 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0634,가정·사교·공동체,일상·사교형,high,크리스마스 당일 가족 만찬 손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0635,가정·사교·공동체,일상·사교형,high,"지역 사교 소식: 가족 손님, 학교 크리스마스 파티, 저녁 식사 손님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0636,가정·사교·공동체,일상·사교형,high,"지역 사교 소식: 크리스마스 방학 방문, 크리스마스이브 손님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0637,가정·사교·공동체,일상·사교형,high,크리스마스 이브 방문·손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0638,가정·사교·공동체,일상·사교형,high,크리스마스 만찬 손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0639,가정·사교·공동체,일상·사교형,high,"지역 소식란: 크리스마스 이브를 친척과 보냄, 방문·캐롤 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0640,가정·사교·공동체,일상·사교형,high,크리스마스 이브와 당일을 친척 집에서 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0641,가정·사교·공동체,일상·사교형,high,"크리스마스를 가족과 보낸 개인 사교 소식, 저녁식사와 방문 중심",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0642,가정·사교·공동체,일상·사교형,high,크리스마스 주말 친지 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0643,가정·사교·공동체,일상·사교형,high,크리스마스 이브를 친척 집에서 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0644,가정·사교·공동체,일상·사교형,high,가족 크리스마스 모임을 알리는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0645,가정·사교·공동체,일상·사교형,high,가족 크리스마스 모임과 친척 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0646,가정·사교·공동체,일상·사교형,high,"지역 소식: 캐럴 부르기, 크리스마스를 자녀와 보내러 방문",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0647,가정·사교·공동체,일상·사교형,high,크리스마스 날 손님과 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0648,가정·사교·공동체,일상·사교형,high,크리스마스 주말을 친척과 보내는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0649,가정·사교·공동체,일상·사교형,high,"지역 사교 소식, 크리스마스 휴가에 귀향·방문",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0650,가정·사교·공동체,일상·사교형,high,"지역 사교 단신: 크리스마스를 마일스시티에서 보냈다, 방학 귀가 등",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0651,가정·사교·공동체,일상·사교형,high,크리스마스 파티와 가족 만찬 손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0652,가정·사교·공동체,일상·사교형,high,"지역 사교 소식, 가족 크리스마스 모임과 손님 방문",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0653,가정·사교·공동체,일상·사교형,high,가족 크리스마스 모임과 방문을 전하는 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0654,가정·사교·공동체,일상·사교형,high,크리스마스 휴가·가족 모임을 전하는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0655,가정·사교·공동체,일상·사교형,high,크리스마스 당일 가족 방문을 전하는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0656,가정·사교·공동체,일상·사교형,high,가족이 크리스마스 이브와 당일을 함께 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0657,가정·사교·공동체,일상·사교형,high,크리스마스에 손님을 맞은 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0658,가정·사교·공동체,일상·사교형,high,"크리스마스 손님, 가족 방문 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0659,가정·사교·공동체,일상·사교형,high,크리스마스 이브 방문과 손님 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0660,가정·사교·공동체,일상·사교형,high,크리스마스 손님과 가족 방문을 전하는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0661,가정·사교·공동체,일상·사교형,medium,지역 사교 소식(손님 방문)이며 자정미사 참석은 한 줄 언급에 그침,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0662,가정·사교·공동체,일상·사교형,high,"지역 사교 소식, 크리스마스 손님으로 방문한 가족 모임",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0663,가정·사교·공동체,일상·사교형,high,크리스마스 손님·가정 방문을 다룬 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0664,가정·사교·공동체,일상·사교형,high,"지역 사교 소식: 방문객, 크리스마스 귀향, 신년 무도회 안내",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0665,가정·사교·공동체,일상·사교형,high,친척과 크리스마스를 보냈다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0666,가정·사교·공동체,일상·사교형,high,지역 사교란: 크리스마스를 친지 집에서 보냈다는 개인 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0667,가정·사교·공동체,일상·사교형,high,크리스마스를 친지와 보낸 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0668,가정·사교·공동체,일상·사교형,high,"크리스마스 방학 귀향, 친척과 저녁식사 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0669,종교·기원,예배·신학,high,"루터교 채플의 크리스마스 이브 예배 안내, 예배 중심",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0670,종교·기원,예배·신학,high,"루터교 채플의 성탄 전야 예배와 설교 안내, 성경 중심",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0671,가정·사교·공동체,자선·나눔형,high,"크리스마스 바구니, 어려운 가정에 음식·의류 지원 준비",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0672,상업·소비,판촉·광고형,high,Davall Merc 상점의 크리스마스 고객 감사 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0673,가정·사교·공동체,일상·사교형,medium,"클럽 달력의 크리스마스 파티 안내, 시청에서 열리는 사교 모임",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0674,가정·사교·공동체,일상·사교형,high,클럽 모임에서 크리스마스 선물 교환과 게임을 한 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0675,가정·사교·공동체,일상·사교형,medium,레인보 어셈블리 주최 연휴 댄스 등 사교 행사 소식; 교회 헤드라인은 일부만 관련,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0676,가정·사교·공동체,일상·사교형,high,"클럽 크리스마스 파티, 게임, 상품, 선물 교환 등 사교 모임 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0677,가정·사교·공동체,일상·사교형,high,모임 후 선물 교환 크리스마스 파티를 한 클럽 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0678,종교·기원,예배·신학,high,교회들의 성탄 전야·성탄절 예배 안내 공지,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0679,종교·기원,예배·신학,high,교회 예배 안내와 교회가 주관하는 성탄 프로그램 공지,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0680,종교·기원,예배·신학,high,교회들의 성탄 전야 프로그램과 예배 시간 안내,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0681,종교·기원,예배·신학,high,"교회의 주일학교 프로그램, 저녁 예배, 자정 미사 일정 안내",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0682,종교·기원,예배·신학,medium,교회들의 성탄절 예배 안내가 중심이며 선교회 파티는 부차적,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0683,가정·사교·공동체,일상·사교형,low,"교회 여성모임 소식, 크리스마스 이야기 낭독; 사교 모임 단신 성격",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0684,가정·사교·공동체,일상·사교형,high,"Eastern Star 가족 만찬, 어린이 캐럴, 산타 방문 등 공동체 행사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0685,가정·사교·공동체,자선·나눔형,medium,모임에서 마을 홈 회원에게 보낼 쿠키·사탕 선물과 크리스마스 트리 기증,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0686,가정·사교·공동체,일상·사교형,medium,개인 방문·가족 소식 사교란; Christmas는 시점 표지로만 쓰임,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0687,가정·사교·공동체,일상·사교형,high,"개인 사교 소식: 크리스마스를 지인 가정에서 보냄, 손님 방문",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0688,가정·사교·공동체,일상·사교형,high,휴일 손님·가족 방문을 알리는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0689,상업·소비,판촉·광고형,medium,"Piper Drugs의 새해·크리스마스 인사 광고, 일부 OCR 깨짐",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0690,상업·소비,판촉·광고형,medium,은행 명의의 연말 인사 광고; 뒤의 파티 기사는 별개 항목,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0691,가정·사교·공동체,일상·사교형,high,"OES 지부의 연례 크리스마스 파티와 프로그램, 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0692,가정·사교·공동체,일상·사교형,medium,"파티, 트리, 선물 교환, 캐럴; 모임 소식이 중심, 구호 바구니는 부수적",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0693,가정·사교·공동체,일상·사교형,medium,크리스마스 방학에 귀향한 학생들의 개인 사교 소식. 장례식장 광고 조각은 부차적.,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0694,가정·사교·공동체,일상·사교형,high,크리스마스를 가족과 보내러 온 손님들의 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0695,가정·사교·공동체,일상·사교형,high,"가족 방문 등 개인 사교 소식(""spent Christmas with son-in-law"")",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0696,가정·사교·공동체,일상·사교형,high,크리스마스를 부모 집에서 보내는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0697,가정·사교·공동체,일상·사교형,high,교회 모임이지만 가정에서 연 크리스마스 친목 모임 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0698,종교·기원,예배·신학,low,교회에서 예수 탄생 영화와 캐럴 상영; 지역 소식 속 혼합,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0699,가정·사교·공동체,일상·사교형,high,"크리스마스를 딸 가족과 보내러 온 방문 소식, 개인 사교 단신",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0700,가정·사교·공동체,일상·사교형,high,지역 사교 소식 속 학교 크리스마스 프로그램 참석 언급,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0701,가정·사교·공동체,일상·사교형,high,학교 크리스마스 프로그램 참석 등 지역 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0702,가정·사교·공동체,일상·사교형,high,"지역 소식란: 크리스마스 휴가, 학교 크리스마스 프로그램 참석 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0703,가정·사교·공동체,일상·사교형,high,"지역 사교 단신: 크리스마스 방학을 친지 집에서 보냄, 방문 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0704,가정·사교·공동체,일상·사교형,medium,"휴가 친척 방문, 지부 크리스마스 파티 등 개인 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0705,종교·기원,예배·신학,medium,행사 목록이나 침례교회 성탄 연극 공지가 핵심,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0706,가정·사교·공동체,일상·사교형,medium,"개인 감사 카드와 크리스마스 인사, 상업 광고 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0707,가정·사교·공동체,일상·사교형,high,크리스마스를 가족과 보내는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0708,상업·소비,상업화 비판·성찰형,medium,부유한 나라의 크리스마스 쇼핑 지출 최고치를 언급하는 성찰적 논평,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0709,상업·소비,상업화 비판·성찰형,medium,산타 중심 축제가 예수를 가린다는 성찰적 논평,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0710,상업·소비,상업화 비판·성찰형,medium,"X-mas 약칭과 받으려고 주는 풍조를 비판, 교회 출석 성찰",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0711,종교·기원,예배·신학,medium,"크리스마스를 주의 탄생 기념으로 설명하는 종교적 논평, 교회 출석 언급",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0712,상업·소비,상업화 비판·성찰형,medium,"상업주의에 휩쓸리지 말고 사랑과 나눔, 성탄 이야기를 강조하는 성찰",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0713,가정·사교·공동체,일상·사교형,high,크리스마스 휴가를 가족과 보낸다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0714,상업·소비,상업화 비판·성찰형,medium,아이들의 경이가 비싼 선물보다 소중하다는 성찰; 상점 광고 흔적 있어 medium,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0715,상업·소비,상업화 비판·성찰형,medium,"""Christ를 되찾자, 손 아닌 마음으로 주자"" 등 선물 중심 풍조 성찰",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0716,종교·기원,예배·신학,medium,크리스마스의 참뜻과 예수를 언급하는 신앙적 메시지,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0717,상업·소비,판촉·광고형,medium,Mercury 선외기 크리스마스 선물 광고가 키워드 가까이에 있음. 빙고 공지는 부차적.,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0718,종교·기원,예배·신학,low,"헤드라인 ""교회들이 예배로 성탄 알림""; 나머지는 농장협회 기사로 무관",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0719,시사·기타,시사·단신,high,"학교 크리스마스 방학 일정 공지, 날짜 표지로만 사용",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0720,가정·사교·공동체,일상·사교형,medium,"클럽 모임의 ""유럽의 크리스마스"" 테이블 장식 주제, 사교 행사 보도",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0721,시사·기타,시사·단신,low,"클럽 모임·수영장 규정 등 잡다한 단신, 크리스마스 이브는 부수적 언급",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0722,가정·사교·공동체,일상·사교형,high,"초등학교가 학부모 대상으로 연 크리스마스 프로그램, 종교 기관 주관 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0723,가정·사교·공동체,일상·사교형,medium,"학교 학급별 크리스마스 노래 프로그램, 교회 주관 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0724,가정·사교·공동체,일상·사교형,medium,"학교 학급들이 크리스마스 시와 캐롤로 꾸민 프로그램, 종교 단체 주관 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0725,가정·사교·공동체,일상·사교형,medium,"학교 학급별 크리스마스 노래 발표 프로그램, 종교단체 주관 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0726,가정·사교·공동체,일상·사교형,medium,"학교 초등학생 캐럴 공연 프로그램, 교회 주관 언급 없음",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0727,종교·기원,예배·신학,medium,교회들이 성탄 전야·당일 특별 예배와 어린이 프로그램을 알림,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0728,종교·기원,예배·신학,medium,"교회 예배 안내, 영적 의미 강조, 자정 성찬식; 트리·파티도 언급",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0729,종교·기원,예배·신학,medium,"교회 성탄 예배 안내가 키워드 가까이에 있고, 공원 캐럴 모임이 함께 언급됨",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0730,시사·기타,시사·단신,high,"부족 일인당 지급금 소식, 크리스마스는 시기 표지로만 쓰임",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0731,종교·기원,예배·신학,medium,"본당의 고해·자정 미사 일정 공지, 어린이 파티가 섞임",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0732,종교·기원,예배·신학,high,교회의 성탄 미사·예배 일정 공지,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0733,종교·기원,예배·신학,high,교회·주일학교가 주관하는 성탄 프로그램과 예배 안내,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0734,종교·기원,예배·신학,high,교회가 주최하는 성탄 예배와 어린이 프로그램 안내,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0735,종교·기원,예배·신학,high,"교회 주일학교의 성탄 이야기 재현, 예배, 성가대 캐럴 안내",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0736,종교·기원,예배·신학,high,교회의 촛불예배와 크리스마스 프로그램 안내,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0737,가정·사교·공동체,일상·사교형,high,"라이온스 클럽 크리스마스 파티, 산타 방문과 아이들 게임",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0738,종교·기원,기원·역사해설,medium,크리스마스 카드 풍습의 기원을 설명하는 역사 해설 글,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0739,종교·기원,기원·역사해설,high,최초의 크리스마스 카드(1843 콜-호슬리) 역사 설명,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0740,종교·기원,기원·역사해설,medium,크리스마스 카드의 역사(프랑 프랑 초기 카드 출판) 해설,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0741,가정·사교·공동체,일상·사교형,medium,크리스마스 직전 가족·축제 분위기와 옛 관습을 다룬 지역 기사,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0742,종교·기원,예배·신학,medium,"크리스마스를 예배의 날로 강조, 교회 특별 예배 안내가 키워드 근처",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0743,종교·기원,예배·신학,medium,"강탄 장면, 구유, 목자와 동방박사 등 종교적 이미지 강조; 가정 준비와 혼재",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0744,가정·사교·공동체,자선·나눔형,low,"나눔과 친절, 어려운 이웃을 행복하게 하는 기회를 강조; 선물·산타 장면도 섞임",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0745,가정·사교·공동체,자선·나눔형,medium,"지역 주민이 나눔을 베푼 기쁨과 평화, 가족·우정의 소중함 강조",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0746,상업·소비,상업화 비판·성찰형,low,"성탄절의 의미를 되새기는 성찰적 글, 주고받는 마음 강조; 모호함",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0747,종교·기원,기원·역사해설,medium,키워드 인접부는 1492년 첫 신대륙 성탄절 역사 소개; 앞부분은 상인 인사 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0748,가정·사교·공동체,자선·나눔형,low,어린이 병원·홈 홍보 문구로 보여 모금·나눔 성격이나 OCR 훼손이 심함,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0749,시사·기타,시사·단신,low,"광고 조각과 1944년 전쟁기 크리스마스 회고담이 섞인 글, 뚜렷한 분류 어려움",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0750,시사·기타,시사·단신,high,"벌지 전투·바스토뉴 포위 서술, 크리스마스는 암호명일 뿐",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0751,가정·사교·공동체,일상·사교형,medium,"전시 파리 살롱에서 군인들과 캐럴 부르며 보낸 개인 회상, 사교적 모임",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0752,가정·사교·공동체,일상·사교형,low,크리스마스 어린 시절 추억 회상; 앞부분은 기도 언급과 혼재,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0753,가정·사교·공동체,일상·사교형,high,가족과 함께한 어린 시절 크리스마스 추억을 회상하는 개인적 글,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0754,가정·사교·공동체,일상·사교형,medium,"가족 식사, 선물, 자정미사 포함한 개인적 크리스마스 회상; 가정 중심",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0755,가정·사교·공동체,일상·사교형,medium,"가족, 전통, 선물 등 크리스마스의 개인적 의미를 회고하는 글",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0756,가정·사교·공동체,일상·사교형,medium,"크리스마스의 정, 가족과 친구, 개인적 추억을 회고하는 글",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0757,가정·사교·공동체,일상·사교형,medium,"새 딸과 함께한 가족의 크리스마스 추억담, 개인 가정 이야기",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0758,시사·기타,시사·단신,medium,"우체국장의 조기 발송 협조 감사 공지, 상업 광고 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0759,시사·기타,시사·단신,medium,우체국장의 크리스마스 우편 발송 안내 공지,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0760,상업·소비,판촉·광고형,high,상호와 상품명이 있는 사업체의 크리스마스 인사 광고,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0761,시사·기타,시사·단신,medium,크리스마스 카드 우편 발송 안내 공지가 키워드 근처; 앞은 광고 조각,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0762,시사·기타,시사·단신,high,"우체국 업무 공지, 크리스마스 이브는 시점 표지일 뿐; 부고 기사 포함",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0763,상업·소비,판촉·광고형,medium,"공항 직원 명의의 ""Merry Christmas"" 인사 광고; 항공편 일정 속에 포함",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0764,시사·기타,시사·단신,low,"연설 대회 소식에서 크리스마스 시즌은 배경 언급일 뿐, 평화와 풍요 주제 연설",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0765,가정·사교·공동체,일상·사교형,high,크리스마스 주간 아들 부부 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0766,가정·사교·공동체,일상·사교형,medium,"모임의 선물 교환, 합창, 크리스마스 기사 낭독 등 단체 사교 행사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0767,상업·소비,판촉·광고형,high,"식료품점 광고: 가격, 크리스마스 사탕·견과, 트리 판매",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0768,종교·기원,예배·신학,high,교회들의 성탄절 예배 시간 안내,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0769,종교·기원,예배·신학,high,감리교 주일학교가 성경의 탄생 이야기를 다룬 프로그램을 발표함,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0770,종교·기원,예배·신학,high,루터교회의 성탄 음악·주일학교 프로그램·성탄 예배 안내,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0771,가정·사교·공동체,일상·사교형,medium,"청년·대학생 크리스마스 친교 모임과 파티 안내, 예배 중심 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0772,상업·소비,판촉·광고형,low,"garbled; 상점 광고 인사말(""Jerry's Market"", 보험 광고)이 키워드 근처",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0773,가정·사교·공동체,일상·사교형,high,"병원 직원 연례 크리스마스 만찬, 사교 모임 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0774,가정·사교·공동체,일상·사교형,high,"손님 만찬 모임, 크리스마스 트리와 식탁 장식 묘사",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0775,가정·사교·공동체,일상·사교형,high,"크리스마스 이브 은행 직원 초대 파티, 장식과 뷔페 등 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0776,가정·사교·공동체,일상·사교형,high,직장 직원 크리스마스 오찬·파티 행사 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0777,가정·사교·공동체,일상·사교형,high,"직원과 배우자 대상 칠면조 만찬·크리스마스 파티, 선물 교환 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0778,가정·사교·공동체,일상·사교형,medium,크리스마스 퍼레이드 가든클럽 float 소개; 옆의 업체 인사광고는 부차적,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0779,가정·사교·공동체,일상·사교형,high,정원 클럽 어린이들이 퍼레이드에서 캐럴을 부르는 지역 행사,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0780,가정·사교·공동체,일상·사교형,high,"직원 가족이 참석한 크리스마스 파티, 산타 방문 등 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0781,가정·사교·공동체,일상·사교형,high,크리스마스 휴일을 딸 가족과 보낸다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0782,가정·사교·공동체,일상·사교형,high,"비밀친구 공개와 선물 교환, 여주인 접대 등 사교 모임 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0783,가정·사교·공동체,일상·사교형,high,"홈 데먼스트레이션 클럽의 크리스마스 파티, 사교 소식",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0784,가정·사교·공동체,일상·사교형,medium,클럽 모임 다과와 선물 교환 중심; 교회 프로그램 취소는 부차적,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0785,가정·사교·공동체,일상·사교형,medium,"교회 친교관 어린이 트리 행사, 산타 선물 전달; 예배 중심 아님",ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0786,가정·사교·공동체,일상·사교형,high,크리스마스 아침 귀향·가족 방문 등 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0787,가정·사교·공동체,일상·사교형,high,크리스마스를 친척과 보낸다는 개인 사교 소식,ok,claude-sonnet-5-5,v0.3-presenter-rule
+S0788,상업·소비,판촉·광고형,high,"상점명이 붙은 크리스마스 인사 광고(Wilson's Flower Box, Ben Franklin Store)",ok,claude-sonnet-5-5,v0.3-presenter-rule
