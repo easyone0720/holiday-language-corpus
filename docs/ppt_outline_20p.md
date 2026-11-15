@@ -5,6 +5,7 @@
 - 표기: **[AI]** = AI가 수행한 처리, **[연구자]** = 연구자가 직접 설계·검수·해석한 부분
 - 1960–63은 4개년 표본이므로 집계 표·그래프에 항상 `(4 yrs, n=71)`을 표기함
 - 2026-11-15 22시대 수정: 차트 DF 표기 삭제, 13쪽 2단계 추이 차트 추가, 시기별 조각 수 차트를 5쪽 메인으로 배치, 빈티지 크리스마스 팔레트 적용(`src/generate_ppt_charts.py`, 이미지는 `outputs/ppt_charts/`)
+- 2026-11-15 23시대 수정: 차트를 롤리팝(5쪽)·기울기 그래프(8쪽)·산점도(10쪽)·100% 누적 영역(12쪽)·히트맵·선+영역과 지표 요약(16쪽)으로 개편, 13쪽 추이 차트 제목 겹침 수정(`src/generate_ppt_charts.py`). 구성안의 쪽 배치는 기존 구성안 기준(히트맵은 12·13쪽 겸용).
 
 ## 구성안 작성 전 확인 사항
 
@@ -58,7 +59,7 @@
   - 시기: 1900s~1950s(10년 단위 6개) + 1960–63(4 yrs, n=71)
   - 표본 지역: 몬태나 22면 / 메인 8면 / 미시시피 4면 / 루이지애나 1면
   - [AI 수행 아님] 수집·표집·정제 규칙은 연구자가 설계
-- 시각화: `outputs/ppt_charts/slide05_period_counts.png` — `summary_period_category_v0.3.csv`의 `n` 막대(시기별 137/153/114/83/88/142/71, 합계 n=788). 시기별 조각 수 차트는 발표 전체에서 이 쪽에 메인으로 배치. 1960–63은 `(4 yrs, n=71)`로 표기.
+- 시각화: `outputs/ppt_charts/slide05_period_counts.png` — 롤리팝 차트(세로선+원형 마커+상단 수치). `summary_period_category_v0.3.csv`의 `n`(시기별 137/153/114/83/88/142/71, 합계 n=788). 시기별 조각 수 차트는 발표 전체에서 이 쪽에 메인으로 배치. 1960–63은 `(4 yrs, n=71)`로 표기.
 - 대본: 데이터는 지면 단위로 뽑은 문맥 조각입니다. 시기별 조각 수가 다르고 1960–63은 4개년 표본이라는 점을 먼저 밝힙니다.
 
 **6쪽. [데이터 구조] "한 조각은 무엇으로 이루어졌나"**
@@ -72,7 +73,7 @@
 **7쪽. [품질 점검] "연구자가 직접 찾아낸 두 가지 문제: OCR 잡음과 지면 집중"**
 - 본문
   - [연구자 발견] 1908-12-30 메인 지면은 45조각 중 한 범주가 98%, 1919-12-18 루이지애나 지면은 `christmas sale` 17건이 전부 한 면
-  - 이 표현은 TF 17, 출현 지면 수(DF) 1. 한 면에서 반복된 것이므로 시대 경향으로 읽으면 안 됨
+  - 이 표현은 17건, 등장한 신문 지면 수 1면. 한 면에서 반복된 것이므로 시대 경향으로 읽으면 안 됨
   - [AI 보조] 지면 균등 가중 재계산(`bias_adjusted_period_category.csv`): 1910s 상업·소비는 합산 대비 +8.9%p
 - 시각화: ※ 기존 `slide07_tf_vs_df.png`(TF·DF 비교)는 DF 표기 삭제 방침에 따라 폐기됨. 대체 시각화는 미정(예: `christmas sale` 17건이 전부 1919-12-18 한 지면에서 나왔음을 보여 주는 원문 발췌 카드. 출처 `ngram_context_christmas_sale_v0.3.csv`).
 - 대본: 표집 단위가 신문 한 면이라 한 면이 결과를 크게 흔들 수 있습니다. 광고 한 면이 17건을 만든 사례가 대표적이고, 이를 알아내서 보정 분석을 따로 했습니다.
@@ -83,7 +84,7 @@
   - [연구자] v0.1 오분류 5건을 직접 분석(S0154, S0349, S0369, S0362: 교회·주일학교·병원 행사를 AI가 가정·사교로 분류 / S0526: 노래 해설을 시사·기타로 분류)
   - v0.2 경계 규칙(86.7%, 오히려 하락) → v0.3 주최자 규칙(91.1%): "프로그램을 주최한 곳이 교회·종교단체면 예배·신학"
   - 일반 규칙만 쓰고 개별 사례용 특수 규칙은 만들지 않음
-- 시각화: `outputs/ppt_charts/slide08_version_accuracy.png` — `summary_versions_v0.3.csv`의 v0.1/v0.2/v0.3 정확도 3막대(v0.1 버건디, v0.2·v0.3 세이지 빗금). v0.3 막대에 "검증 표본을 본 뒤 보정(탐색적)" 주석을 붙이고, 아래에 `eval_mismatches_v0.1-draft.csv` 5건 요약표.
+- 시각화: `outputs/ppt_charts/slide08_version_slope.png` — 기울기 그래프. v0.1 → v0.2 → v0.3의 범주 정확도(88.9 → 86.7 → 91.1%)와 종교·기원 재현율(50.0% → 37.5% → 75.0%; 4/8 → 3/8 → 6/8건)을 두 선으로 표시(v0.1 채운 점=공식 기준선, v0.2·v0.3 빈 점·점선=탐색적). 재현율은 8건 기준이라 방향만 참고한다는 주석 포함. 근거: `summary_versions_v0.3.csv`, `eval_confusion_v0.{1,2,3}-*.csv`. 아래에 `eval_mismatches_v0.1-draft.csv` 5건 요약표.
 - 대본: AI의 틀린 사례를 연구자가 읽고 원인을 찾아 규칙을 바꿨습니다. 규칙을 많이 넣는다고 좋아지지는 않아서, v0.2에서는 오히려 점수가 내려갔습니다.
 
 ## 03. 탐색적 데이터 분석 (9–11쪽)
@@ -101,9 +102,9 @@
 - 본문
   - 2-gram 상위: christmas day 58(7.4%), christmas tree 53(6.7%), christmas eve 46, passed christmas 36, spent christmas 33
   - 두 표현은 7개 시기 모두에서 나타나지만 시기별 건수는 2~18건 수준
-  - 출현 지면 수(DF): `christmas tree` 21면, `christmas day` 19면(전체 35면)으로 여러 지면에 퍼져 있음
+  - 등장한 신문 지면 수: `christmas tree` 21면, `christmas day` 19면(전체 35면)으로 여러 지면에 퍼져 있음
   - [AI] N-gram 추출 / [연구자] 광고 한 면 집중 표현(`christmas sale`)과 구분
-- 시각화: `outputs/ppt_charts/slide10_top10_ngrams.png` — `ngram_frequency_v0.3.csv` 상위 10개 가로막대. `christmas day`(58)·`christmas tree`(53)만 버건디 브라운으로 강조하고 나머지는 베이지, 막대 끝에는 건수(n)만 표기.
+- 시각화: `outputs/ppt_charts/slide10_ngram_scatter.png` — 산점도. 가로 = 표현이 나온 총 건수(n), 세로 = 표현이 나온 신문 지면 수(전체 35면). 오른쪽 위 `christmas day`(58건·19면)·`christmas tree`(53건·21면)는 여러 면에 퍼진 핵심 표현, 오른쪽 아래 `christmas sale`(17건·1면)은 한 면(1919-12-18 광고 지면)에 몰린 표현으로 대비. 근거: `ngram_frequency_v0.3.csv`, `ngram_instances_v0.3.csv`(`page_id`).
 - 대본: 가장 자주 나온 표현은 `christmas day`와 `christmas tree`입니다. 한 지면이 아니라 여러 지면에 퍼져 있다는 점이 중요합니다.
 
 **11쪽. [초기 패턴과 방향] "표면 빈도만으로는 부족하다"**
@@ -122,7 +123,7 @@
   - 종교·기원: 12.4 / 16.3 / 35.1 / 8.4 / 40.9 / 10.6 / 26.8%. 1920s와 1940s에 높음
   - 상업·소비: 1900s 5.8%에서 1940s 21.6%까지 상승 후 1950s 7.0%. 시사·기타는 1940s 14.8%, 1960–63 14.1%
   - [AI] 분류 집계 / [연구자] 시기당 5면 표본이라 면 효과를 함께 표시
-- 시각화: `outputs/ppt_charts/slide12_period_category_stacked.png` — `summary_period_category_v0.3.csv`의 100% 누적 막대(시기별 4색). x축은 `1960–63 (4 yrs, n=71)`로 표기.
+- 시각화: `outputs/ppt_charts/slide12_period_category_area.png` — 100% 누적 영역 차트(메인 결과). `summary_period_category_v0.3.csv`; 1920s·1940s 종교·상업 확장, 1950s 가정·사교 회귀 지점에 수치 라벨. 시기 사이는 표본값을 이은 연결선임을 부제에 표기. 보조로 같은 쪽 또는 13쪽에서 `outputs/ppt_charts/slide13_subtype_heatmap.png`(시기 × 7개 세부유형 히트맵, `summary_period_subtype_v0.3.csv`; 1940s 시사·단신 14.8%, 상업화 비판·성찰형의 출현 시기를 금색 테두리로 표시)를 사용. x축은 `1960–63 (4 yrs, n=71)`로 표기.
 - 대본: 비율이 한쪽으로 꾸준히 움직이지 않고, 1920s와 1940s에 종교·상업이 올라갑니다. 다만 시기당 표본이 5면뿐이라 변동의 일부는 지면 차이일 수 있습니다.
 
 **13쪽. [표현과 범주 매핑] "표현이 곧 맥락을 말해 주는가"**
@@ -132,7 +133,7 @@
   - `christmas sale`: 100% 상업·소비(17건, 한 면). `merry christmas`: 상업·소비 51.7%(15/29, 인사 광고 규칙의 영향)
   - `passed christmas`·`spent christmas`: 각 100% 가정·사교
   - ※ 표현과 범주의 대응은 일관성 점검이지 독립 증거가 아님
-- 시각화(2단계 구성): ① `outputs/ppt_charts/slide13_ngram_category_mapping.png` — `ngram_category_v0.3.csv` 상위 6개 표현의 4대 범주 비중 가로 100% 막대(개요). ② `outputs/ppt_charts/slide13_top2_ngrams_period_trend.png` — `christmas day`(n=58)와 `christmas tree`(n=53)의 10년 단위(1900s~1960–63) 4대 범주 비율을 좌우 2단으로 비교(`ngram_instances_v0.3.csv`, `ngram_context_christmas_{day,tree}_v0.3.csv`와 건수 일치 확인). 막대 위에 시기별 건수(n) 표기, n이 5 미만인 시기는 흐리게 표시해 해석 주의를 알림.
+- 시각화: ① `outputs/ppt_charts/slide13_top2_ngrams_period_trend.png` — `christmas day`(n=58)와 `christmas tree`(n=53)의 10년 단위 4대 범주 비율을 좌우 2단으로 비교(`ngram_instances_v0.3.csv`, `ngram_context_christmas_{day,tree}_v0.3.csv`와 건수 일치 확인). 막대 위에 시기별 건수(n) 표기, n이 5 미만인 시기는 흐리게 표시. ② 개요가 필요하면 12쪽 히트맵(`slide13_subtype_heatmap.png`)을 같은 쪽에 작게 병기. ※ 기존 `slide13_ngram_category_mapping.png`(상위 6개 표현 가로 막대)는 이번 개정에서 생성 목록에서 빠짐.
 - 대본: 두 핵심 표현은 가정과 사교 맥락이 중심이지만 종교 맥락도 5분의 1 안팎입니다. 광고 표현은 한 지면에 몰린 것이라 따로 구분해서 보았습니다.
 
 **14쪽. [원문 독해] "숫자 뒤의 실제 문장을 읽다"**
@@ -159,7 +160,7 @@
   3. [저신뢰·경계 사례 점검] low 96건(12.2%). 1920s 28.1%, 1940s 23.9%로 높음. 남은 불일치 4건: S0507, S0526, S0369, S0362
   4. [N-gram 대조] 표면 표현과 AI 범주의 대응 확인(순환적이라 보조 근거)
   - κ는 "우연히 맞은 몫을 뺀 일치도"로 풀어 설명
-- 시각화: `summary_versions_v0.3.csv` 정확도·κ 표, `summary_reproducibility_v0.3.csv` 일치율 게이지, 시기별 low 비중 막대(`outputs/ppt_charts/slide16_low_confidence_by_period.png`, `summary_period_confidence_v0.3.csv`), `eval_mismatches_v0.3-presenter-rule.csv` 4건 표.
+- 시각화: `outputs/ppt_charts/slide16_validation_summary.png` — 시기별 low 신뢰도 비중 선+영역 차트(1920s 28.1%, 1940s 23.9% 강조, 전체 평균 12.2% 점선)와 오른쪽 지표 3개(범주 정확도 88.9%·재실행 일치율 97.8%·low 12.2%). 그 밖에 `summary_versions_v0.3.csv` 정확도·κ 표, `eval_mismatches_v0.3-presenter-rule.csv` 4건 표. 근거: `summary_period_confidence_v0.3.csv`, `summary_reproducibility_v0.3.csv`.
 - 대본: 검증은 네 단계로 했습니다. 정답과 대조하고, 재실행해 보고, 확신이 낮은 사례를 직접 읽고, 표현 빈도와도 교차 확인했습니다. v0.3 수치는 표본을 본 뒤 다듬은 것이라 낙관적일 수 있어 공식 기준선도 함께 제시합니다.
 
 ## 05. 결론 및 시사점 (17–19쪽)
