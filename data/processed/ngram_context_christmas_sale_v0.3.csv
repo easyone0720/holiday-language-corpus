@@ -1,0 +1,201 @@
+﻿ngram_rank,ngram,snippet_id,period,date,category,confidence,newspaper_title,place,page_no,url,hit_no,hit_text,is_split_hit,n_hits_in_window,snippet_raw,snippet_clean,dict_ratio,is_duplicate,dup_of,rationale,page_id,sub_type,status,model,prompt_version
+9,christmas sale,S0274,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,1,CHRISTMAS,False,2,"Sursday, December 1, 1919. SUPPLEMENT TO THE ERA-LEADER
+TH ISTHESTORE THA GROWSON YOU! THE MORE YT S OU SHOP TH E L LIKE I
+CHRISTMAS SALE CHRISTMAS SALE
+-tS hi\te and 'i H 1 (i l d-I l
+""NDE SCOMMENCING WEDNESDAYD DEC. 10; ENDING WEDNESDAY, DEC. 24.
+There's no deep mystery about OUR LOW PRICES.","Sursday, December 1, 1919. SUPPLEMENT TO THE ERA-LEADER TH ISTHESTORE THA GROWSON YOU! THE MORE YT S OU SHOP TH E L LIKE I CHRISTMAS SALE CHRISTMAS SALE -tS hite and 'i H 1 (i l d-I l ""NDE SCOMMENCING WEDNESDAYD DEC. 10; ENDING WEDNESDAY, DEC. 24. There's no deep mystery about OUR LOW PRICES.",0.78,False,,"크리스마스 세일 광고, 기간과 낮은 가격 강조",1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0275,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,2,CHRISTMAS,False,3,"market
+with ready cash to buy good merchandise cheap. When we do, and that's often, YOU GET THE MERCHANDISE CHEAP. You are sure of satisfaction here
+or your money back.
+CHRISTMAS SALE
+DRESS GOODS
+40-inch Wool French Serge, in all leading colors, 1,19
+$2.00 value-CHRISTMAS SALE
+56-inch Black Broadcloth, sponged and shrunk, 1,95
+$3.00 value-CHRISTMAS SALE
+All our best quality Everett","market with ready cash to buy good merchandise cheap. When we do, and that's often, YOU GET THE MERCHANDISE CHEAP. You are sure of satisfaction here or your money back. CHRISTMAS SALE DRESS GOODS 40-inch Wool French Serge, in all leading colors, 1,19 $2.00 value-CHRISTMAS SALE 56-inch Black Broadcloth, sponged and shrunk, 1,95 $3.00 value-CHRISTMAS SALE All our best quality Everett",1.0,False,,크리스마스 세일 상품·가격을 내세운 상점 광고,1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0276,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,3,Christmas,False,2,"Sale
+40-inch Dress Plaids, suit
+P -able for skirts and dresses
+75c value; Christ- 49C
+mas Sale, yard
+40-inch Wool Finish Plaids,
+suitable for skirts and
+dresses; $.150 value, 98c
+Christmas Sale
+36-inch Percale, in light and
+dark grounds, 40c 25C
+value-Sale price....
+27-inch Mercerized Satin-Stripe Poplin, all colors, 35C
+50c value-CHRISTMAS SALE
+Outing Flannelette, in white, cream, pink, blue and","Sale 40-inch Dress Plaids, suit P -able for skirts and dresses 75c value; Christ- 49C mas Sale, yard 40-inch Wool Finish Plaids, suitable for skirts and dresses; $.150 value, 98c Christmas Sale 36-inch Percale, in light and dark grounds, 40c 25C value-Sale price.... 27-inch Mercerized Satin-Stripe Poplin, all colors, 35C 50c value-CHRISTMAS SALE Outing Flannelette, in white, cream, pink, blue and",1.0,False,,크리스마스 세일 직물 가격 광고,1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0277,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,4,CHRISTMAS,False,5,"SALE
+75c White Flannel-Christmas Sale 45c
+Unbleached Cotton Flannel, 40c value, 25c
+CHRISTMAS SALE 2
+CHRISTMAS SALE LADIES READY-TO-WEAR
+Ladies' Shirtwaists, voile and organdy, all sizes; worth up to 98C
+$2.00-CHRISTMAS SALE
+Ladies' Middy Blouses, $1.50 value-Christmas Sale 98c
+Ladies' Flannelette Night Gowns, $2.00 value............... 1.25
+Ladies' Flannelette Night Gowns, $2.50 value 1.48
+Misses' and Childrens Night Gowns, $1.50 value 98c","SALE 75c White Flannel-Christmas Sale 45c Unbleached Cotton Flannel, 40c value, 25c CHRISTMAS SALE 2 CHRISTMAS SALE LADIES READY-TO-WEAR Ladies' Shirtwaists, voile and organdy, all sizes; worth up to 98C $2.00-CHRISTMAS SALE Ladies' Middy Blouses, $1.50 value-Christmas Sale 98c Ladies' Flannelette Night Gowns, $2.00 value............... 1.25 Ladies' Flannelette Night Gowns, $2.50 value 1.48 Misses' and Childrens Night Gowns, $1.50 value 98c",0.98,False,,크리스마스 세일 상품 가격 광고,1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0278,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,5,CHRISTMAS,False,6,"good galatea, 1,95
+$2.50 value-CHRISTMAS SALE
+Ladies' $3.50 value white galatea Middies, with red and 248
+blue trimmings-CHRISTMAS SALE
+Ladies' Silk Poplin Skirts, in all leading shares, $7.50 value, 498
+CHRISTMAS SALE
+Ladies' Wool Poplin and Serge Skirts, $10.00 value-- ,75
+CHRISTMAS SALE
+$2.50 Ladies' Shirtwaists-Christmas Sale 1.48
+Ladies' Silk Poplin Dresses, in blue, gray and brown; 6,98
+$10.00 value-CHRISTMAS SALE","good galatea, 1,95 $2.50 value-CHRISTMAS SALE Ladies' $3.50 value white galatea Middies, with red and 248 blue trimmings-CHRISTMAS SALE Ladies' Silk Poplin Skirts, in all leading shares, $7.50 value, 498 CHRISTMAS SALE Ladies' Wool Poplin and Serge Skirts, $10.00 value-- ,75 CHRISTMAS SALE $2.50 Ladies' Shirtwaists-Christmas Sale 1.48 Ladies' Silk Poplin Dresses, in blue, gray and brown; 6,98 $10.00 value-CHRISTMAS SALE",1.0,False,,크리스마스 세일 상품 가격 광고,1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0279,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,6,CHRISTMAS,False,3,"Ladies' Silk and Wool Dresses, worth up to $25.00............ 15.98
+Ladies' Ribbed Shirts and Drawers, 50c value 25c
+Ladies' Silk Georgette Crepe and Crepe de Chine Shirt- 348
+waists; $5.00 value-CHRISTMAS SALE
+Ladies' Serge Suits, $25.00 value-Christmas Sale 14.98
+Ladies' Tailored Suits, made of fine quality Silvertone, 35,00
+Broadcloth and Tricotine; $50.00 and'$60.00 values
+Ladies' Coats, worth up to $25.00-Christmas Sale","Ladies' Silk and Wool Dresses, worth up to $25.00............ 15.98 Ladies' Ribbed Shirts and Drawers, 50c value 25c Ladies' Silk Georgette Crepe and Crepe de Chine Shirt- 348 waists; $5.00 value-CHRISTMAS SALE Ladies' Serge Suits, $25.00 value-Christmas Sale 14.98 Ladies' Tailored Suits, made of fine quality Silvertone, 35,00 Broadcloth and Tricotine; $50.00 and'$60.00 values Ladies' Coats, worth up to $25.00-Christmas Sale",0.981,False,,크리스마스 세일 가격 목록의 상점 광고,1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0280,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,7,CHRISTMAS,False,2,"Wool Sweaters, sizes 30 to 34; $5.00 value........ 3.48
+Ladies' Wool Sweaters, worth up to $6.00, this sale 3.48
+SLadies' and Misses Corsets, made of good quality jeans, 1.98
+$2.50 value-CHRISTMAS SALE
+Our Mail Order Depart- CHRISTMAS SALE
+ment offers the same service TEN DAYS ONLY
+as if you came to this store T Commencing Wednesd ONLY
+d shopped in person.","Wool Sweaters, sizes 30 to 34; $5.00 value........ 3.48 Ladies' Wool Sweaters, worth up to $6.00, this sale 3.48 SLadies' and Misses Corsets, made of good quality jeans, 1.98 $2.50 value-CHRISTMAS SALE Our Mail Order Depart- CHRISTMAS SALE ment offers the same service TEN DAYS ONLY as if you came to this store T Commencing Wednesd ONLY d shopped in person.",0.942,False,,"크리스마스 세일 광고, 가격과 상품 목록, 우편 주문 안내",1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0281,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,8,CHRISTMAS,False,3,"COLUMBIASTREET, BOGALUSA, A. ecember 10thes
+WE Tfilled day received.AKE LIBERY BOND S AND WAR SAVINGSTREET, LA. Smal ProfitsTAMPS BigN TRADE
+WE TAKE LIBERY BONDS AND WAR SAVINGS STAMPS IN TRADE
+CHRISTMAS SALE
+COTTON SHEETING AND HOUSEHOLD
+GOODS
+Unbleached Domestic, 20c value- 1
+CHRISTMAS SALE
+36-inch White Cotton and Cambric, 35e 25
+value-CHRISTMAS SALE, yard....
+White Hope Cotton and Cambric, also 40","COLUMBIASTREET, BOGALUSA, A. ecember 10thes WE Tfilled day received.AKE LIBERY BOND S AND WAR SAVINGSTREET, LA. Smal ProfitsTAMPS BigN TRADE WE TAKE LIBERY BONDS AND WAR SAVINGS STAMPS IN TRADE CHRISTMAS SALE COTTON SHEETING AND HOUSEHOLD GOODS Unbleached Domestic, 20c value- 1 CHRISTMAS SALE 36-inch White Cotton and Cambric, 35e 25 value-CHRISTMAS SALE, yard.... White Hope Cotton and Cambric, also 40",0.786,False,,"크리스마스 세일 광고, 면직물 가격 및 상품 홍보",1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0282,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,9,Christmas,False,7,"CHRISTMAS SALE, yard
+72-inch White and Unbleached Sheet- 59c
+ing, 75c value-Christmas Sale
+81-inch White and Unbleached Sheet- 6-c
+ing; $85ec value-Christmas Sale........
+90-inch White and Unbleached Sheeting, 69C
+90c value-Christmas Sale, yard......
+8-4 Unbleached Pepperell Sheeting, 59c
+75c value-Christmas Sale, yard
+9-4 Unbleached Pepperell Sheeting, 65c
+85c value-Christmas Sale, yard
+10-4 Unbleached Pepper Sheeting, 90e 69C
+value-Christmas Sale; yard
+Large-size","CHRISTMAS SALE, yard 72-inch White and Unbleached Sheet- 59c ing, 75c value-Christmas Sale 81-inch White and Unbleached Sheet- 6-c ing; $85ec value-Christmas Sale........ 90-inch White and Unbleached Sheeting, 69C 90c value-Christmas Sale, yard...... 8-4 Unbleached Pepperell Sheeting, 59c 75c value-Christmas Sale, yard 9-4 Unbleached Pepperell Sheeting, 65c 85c value-Christmas Sale, yard 10-4 Unbleached Pepper Sheeting, 90e 69C value-Christmas Sale; yard Large-size",0.944,False,,"Christmas Sale 시트 원단 가격 나열, 상점 세일 광고",1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0283,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,10,CHRISTMAS,False,2,"$2.50 value.... 1.75
+Extra large-size Bed Spreads, $4 value 2.98
+All our $5.00 and $6.00 Spreads 3.98
+60-inch White Table Damask, 75c yard 45c
+White Satin-Finish Table Damasw, 59c
+$1.00 value-CHRISTMAS SALE....
+72-inch Satin-Finish Table Damask, 89c
+$1.25 Value-Christmas Sale, yard....
+35c Mattress Ticking, yard 25c
+50c Mattress Ticking, yard 35c
+MILLINERY
+Ladies' and Misses Ready-to-wear Hats, an
+assortment of colors;","$2.50 value.... 1.75 Extra large-size Bed Spreads, $4 value 2.98 All our $5.00 and $6.00 Spreads 3.98 60-inch White Table Damask, 75c yard 45c White Satin-Finish Table Damasw, 59c $1.00 value-CHRISTMAS SALE.... 72-inch Satin-Finish Table Damask, 89c $1.25 Value-Christmas Sale, yard.... 35c Mattress Ticking, yard 25c 50c Mattress Ticking, yard 35c MILLINERY Ladies' and Misses Ready-to-wear Hats, an assortment of colors;",0.98,False,,가격이 나열된 크리스마스 세일 상점 광고,1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0284,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,11,CHRISTMAS,False,2,"hooks, $1.25 and $1.50 98C
+values-this sale
+Ladies' Union Suits, all
+sizes; $2.00 value........$1.45
+Ladies' Carter's Knit Shirts
+and Drawers, $1.50 98C
+value- garment
+Ladies' Coat Suits, $30 and $35
+values-CHRISTMAS SALE..$22.50
+All our $40 Coat Suits ............$29.75
+Children's Coats, $7.50 value..$ 4.98
+Children's Coats, sizes 8 to 14 $8.98
+CHRISTMAS SALE SILKS
+$2.50 Black Chiffon Taffeta, soft
+finish silk, suitable","hooks, $1.25 and $1.50 98C values-this sale Ladies' Union Suits, all sizes; $2.00 value........$1.45 Ladies' Carter's Knit Shirts and Drawers, $1.50 98C value- garment Ladies' Coat Suits, $30 and $35 values-CHRISTMAS SALE..$22.50 All our $40 Coat Suits ............$29.75 Children's Coats, $7.50 value..$ 4.98 Children's Coats, sizes 8 to 14 $8.98 CHRISTMAS SALE SILKS $2.50 Black Chiffon Taffeta, soft finish silk, suitable",1.0,False,,크리스마스 세일 가격 나열 상점 광고,1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0285,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,12,CHRISTMAS,False,2,"$2.25 value ..........$1.25
+36-inch High Luster Satin, in all
+leading shades; $3.00 value......$2.15
+42-inch Silk Crepe de Chine and
+Georgette Crepe, in taupe, olive drab,
+blue, flesh, white and black....$1.89
+CHRISTMAS SALE
+MEN'S AND BOYS' FURNISHINGS
+20c iMen's Sox 9c
+39c Silk and Lisle Sox, all colors 25c
+Men's Ribbed and Fleeced Underwear, 83C
+$1.25 value-Christmas Sale
+Boy's Fleeced Union Suits,","$2.25 value ..........$1.25 36-inch High Luster Satin, in all leading shades; $3.00 value......$2.15 42-inch Silk Crepe de Chine and Georgette Crepe, in taupe, olive drab, blue, flesh, white and black....$1.89 CHRISTMAS SALE MEN'S AND BOYS' FURNISHINGS 20c iMen's Sox 9c 39c Silk and Lisle Sox, all colors 25c Men's Ribbed and Fleeced Underwear, 83C $1.25 value-Christmas Sale Boy's Fleeced Union Suits,",0.981,False,,"Christmas Sale 상점 광고, 가격과 상품 목록",1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0286,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,13,Christmas,False,5,"sizes, 98C
+$1.50 value-Christmas Sale
+50c Men's Extra Long Suspenders 25c
+All our $2.50 and $3.00 Monarch and 1,95
+""Arrow Shirts-Christmas Sale
+$2.00 Men's Flannelette Shirts and 1 25
+Sweaters- Christmas Sale
+$3.50 Men's Wool Shirts 2.48
+$4.00 Men's Wool Shirts 1.98
+$5.00 Men's Flannel Shirts, in graw, 3.69
+brown, blue-Christmas Sale
+Men's Unbleached Ribbed Underwear, 50e
+50c value-Christmas Sale
+$3.25","sizes, 98C $1.50 value-Christmas Sale 50c Men's Extra Long Suspenders 25c All our $2.50 and $3.00 Monarch and 1,95 ""Arrow Shirts-Christmas Sale $2.00 Men's Flannelette Shirts and 1 25 Sweaters- Christmas Sale $3.50 Men's Wool Shirts 2.48 $4.00 Men's Wool Shirts 1.98 $5.00 Men's Flannel Shirts, in graw, 3.69 brown, blue-Christmas Sale Men's Unbleached Ribbed Underwear, 50e 50c value-Christmas Sale $3.25",0.978,False,,크리스마스 세일 가격이 나열된 남성복 상점 광고,1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0287,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,14,Christmas,False,1,"$6.00 Men's Corduroy Pants 3.69
+$2.25 Boys' Pants, all sizes 1.39
+All our Boys' $3.00 and $3.50 Pants.... 1.98
+One lot of Boys' Suits, all sizes, worth 3,98
+up to $8.00-Christmas Sale
+Big assortment of Boy's Suits, all sizes, 6.98
+worth up to $10.00
+Boy:' Blue Serge Suits, all sizes, 8,98
+$12.00 value-Christihas Sale
+Men's Blue Serge Suits, our regular 13,98","$6.00 Men's Corduroy Pants 3.69 $2.25 Boys' Pants, all sizes 1.39 All our Boys' $3.00 and $3.50 Pants.... 1.98 One lot of Boys' Suits, all sizes, worth 3,98 up to $8.00-Christmas Sale Big assortment of Boy's Suits, all sizes, 6.98 worth up to $10.00 Boy:' Blue Serge Suits, all sizes, 8,98 $12.00 value-Christihas Sale Men's Blue Serge Suits, our regular 13,98",0.98,False,,"가격이 나열된 의류 ""Christmas Sale"" 상점 광고",1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0288,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,15,CHRISTMAS,False,6,"Men's
+Fancy Suits; $35.00 values- 24,98
+CHRUSTMAS SALE
+$15.00 Men's and Boys' Mackinaw 10,98
+Coats- Christmas Sale
+CHRISTMAS SALE
+HATS AND CAPS
+$1.50 Men's Caps, in plaid, regular Fall 98c
+styles-CHRISTMAS SALE
+All our Men's $5.00 and 86.00 Hats- a39
+CHRISTMAS SALE
+Men's and Boys' Caps, worth up to 50c, 25c
+CHRISTMAS SALE
+75c Men's,;Fancy Caps 50c
+SHOES-CHRISTMAS SALE-SHOES
+All our","Men's Fancy Suits; $35.00 values- 24,98 CHRUSTMAS SALE $15.00 Men's and Boys' Mackinaw 10,98 Coats- Christmas Sale CHRISTMAS SALE HATS AND CAPS $1.50 Men's Caps, in plaid, regular Fall 98c styles-CHRISTMAS SALE All our Men's $5.00 and 86.00 Hats- a39 CHRISTMAS SALE Men's and Boys' Caps, worth up to 50c, 25c CHRISTMAS SALE 75c Men's,;Fancy Caps 50c SHOES-CHRISTMAS SALE-SHOES All our",0.981,False,,크리스마스 세일 가격이 나열된 의류 매장 광고,1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0289,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,16,Christmas,False,3,"Shoes, 8, 5
+CHRISTMAS SALE u
+Children's Shoes, all sizes,
+lace and button, 1195
+worth up to $3.50.... 1n u
+SLadies' Felt Slippers, in all .1w1
+colors, $2.00 value, 148
+Christmas Sale ...._
+$3.50 and $4.00 Men's and
+Ladies' Sample Shoes, to
+close out- 9
+Christmas Sale
+Ladies' High-Top Boots, in
+brown and black, 3
+$6.00 value
+Men's Selz Shoes, tan and","Shoes, 8, 5 CHRISTMAS SALE u Children's Shoes, all sizes, lace and button, 1195 worth up to $3.50.... 1n u SLadies' Felt Slippers, in all .1w1 colors, $2.00 value, 148 Christmas Sale .... $3.50 and $4.00 Men's and Ladies' Sample Shoes, to close out- 9 Christmas Sale Ladies' High-Top Boots, in brown and black, 3 $6.00 value Men's Selz Shoes, tan and",0.957,False,,신발 크리스마스 세일 가격 광고,1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+9,christmas sale,S0290,1910s,1919-12-18,상업·소비,high,The Era-leader.,"Franklinton, La.",5,https://www.loc.gov/resource/sn88064305/1919-12-18/ed-1/,17,CHRISTMAS,False,3,"Blucher, 498
+also English flats, $6.50 value, this sale............
+$5.00 Men's High-Top Shoes, in lace and button, 2 0
+CHRISTMAS SALE .............................uU
+Men's Selz Royal Blue Waukenphast Shoes, 85.0 6,15
+value-CHRISTMAS SALE
+Ladies' Tan Selz Army Shoes, $8.50 value, 5,50
+CHRISTMAS SALE
+Jill.","Blucher, 498 also English flats, $6.50 value, this sale............ $5.00 Men's High-Top Shoes, in lace and button, 2 0 CHRISTMAS SALE .............................uU Men's Selz Royal Blue Waukenphast Shoes, 85.0 6,15 value-CHRISTMAS SALE Ladies' Tan Selz Army Shoes, $8.50 value, 5,50 CHRISTMAS SALE Jill.",0.889,False,,신발 크리스마스 세일 가격 광고,1919-12-18_sn88064305,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule

@@ -1,0 +1,505 @@
+﻿ngram_rank,ngram,snippet_id,period,date,category,confidence,newspaper_title,place,page_no,url,hit_no,hit_text,is_split_hit,n_hits_in_window,snippet_raw,snippet_clean,dict_ratio,is_duplicate,dup_of,rationale,page_id,sub_type,status,model,prompt_version
+6,merry christmas,S0003,1900s,1900-12-20,가정·사교·공동체,medium,The Kalispell bee.,"Kalispell, Mont.",14,https://www.loc.gov/resource/sn85053327/1900-12-20/ed-1/,3,Christmas,False,4,"Blush.
+Brownies Glenn Crane and Willie
+Mettler.
+Old Woman......Alice Jackman
+The room will be darkened and
+lighted by candles.
+B, Second Primary.
+Gertrude Storcr Teacher.
+Song—December Greeting School
+""Merry Christmas to You""____
+Amy Bucklin
+""Christmas Greeting""......
+Lueile Stocking
+""Angels Ring the Bells""
+Candace Giliillan
+Fred's Wisdom Claude Tiffany
+Song—Snow Flakes......School
+Sing a Song of Christmas
+Owen Smithers
+My Christmas","Blush. Brownies Glenn Crane and Willie Mettler. Old Woman......Alice Jackman The room will be darkened and lighted by candles. B, Second Primary. Gertrude Storcr Teacher. Song — December Greeting School ""Merry Christmas to You"" Amy Bucklin ""Christmas Greeting""...... Lueile Stocking ""Angels Ring the Bells"" Candace Giliillan Fred's Wisdom Claude Tiffany Song — Snow Flakes......School Sing a Song of Christmas Owen Smithers My Christmas",0.885,False,,"학교 크리스마스 프로그램 순서(노래, 낭송); 교회 주관 언급 없음",1900-12-20_sn85053327,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0157,1910s,1911-12-26,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",9,https://www.loc.gov/resource/sn82014248/1911-12-26/ed-1/,20,Christmas,False,1,"Thomas H.
+Lodge, recorder:
+""To our Most Eminent Grand Mas
+ter William Bromwell Melish, and to
+our Brotherhood across the sea whose
+friendship he has helped to cement, a
+Merry Christmas and a Happy New
+Year.""
+The Sir Knights participated in the
+sentiment to the grand master, aft
+er which the following response from
+l he grand master was read by","Thomas H. Lodge, recorder: ""To our Most Eminent Grand Mas ter William Bromwell Melish, and to our Brotherhood across the sea whose friendship he has helped to cement, a Merry Christmas and a Happy New Year."" The Sir Knights participated in the sentiment to the grand master, aft er which the following response from l he grand master was read by",0.947,False,,"공제회 모임에서 단장에게 보낸 성탄·신년 인사 전문, 사교적 교류",1911-12-26_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0233,1910s,1915-12-29,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",2,https://www.loc.gov/resource/sn82014248/1915-12-29/ed-1/,2,Christmas,False,1,"who has been confined
+to the house for the past few weeks with
+rheumatism, is but little better. 1
+The ladies of Razorville clubbed to
+gfthir and made a Merry Christmas for
+Peter Jones of this place and Hiram
+Evans with whom Peter is stopping at
+North Washington. ""Pete,” as Mr.
+Jones is familiarly called, went to live
+with Hr. Evans","who has been confined to the house for the past few weeks with rheumatism, is but little better. 1 The ladies of Razorville clubbed to gfthir and made a Merry Christmas for Peter Jones of this place and Hiram Evans with whom Peter is stopping at North Washington. ""Pete,” as Mr. Jones is familiarly called, went to live with Hr. Evans",0.949,False,,여성들이 힘을 모아 이웃 노인에게 즐거운 크리스마스를 마련해 줌(나눔),1915-12-29_sn82014248,자선·나눔형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0246,1910s,1915-12-29,종교·기원,medium,Daily Kennebec journal,"Augusta, Me.",2,https://www.loc.gov/resource/sn82014248/1915-12-29/ed-1/,15,Christmas,False,1,"the Sunday school, with two
+trees and a large fireplace and mantel be
+tween, which was beautifully trimmed
+and decorated with candles. The pro
+gram: Prayer, .Josiah Fernald: song,
+""Merry Christmas,” school; ""Welcome,''
+Donald Decker, Phyllis Jewett; •'What 1
+Want,"" Fern Saulsbury: ""Santa on tint
+Mouse."" Theda Saulsbury; recitation,
+Dulsie Hayden; song, “Jolly Old Su
+Nicholas,” primary class; recitation,
+Ethelyn Crommett;","the Sunday school, with two trees and a large fireplace and mantel be tween, which was beautifully trimmed and decorated with candles. The pro gram: Prayer, .Josiah Fernald: song, ""Merry Christmas,” school; ""Welcome,'' Donald Decker, Phyllis Jewett; 'What 1 Want,"" Fern Saulsbury: ""Santa on tint Mouse."" Theda Saulsbury; recitation, Dulsie Hayden; song, “Jolly Old Su Nicholas,” primary class; recitation, Ethelyn Crommett;",0.847,False,,"Sunday school 주관 크리스마스 프로그램(기도, 노래, 암송); 규칙 2 적용",1915-12-29_sn82014248,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0365,1920s,1924-12-26,가정·사교·공동체,low,Daily Kennebec journal,"Augusta, Me.",3,https://www.loc.gov/resource/sn82014248/1924-12-26/ed-1/,5,Christ mas,True,1,"out
+as follows:
+Song by the school. ""Sing Hosanna;”
+prayer by Rev. T. J. Coolbroth; an
+them. 'it Came Upon a Midnight
+Clear;” recitation, “Welcome,"" by Roy
+Illingworth; recitation. “Merry Christ
+mas,"" by Nelson Melvin; exercise, ""The
+Favorite Tree,” Harley McCartney, Ed
+ward Atkins and George Cox: recita
+tion. “Seeking a King,” by Alice Small;
+slumber song, double duet: dialogue,
+Francis","out as follows: Song by the school. ""Sing Hosanna;” prayer by Rev. T. J. Coolbroth; an them. 'it Came Upon a Midnight Clear;” recitation, “Welcome,"" by Roy Illingworth; recitation. “Merry Christ mas,"" by Nelson Melvin; exercise, ""The Favorite Tree,” Harley McCartney, Ed ward Atkins and George Cox: recita tion. “Seeking a King,” by Alice Small; slumber song, double duet: dialogue, Francis",0.93,False,,"학교 크리스마스 프로그램 순서, 목사 기도 포함되나 주최 불명확",1924-12-26_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0339,1920s,1921-12-24,상업·소비,high,Daily Kennebec journal,"Augusta, Me.",10,https://www.loc.gov/resource/sn82014248/1921-12-24/ed-1/,2,Christmas,False,2,"Gcods including Per
+fume, Toilet Water, Face and Talcum Powder, Creams, Soap, Lip
+Sticks, Rouge, etc.
+SHELDON’S EAST SIDE
+PHARMACY
+69 Cany St., Augusta, Me.
+Wish You All a Merry Christmas
+(1ec21d li
+Augusta House
+Special Old Fashioned
+Christmas Dinner
+$2—Served from 1 to 2.30
+SUNDAY, DECEMBER 25
+f Tables Reserved Music
+AUGUSTA HOTEL CO.
+William S. Marble, Mgr.
+lor.’^tKU","Gcods including Per fume, Toilet Water, Face and Talcum Powder, Creams, Soap, Lip Sticks, Rouge, etc. SHELDON’S EAST SIDE PHARMACY 69 Cany St., Augusta, Me. Wish You All a Merry Christmas (1ec21d li Augusta House Special Old Fashioned Christmas Dinner $2 — Served from 1 to 2.30 SUNDAY, DECEMBER 25 f Tables Reserved Music AUGUSTA HOTEL CO. William S. Marble, Mgr. lor.’tKU",0.889,False,,"약국 상품 광고와 호텔 크리스마스 만찬 광고, 업체 명의 인사",1921-12-24_sn82014248,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0346,1920s,1921-12-24,상업·소비,medium,Daily Kennebec journal,"Augusta, Me.",10,https://www.loc.gov/resource/sn82014248/1921-12-24/ed-1/,9,Christmas,False,3,"$1.00
+$1.50 Sl.lf
+$2.50 $1*|
+M
+$1.25 3
+$4.75 sal
+$4.25 say
+$3.50 S2J
+$4.00 S34
+$2.50 $1,
+We take this opportunity to wish all our customers j
+A Merry Christmas and Happy New Year j
+Jpc24«m
+Bt.WTJ ""Wg
+CHRISTMAS DAY
+SERVICES IN THE
+AUGUSTA GHURCHE
+Churches Will Observe
+the Day with Special
+Programs of Christ
+mas Music and In
+spiring","$1.00 $1.50 Sl.lf $2.50 $1 M $1.25 3 $4.75 sal $4.25 say $3.50 S2J $4.00 S34 $2.50 $1, We take this opportunity to wish all our customers j A Merry Christmas and Happy New Year j Jpc24m Bt.WTJ ""Wg CHRISTMAS DAY SERVICES IN THE AUGUSTA GHURCHE Churches Will Observe the Day with Special Programs of Christ mas Music and In spiring",0.844,False,,가격표와 고객 대상 성탄·신년 인사 광고; 뒤에 교회 예배 기사 제목 혼재,1921-12-24_sn82014248,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0416,1930s,1930-12-19,가정·사교·공동체,medium,The Wolf Point herald.,"Wolf Point, Mont.",5,https://www.loc.gov/resource/sn86075272/1930-12-19/ed-1/,12,Christmas,False,1,"days if
+roads and weather permit.
+The pastor and family take the
+opportunity through our local
+to wish all the readers
+newspaper
+of the Wolf Point Herald a very
+Merry Christmas and a happy as
+well as prosperous New Year. The
+pastor also wishes to thank the
+staff of the Wolf Point Herald for
+their kindness in printing our an
+nouncements",days if roads and weather permit. The pastor and family take the opportunity through our local to wish all the readers newspaper of the Wolf Point Herald a very Merry Christmas and a happy as well as prosperous New Year. The pastor also wishes to thank the staff of the Wolf Point Herald for their kindness in printing our an nouncements,0.983,False,,"목사 가족이 신문 독자에게 전하는 성탄·새해 인사와 감사, 상업광고 아님",1930-12-19_sn86075272,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0449,1930s,1935-01-04,가정·사교·공동체,high,The Hardin tribune-herald,"Hardin, Mont.",6,https://www.loc.gov/resource/sn86075229/1935-01-04/ed-1/,12,Christmas,False,2,"have lots of fun on it. The ice is
+cracking. In March it will swim.
+We will have lots of fun watching
+it.
+Hapnv New Year, everyone and
+a Merry Christmas.
+Your Friend.
+CLARA MICHEAL.
+We went to my Uncle John’s
+place Sunday. I got a wrist-watch
+for Christmas.
+ELEANOR TIPPIE.
+I got a gun, a truck, and a
+baseball game.","have lots of fun on it. The ice is cracking. In March it will swim. We will have lots of fun watching it. Hapnv New Year, everyone and a Merry Christmas. Your Friend. CLARA MICHEAL. We went to my Uncle John’s place Sunday. I got a wrist-watch for Christmas. ELEANOR TIPPIE. I got a gun, a truck, and a baseball game.",0.964,False,,아이들 편지에서 크리스마스 선물 받은 개인적 일상 소식,1935-01-04_sn86075229,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0414,1930s,1930-12-19,상업·소비,high,The Wolf Point herald.,"Wolf Point, Mont.",5,https://www.loc.gov/resource/sn86075272/1930-12-19/ed-1/,10,CHRISTMAS,False,1,"lhas been made possible by these friend
+ships, and we are grateful to them for their
+patronage. So to all in the Wolf Point
+community we extend a hearty
+MERRY CHRISTMAS
+and the wish that the New Year may bring
+Prosperity and Happiness
+I
+I
+'Wi
+Sv
+m.
+i
+I
+s
+c
+I
+3
+S. T. Cogswell
+(Oldtown)
+Cogswell Implement Co","lhas been made possible by these friend ships, and we are grateful to them for their patronage. So to all in the Wolf Point community we extend a hearty MERRY CHRISTMAS and the wish that the New Year may bring Prosperity and Happiness I I 'Wi Sv m. i I s c I 3 S. T. Cogswell (Oldtown) Cogswell Implement Co",0.878,False,,업체명이 있는 감사·성탄 인사 광고(후원에 감사),1930-12-19_sn86075272,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0418,1930s,1930-12-19,상업·소비,high,The Wolf Point herald.,"Wolf Point, Mont.",5,https://www.loc.gov/resource/sn86075272/1930-12-19/ed-1/,14,CHRISTMAS,False,1,"New Year,
+Whose good luck never
+ends!
+To those who are our cus
+tomers and to those who
+are not, we extend the
+sincere and hearty wish
+of a
+MERRY CHRISTMAS
+and
+HAPPY NEW YEAR
+The Electric Lunch
+P. J, Delaney, Prop.
+A
+JL/J
+f)*A
+O
+
+Again at the end of the year
+1
+
+(g
+e*
+a
+In expressing to you","New Year, Whose good luck never ends! To those who are our cus tomers and to those who are not, we extend the sincere and hearty wish of a MERRY CHRISTMAS and HAPPY NEW YEAR The Electric Lunch P. J, Delaney, Prop. A JL/J f)A O Again at the end of the year 1 (g e a In expressing to you",0.941,False,,업체명과 주인이 밝힌 고객 대상 성탄·신년 인사 광고,1930-12-19_sn86075272,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0459,1930s,1939-12-22,상업·소비,medium,The Harlem news,"Harlem, Mont.",2,https://www.loc.gov/resource/sn86075250/1939-12-22/ed-1/,1,Christmas,False,2,"A\W MlWW> WlvySw^rw^vly^jl^
+\wnffl Wb?
+The Merchants represented on this page join this newspaper in extending the warm hand of friendship to you in sincere wishes
+for a Very Merry Christmas and a Happy New Year
+Our Christmas greetings are ex
+tended to our old friends—our new
+friends—and the many friends that
+we hope to make during the next",AW MlWW WlvySwrwvlyjl wnffl Wb? The Merchants represented on this page join this newspaper in extending the warm hand of friendship to you in sincere wishes for a Very Merry Christmas and a Happy New Year Our Christmas greetings are ex tended to our old friends — our new friends — and the many friends that we hope to make during the next,0.932,False,,상인들이 고객에게 전하는 성탄·새해 인사 광고,1939-12-22_sn86075250,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0460,1930s,1939-12-22,상업·소비,high,The Harlem news,"Harlem, Mont.",2,https://www.loc.gov/resource/sn86075250/1939-12-22/ed-1/,2,Christmas,False,3,"j
+have meant more than we can say. J
+It is with a good deal of apprecia- I
+tion and affections, therefore, that I
+we wish you a Very Merry Christ-
+mas, indeed. j
+HALSEY DRUG i
+i
+Hearty Greetings! Good Wishes
+galore
+For a happy Christmas and a
+happy New Year!
+GEM CAFE
+May Christmas find you surround-
+ed by old friends","j have meant more than we can say. J It is with a good deal of apprecia- I tion and affections, therefore, that I we wish you a Very Merry Christmas, indeed. j HALSEY DRUG i i Hearty Greetings! Good Wishes galore For a happy Christmas and a happy New Year! GEM CAFE May Christmas find you surrounded by old friends",0.94,False,,"Halsey Drug, Gem Cafe 등 업체명이 붙은 연말 인사 광고",1939-12-22_sn86075250,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0464,1930s,1939-12-22,상업·소비,high,The Harlem news,"Harlem, Mont.",2,https://www.loc.gov/resource/sn86075250/1939-12-22/ed-1/,6,Christmas,False,2,"what is meant for you.
+MODERN LADIES’
+SHOP
+Had we the words of a great poet
+at our command, we could say
+nothing more sincere than the sim
+ple “Merry Christmas’’ with
+which we greet you this Yuletide.
+LUCKY STRIKE
+The spirit of Christmas call us to
+a better appreciation of old asso
+ciations and the value of old
+friendships, May","what is meant for you. MODERN LADIES’ SHOP Had we the words of a great poet at our command, we could say nothing more sincere than the sim ple “Merry Christmas’’ with which we greet you this Yuletide. LUCKY STRIKE The spirit of Christmas call us to a better appreciation of old asso ciations and the value of old friendships, May",0.932,False,,상점 이름이 붙은 메리 크리스마스 인사 광고(규칙 1),1939-12-22_sn86075250,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0465,1930s,1939-12-22,상업·소비,high,The Harlem news,"Harlem, Mont.",2,https://www.loc.gov/resource/sn86075250/1939-12-22/ed-1/,7,Christ mas,True,3,"joys
+life can provide.
+VIC’S
+SERVICE STATION
+Friday, December 22, 1939
+Merry Christmas to Everyone—
+And so we won’t miss anyone
+we’ll say it again—
+M “Greetings and a Merry Christ
+mas.’’
+I GAMBLE DEALERS
+Think of all the best wishes you
+can make for yourself this Christ
+mas—then double them—and you
+will have some idea of what a","joys life can provide. VIC’S SERVICE STATION Friday, December 22, 1939 Merry Christmas to Everyone — And so we won’t miss anyone we’ll say it again — M “Greetings and a Merry Christ mas.’’ I GAMBLE DEALERS Think of all the best wishes you can make for yourself this Christ mas — then double them — and you will have some idea of what a",0.982,False,,"업체명(Vic's Service Station, Gamble Dealers)이 든 크리스마스 인사 광고",1939-12-22_sn86075250,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0467,1930s,1939-12-22,상업·소비,high,The Harlem news,"Harlem, Mont.",2,https://www.loc.gov/resource/sn86075250/1939-12-22/ed-1/,9,Christmas,False,2,"this Christmas be one of
+i hopes realized happiness attain-
+I ed and success in fullest meas-
+I ure.
+I EQUITY COOP. ASS’N
+Our heartfelt wishes for a Very
+Merry Christmas, plus the thanks
+for your constant patronage and
+friendship.
+LOHR’S
+BEAUTY SHOP","this Christmas be one of i hopes realized happiness attain- I ed and success in fullest meas- I ure. I EQUITY COOP. ASS’N Our heartfelt wishes for a Very Merry Christmas, plus the thanks for your constant patronage and friendship. LOHR’S BEAUTY SHOP",0.921,False,,업체명이 포함된 성탄 인사와 고객 후원 감사 광고,1939-12-22_sn86075250,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0512,1940s,1946-12-26,가정·사교·공동체,low,The Camas Hot Springs exchange,"Camas, Mont.",4,https://www.loc.gov/resource/sn85053223/1946-12-26/ed-1/,10,Christmas,False,1,"the responsi
+bility of a family and the competi
+tion of business who makes the
+gesture of tut-tutting all the fuss and
+feathers yet beams with affection
+and excitement.
+Merry Christmas—to mother who
+really calls the tune for the holidays
+and does the plan-
+ning and pulling to- (i<?
+gether who slut- A v)
+ters and bustles ra- A.
+diantly for",the responsi bility of a family and the competi tion of business who makes the gesture of tut-tutting all the fuss and feathers yet beams with affection and excitement. Merry Christmas — to mother who really calls the tune for the holidays and does the planning and pulling to- (i? gether who slut- A v) ters and bustles ra- A. diantly for,0.877,False,,"어머니를 기리는 가정 중심 명절 인사글, 광고 여부 불분명",1946-12-26_sn85053223,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0531,1940s,1948-12-23,가정·사교·공동체,low,The Durant news.,"Durant, Miss.",7,https://www.loc.gov/resource/sn87065228/1948-12-23/ed-1/,2,Christmas,False,2,"who but listened? tin was paid
+Respect to every inmate’s claim:
+The greeting given, the music plaved
+In honor of each household name,
+Duly pronounced with lusty call.
+And ""merry Christmas” wished to
+sill
+—William Wordsworth.
+Parents Can Spoil
+Children’s Play
+Here’s a Christmas resolution for
+parents. It’s one that ought to be
+made before New Year’s resolutions
+are even considered.","who but listened? tin was paid Respect to every inmate’s claim: The greeting given, the music plaved In honor of each household name, Duly pronounced with lusty call. And ""merry Christmas” wished to sill — William Wordsworth. Parents Can Spoil Children’s Play Here’s a Christmas resolution for parents. It’s one that ought to be made before New Year’s resolutions are even considered.",0.983,False,,"워즈워스 시의 가정 인사 장면과 부모 대상 크리스마스 결심 칼럼, 혼합 내용",1948-12-23_sn87065228,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0501,1940s,1940-12-20,상업·소비,high,Glacier County chief.,"Browning, Mont.",3,https://www.loc.gov/resource/sn85053043/1940-12-20/ed-1/,14,Christmas,False,3,"enjoys the
+joy and happiness of Cr.nstmas and the holiday season.
+STARR BROTHERS
+Bob Starr Charles Starr
+1
+J
+We d like t' wish each f
+you a very Merry Christmas
+;in person—but since we car.’:
+here’s the next best wav
+I
+THELMA'S
+Beautv Parlor
+i U
+I!
+
+CHRISTMAS CHEER
+AFTER
+May this Christmas season bless j’ou and yours with",enjoys the joy and happiness of Cr.nstmas and the holiday season. STARR BROTHERS Bob Starr Charles Starr 1 J We d like t' wish each f you a very Merry Christmas ;in person — but since we car.’: here’s the next best wav I THELMA'S Beautv Parlor i U I! CHRISTMAS CHEER AFTER May this Christmas season bless j’ou and yours with,0.923,False,,"상호와 업주명이 담긴 크리스마스 인사 광고(Starr Brothers, Thelma's)",1940-12-20_sn85053043,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0502,1940s,1940-12-20,상업·소비,high,Glacier County chief.,"Browning, Mont.",3,https://www.loc.gov/resource/sn85053043/1940-12-20/ed-1/,15,CHRISTMAS,False,2,"j-ours in full measure.
+CASH MEAT MARKET
+Julius Lindhardt
+cst
+Thanking you for past fa
+vors and wishing you the
+Season's Greetings.
+PLUMBING AND
+HEATING SHOP
+Pat and Rubj'
+MERRY CHRISTMAS
+TO ALL
+40
+Vy r\
+May every joy. every happi
+ness be yours during this
+glorious Christmas season
+and during the year to come.
+PIEGAN GROCERY
+Ben Berger",j-ours in full measure. CASH MEAT MARKET Julius Lindhardt cst Thanking you for past fa vors and wishing you the Season's Greetings. PLUMBING AND HEATING SHOP Pat and Rubj' MERRY CHRISTMAS TO ALL 40 Vy r May every joy. every happi ness be yours during this glorious Christmas season and during the year to come. PIEGAN GROCERY Ben Berger,0.877,False,,상점 이름이 붙은 성탄·연말 인사 광고(감사 인사 포함),1940-12-20_sn85053043,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0545,1940s,1948-12-23,상업·소비,medium,The Durant news.,"Durant, Miss.",7,https://www.loc.gov/resource/sn87065228/1948-12-23/ed-1/,16,Christmas,False,1,"jj? W
+you aO dm jap i j
+hkompef l
+thtsYuktHe k S
+J iauart J J
+S California Cafe i
+if
+Durant
+PAGE SEVEN
+i
+I
+#5 A Merry Christmas to you. Q*
+R And that's a wish we'd
+like to shout to the utter
+V) most parts oi the earth.
+sq But right now, we'll be
+content to tell","jj? W you aO dm jap i j hkompef l thtsYuktHe k S J iauart J J S California Cafe i if Durant PAGE SEVEN i I #5 A Merry Christmas to you. Q R And that's a wish we'd like to shout to the utter V) most parts oi the earth. sq But right now, we'll be content to tell",0.837,False,,California Cafe 상호가 있는 메리 크리스마스 인사 광고로 보임,1948-12-23_sn87065228,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0572,1940s,1949-12-23,상업·소비,medium,Hungry Horse news.,"Columbia Falls, Mont.",3,https://www.loc.gov/resource/sn84027524/1949-12-23/ed-1/,13,Christmas,False,1,"of Mrs.' Lake.
+rm
+m
+
+*2
+ïk
+UTi
+K»1
+1 it* *-J
+a
+phi
+in
+We Want to Be
+jhi^esie+U
+ji:W
+ÜI?
+i.-n
+si
+
+•Til
+So, instead of saying
+Merry Christmas,
+we'll say
+I
+m
+im
+r!?i;
+ill
+n
+r, :ifii
+Qood Jßuck
+WHITEFISH CREAMERY
+m
+if
+7
+kn
+
+P©k^L 0 U«: NnmP
+eDe ah S Name
+IVIFS. FredHksen
+Mrs. Fred","of Mrs.' Lake. rm m 2 ïk UTi K1 1 it -J a phi in We Want to Be jhiesie+U ji:W ÜI? i.-n si Til So, instead of saying Merry Christmas, we'll say I m im r!?i; ill n r, :ifii Qood Jßuck WHITEFISH CREAMERY m if 7 kn P©kL 0 U: NnmP eDe ah S Name IVIFS. FredHksen Mrs. Fred",0.674,False,,Whitefish Creamery 업체명이 들어간 인사 광고; 심하게 깨진 OCR,1949-12-23_sn84027524,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0504,1940s,1946-12-26,시사·기타,low,The Camas Hot Springs exchange,"Camas, Mont.",4,https://www.loc.gov/resource/sn85053223/1946-12-26/ed-1/,2,Christmas,False,3,"Nancy spent a
+lonesome Christmas Eve. She read
+awhile to forget her hunger, then
+went to bed. Next morning it was
+the destitute Mrs. Wilson who awak
+ened her.
+“Merry Christmas, Miss Belli”
+she shouted, walking into the room
+uninvited. Nancy was irritated, mo
+mentarily, by this highly painted,
+shallow creature. But she quickly
+regained her composure. It was
+Christmas, after","Nancy spent a lonesome Christmas Eve. She read awhile to forget her hunger, then went to bed. Next morning it was the destitute Mrs. Wilson who awak ened her. “Merry Christmas, Miss Belli” she shouted, walking into the room uninvited. Nancy was irritated, mo mentarily, by this highly painted, shallow creature. But she quickly regained her composure. It was Christmas, after",0.933,False,,"소설 연재 일부로 보이며 크리스마스는 배경 장면일 뿐, 기타로 분류",1946-12-26_sn85053223,시사·단신,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0547,1940s,1949-12-22,종교·기원,low,The Hardin tribune-herald,"Hardin, Mont.",9,https://www.loc.gov/resource/sn86075229/1949-12-22/ed-1/,2,CHRISTMAS,False,5,"happy and blessed Christmas.
+FIRST AMERICAN LUTHERAN CHURCH
+J k (Evangelical Lutheran Synod)
+J Pastor, Norman C. Johnshoy
+CHRISTMAS EVE
+DANCE
+GOOD MUSIC
+North Inn
+Wishing All a Very
+MERRY CHRISTMAS
+A*
+>O7
+M H
+niqkt k&re
+Christmas...
+Few experiences surpass m beauty that hush of
+wonderful expectancy that falls
+aver the home on Christmas eve. This season
+of 1949 holds","happy and blessed Christmas. FIRST AMERICAN LUTHERAN CHURCH J k (Evangelical Lutheran Synod) J Pastor, Norman C. Johnshoy CHRISTMAS EVE DANCE GOOD MUSIC North Inn Wishing All a Very MERRY CHRISTMAS A O7 M H niqkt k&re Christmas... Few experiences surpass m beauty that hush of wonderful expectancy that falls aver the home on Christmas eve. This season of 1949 holds",0.96,False,,"교회 인사와 댄스·여관 광고가 섞인 혼합 문안, 교회 축복 문구가 키워드 가장 가까움",1949-12-22_sn86075229,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0706,1950s,1958-12-26,가정·사교·공동체,medium,The Poplar standard,"Poplar, Mont.",6,https://www.loc.gov/resource/sn86075284/1958-12-26/ed-1/,16,Christmas,False,1,"on sale at Legion
+Hall.
+CARD OF THANKS
+I wish to thank everyone for
+the many kindnesses shown me,
+and for the gifts received during
+the last year.
+A Merry Christmas and a very
+Happy New Year to all my friends.
+Mrs. Florence Dale
+68 Montana citfcens died from
+tuberculosis in 1957.
+968 X-rays for indigent patients
+were paid for by","on sale at Legion Hall. CARD OF THANKS I wish to thank everyone for the many kindnesses shown me, and for the gifts received during the last year. A Merry Christmas and a very Happy New Year to all my friends. Mrs. Florence Dale 68 Montana citfcens died from tuberculosis in 1957. 968 X-rays for indigent patients were paid for by",0.982,False,,"개인 감사 카드와 크리스마스 인사, 상업 광고 아님",1958-12-26_sn86075284,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0689,1950s,1955-12-23,상업·소비,medium,Hungry Horse news.,"Columbia Falls, Mont.",3,https://www.loc.gov/resource/sn84027524/1955-12-23/ed-1/,21,CHRISTMAS,False,1,"William Yeats, took over rental of
+And Best Wishes For A
+in
+of
+HAPPY NEW YEAR
+exalt
+PIPER
+DRUGS
+J
+COLUMBIA FALLS
+Vj
+r
+
+
+x.
+STS*
+HAPPY NEW YEAR
+MERRY CHRISTMAS
+S 'V
+Sfi&vi
+Jxx
+''I:
+Ill
+Pi
+
+
+y
+il-.;:
+II;
+,X
+J
+x
+I'll
+W.
+.X
+
+
+i
+m
+x
+X
+:•'l;
+""I
+.,-x:
+
+m
+t
+m
+
+
+r:
+v-'x
+xx->:
+xlx;","William Yeats, took over rental of And Best Wishes For A in of HAPPY NEW YEAR exalt PIPER DRUGS J COLUMBIA FALLS Vj r x. STS HAPPY NEW YEAR MERRY CHRISTMAS S 'V Sfi&vi Jxx ''I: Ill Pi y il-.;: II; ,X J x I'll W. .X i m x X :'l; ""I .,-x: m t m r: v-'x xx-: xlx;",0.73,False,,"Piper Drugs의 새해·크리스마스 인사 광고, 일부 OCR 깨짐",1955-12-23_sn84027524,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0725,1960–63,1960-12-22,가정·사교·공동체,medium,The Hardin tribune-herald,"Hardin, Mont.",1,https://www.loc.gov/resource/sn86075229/1960-12-22/ed-1/,8,Christmas,False,2,"costumes go Ill
+ustrate their songs. Numbers by the
+various rooms were;
+Sixth grades—Mr Bailey’s room.
+""St. Nicholas"" to the tune of Jin
+gle Bells”: Mrs Cable’s room—
+Merry Christmas. Everyone” to the
+tune of “The Simple Birth”, and
+Mr. White’s sixth grade room,
+Christmas Eve” t<> thet une of “We
+Three Kings of Orient Are.
+Fifth grade* Mr. Halverson's","costumes go Ill ustrate their songs. Numbers by the various rooms were; Sixth grades — Mr Bailey’s room. ""St. Nicholas"" to the tune of Jin gle Bells”: Mrs Cable’s room — Merry Christmas. Everyone” to the tune of “The Simple Birth”, and Mr. White’s sixth grade room, Christmas Eve” t thet une of “We Three Kings of Orient Are. Fifth grade Mr. Halverson's",0.9,False,,"학교 학급별 크리스마스 노래 발표 프로그램, 종교단체 주관 아님",1960-12-22_sn86075229,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0763,1960–63,1962-12-19,상업·소비,medium,The Sidney herald.,"Sidney, Mont.",4,https://www.loc.gov/resource/sn83004278/1962-12-19/ed-1/,6,Christmas,False,1,"j
+gow, Havre and Great Falls;
+Flight 39 leaves at 5:23 p.m. for
+Glendive, Miles City and Billings;
+Flight 38 leaves at 5:28 p.m. for
+Williston, Minot and Bismarck.
+Merry Christmas from The
+Airport—Jim Sebastian, H. Lee
+Davis, Tom Andresen, Don
+Scheetz, Don Frass and the dog,
+Sidney.
+Airport News
+LIBRARY NEWS
+New books added— I
+""Walk Down Main Street"",","j gow, Havre and Great Falls; Flight 39 leaves at 5:23 p.m. for Glendive, Miles City and Billings; Flight 38 leaves at 5:28 p.m. for Williston, Minot and Bismarck. Merry Christmas from The Airport — Jim Sebastian, H. Lee Davis, Tom Andresen, Don Scheetz, Don Frass and the dog, Sidney. Airport News LIBRARY NEWS New books added — I ""Walk Down Main Street"",",0.885,False,,"공항 직원 명의의 ""Merry Christmas"" 인사 광고; 항공편 일정 속에 포함",1962-12-19_sn83004278,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+6,merry christmas,S0750,1960–63,1962-12-01,시사·기타,high,Montana farmer-stockman.,"Great Falls, Mont.",28,https://www.loc.gov/resource/sn86075096/1962-12-01/ed-1/,3,CHRISTMAS,False,1,"the Nazis had at
+tacked an Allied ""rest-camp"" area in
+Belgium, with 250,000 troops and 1,000
+tanks.
+By December 22, in an area cheer
+fully given the code name ""MERRY
+CHRISTMAS"" U.S. Brigadier General
+McAuliffe and 10,000 men were sur
+rounded at Bastogne by seven Nazi
+divisions and outnumbered four to one.
+It was then, when the Germans called
+for surrender,","the Nazis had at tacked an Allied ""rest-camp"" area in Belgium, with 250,000 troops and 1,000 tanks. By December 22, in an area cheer fully given the code name ""MERRY CHRISTMAS"" U.S. Brigadier General McAuliffe and 10,000 men were sur rounded at Bastogne by seven Nazi divisions and outnumbered four to one. It was then, when the Germans called for surrender,",0.982,False,,"벌지 전투·바스토뉴 포위 서술, 크리스마스는 암호명일 뿐",1962-12-01_sn86075096,시사·단신,ok,claude-sonnet-5-5,v0.3-presenter-rule

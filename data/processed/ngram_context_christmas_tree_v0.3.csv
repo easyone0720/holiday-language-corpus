@@ -1,0 +1,638 @@
+﻿ngram_rank,ngram,snippet_id,period,date,category,confidence,newspaper_title,place,page_no,url,hit_no,hit_text,is_split_hit,n_hits_in_window,snippet_raw,snippet_clean,dict_ratio,is_duplicate,dup_of,rationale,page_id,sub_type,status,model,prompt_version
+2,christmas tree,S0020,1900s,1902-12-19,가정·사교·공동체,high,The Kalispell bee.,"Kalispell, Mont.",5,https://www.loc.gov/resource/sn85053327/1902-12-19/ed-1/,4,Christmas,False,1,"will eo.vvst
+of songs, recitations, etc. This is *o
+in particular of the first and fourth
+graders. In the latter room presents
+will be distributed by Santa CLvrs
+from a Christmas tree.
+The scholars of the Eighth grade
+will give the cantata, ""Entertain'ng
+Santa Claus.""
+In Mrs. Geddes' room, at the Cen
+tral school, the following program
+will be rendered:
+Song","will eo.vvst of songs, recitations, etc. This is o in particular of the first and fourth graders. In the latter room presents will be distributed by Santa CLvrs from a Christmas tree. The scholars of the Eighth grade will give the cantata, ""Entertain'ng Santa Claus."" In Mrs. Geddes' room, at the Cen tral school, the following program will be rendered: Song",0.869,False,,"학교 크리스마스 프로그램, 산타와 트리, 칸타타 - 세속적 학교 행사",1902-12-19_sn85053327,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0059,1900s,1908-01-01,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",5,https://www.loc.gov/resource/sn82014248/1908-01-01/ed-1/,8,Christmas,False,1,"at T.30.
+Good entertainment and supper all for
+15 cents. If stormy it will be held
+the next fair night. All are invited.
+FAYETTE.
+A very pleasant occasion was the
+Christmas tree at Sanderson Corner
+schoolhouse Tuesday afternoon, Dec. 31.
+The schoolroom was prettily decorated
+with evergreen and a well-filled tree
+stood in the alcove. Miss Bessie Bamford
+was present with","at T.30. Good entertainment and supper all for 15 cents. If stormy it will be held the next fair night. All are invited. FAYETTE. A very pleasant occasion was the Christmas tree at Sanderson Corner schoolhouse Tuesday afternoon, Dec. 31. The schoolroom was prettily decorated with evergreen and a well-filled tree stood in the alcove. Miss Bessie Bamford was present with",0.947,False,,"학교 교실에서 열린 크리스마스 트리 행사, 종교 단체 주관 아님",1908-01-01_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0064,1900s,1908-01-01,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",5,https://www.loc.gov/resource/sn82014248/1908-01-01/ed-1/,13,Christmas,False,3,"telephone
+placed in his residence.
+Miss Inez Master is quite sick..
+Twenty-one people partook of a
+Christmas dinner at the home of Mr.
+and Mrs. W. W. Hisler. The family
+Christmas tree, heavily loaded with
+gifts for both vdung and old, was
+greatly enjoyed by all.
+WEST GARDINER.
+Mr. and Mrs. Samuel A. Smith passed
+Christmas with Mrs. Smith's niece.
+Mrs.","telephone placed in his residence. Miss Inez Master is quite sick.. Twenty-one people partook of a Christmas dinner at the home of Mr. and Mrs. W. W. Hisler. The family Christmas tree, heavily loaded with gifts for both vdung and old, was greatly enjoyed by all. WEST GARDINER. Mr. and Mrs. Samuel A. Smith passed Christmas with Mrs. Smith's niece. Mrs.",0.966,False,,"가족 크리스마스 만찬과 트리, 친척 방문 등 지역 사교 소식",1908-01-01_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0069,1900s,1908-01-01,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",5,https://www.loc.gov/resource/sn82014248/1908-01-01/ed-1/,18,Christmas,False,1,"Frank
+Grant, vvho when she finished reciting,
+very prettily sent the audience a kiss.
+.Much enjoyment was manifested by
+the, children as well as the older ones,
+■whjfo the large Christmas Tree was be
+'iijg. unloaded of its pretty gift*.
+Mrs. Lizzie Coombs returned to Mrs.
+Kelsey Casey’s Saturday, after passing
+a week at the home of her nephew,
+Qruen Merrill’s","Frank Grant, vvho when she finished reciting, very prettily sent the audience a kiss. .Much enjoyment was manifested by the, children as well as the older ones, whjfo the large Christmas Tree was be 'iijg. unloaded of its pretty gift. Mrs. Lizzie Coombs returned to Mrs. Kelsey Casey’s Saturday, after passing a week at the home of her nephew, Qruen Merrill’s",0.915,False,,"크리스마스 트리 선물 나눔 행사와 지역 사교 소식, 주최 종교단체 불명",1908-01-01_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0078,1900s,1908-01-01,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",5,https://www.loc.gov/resource/sn82014248/1908-01-01/ed-1/,27,Christmas,False,1,"years. The funeral was
+held Friday from his late home.
+Miss Harriet Sheldon returned to Ever
+ett Monday.
+Mrs. John Cate of this place died Tues
+day Dec. '24.
+The Christmas tree at the Center was
+well attended and greatly enjoyed by old
+and young.
+Miss Blanch Bickford remains about the
+same.
+ANCOCK.
+SURRY.
+Willie Emery, a student of the
+Bucksport","years. The funeral was held Friday from his late home. Miss Harriet Sheldon returned to Ever ett Monday. Mrs. John Cate of this place died Tues day Dec. '24. The Christmas tree at the Center was well attended and greatly enjoyed by old and young. Miss Blanch Bickford remains about the same. ANCOCK. SURRY. Willie Emery, a student of the Bucksport",0.915,False,,지역 소식 중 크리스마스 트리 행사가 잘 치러졌다는 사교 단신,1908-01-01_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0086,1900s,1908-01-01,가정·사교·공동체,low,Daily Kennebec journal,"Augusta, Me.",5,https://www.loc.gov/resource/sn82014248/1908-01-01/ed-1/,35,Christmas,False,2,"F.
+Mrs. Almon Gaspar, WJhtf
+Mrs. R. L. Madden, Wind
+Mrs. Hattie M. Dowe, Box,
+Helen W. Clark, Randolph
+Miss Edith Cannon, R. F.
+Mr*. Daniel Pushard, 91 Ha
+The Christmas tree and cntert^tnl/icat
+at the church Christmas »vo was-a do■
+cidftrl success. The house'was iflied to
+overflow ins', the two trees well laitln ami
+the program Riven by the different","F. Mrs. Almon Gaspar, WJhtf Mrs. R. L. Madden, Wind Mrs. Hattie M. Dowe, Box, Helen W. Clark, Randolph Miss Edith Cannon, R. F. Mr. Daniel Pushard, 91 Ha The Christmas tree and cnterttnl/icat at the church Christmas vo was-a do cidftrl success. The house'was iflied to overflow ins', the two trees well laitln ami the program Riven by the different",0.818,False,,"교회 크리스마스 트리와 여흥 행사 보도, 참석 성황. 글이 심하게 깨짐",1908-01-01_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0099,1900s,1908-12-30,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",8,https://www.loc.gov/resource/sn82014248/1908-12-30/ed-1/,7,Christmas,False,1,"Anson and surrounding towns for
+a week came home last week with 22
+oxen and steers.
+Mr. and Mrs. Will Lord and son, Ervin,
+and Miss Emma Hunt attended the
+Christmas tree at the church at Dunn’s
+Corner. _ i
+Mr. and Mrs. Wm. Hunt were in Au
+gusta Sunday the guests of their daugh
+ter, Mrs. Ford Hetferman, who has been","Anson and surrounding towns for a week came home last week with 22 oxen and steers. Mr. and Mrs. Will Lord and son, Ervin, and Miss Emma Hunt attended the Christmas tree at the church at Dunn’s Corner. i Mr. and Mrs. Wm. Hunt were in Au gusta Sunday the guests of their daugh ter, Mrs. Ford Hetferman, who has been",0.914,False,,"지역 사교 소식, 교회 크리스마스 트리 참석 언급",1908-12-30_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0111,1900s,1908-12-30,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",8,https://www.loc.gov/resource/sn82014248/1908-12-30/ed-1/,19,Christmas,False,1,"M. at A., Clyde Allen;
+I. G., Ralph Baxter; O. G., Albert IMc
+Nelley.
+The teacher of t}ie village school, No.
+10, Miss Carrie A. Ray, and pupils had a
+Christmas tree and entertainment at their
+school room Friday afternoon and the
+following, program was given: Recitation,
+school; reading, Miss Ray; song, Gladys
+Jacobs, Helen Fletcher and Viola Dailey;
+recitation, Harry","M. at A., Clyde Allen; I. G., Ralph Baxter; O. G., Albert IMc Nelley. The teacher of tie village school, No. 10, Miss Carrie A. Ray, and pupils had a Christmas tree and entertainment at their school room Friday afternoon and the following, program was given: Recitation, school; reading, Miss Ray; song, Gladys Jacobs, Helen Fletcher and Viola Dailey; recitation, Harry",0.942,False,,"학교가 연 크리스마스 트리와 여흥 프로그램, 종교 단체 주관 아님",1908-12-30_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0114,1900s,1908-12-30,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",8,https://www.loc.gov/resource/sn82014248/1908-12-30/ed-1/,22,Christmas,False,1,"Mrs. G. R. Ashford of Pair
+lielii spent the week end with their pa
+ri uts, Mr. and Mrs. J. S. Ashford am
+Mr. and Mth. Arthur Ward. A family
+Christmas tree was had at each home
+A little daughter of Joseph Peabodt
+fell and broke her arm while playing
+with her sister last week.
+The teacher and scholars on Files’","Mrs. G. R. Ashford of Pair lielii spent the week end with their pa ri uts, Mr. and Mrs. J. S. Ashford am Mr. and Mth. Arthur Ward. A family Christmas tree was had at each home A little daughter of Joseph Peabodt fell and broke her arm while playing with her sister last week. The teacher and scholars on Files’",0.927,False,,가족 방문과 가정 크리스마스 트리를 다룬 개인 사교 소식,1908-12-30_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0118,1900s,1908-12-30,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",8,https://www.loc.gov/resource/sn82014248/1908-12-30/ed-1/,26,Christmas,False,2,"88 years. The interment was made
+in Jefferson.
+COOPER’S MILLS.
+Mrs. Annie Grosman of Weeks Mills,
+passed last Wednesday and Thursday
+with her aunt, Mrs. Andrew Brann.
+There was a Christmas tree for the
+Sunday school at this place Christmas
+eve.
+Mrs. N. M. Leavitt is quite ill.
+Mrs. Ann Cookson is visiting her
+sister, Mrs. Edwin Kelley.
+Mrs. Alice Sanderson","88 years. The interment was made in Jefferson. COOPER’S MILLS. Mrs. Annie Grosman of Weeks Mills, passed last Wednesday and Thursday with her aunt, Mrs. Andrew Brann. There was a Christmas tree for the Sunday school at this place Christmas eve. Mrs. N. M. Leavitt is quite ill. Mrs. Ann Cookson is visiting her sister, Mrs. Edwin Kelley. Mrs. Alice Sanderson",0.912,False,,"지역 소식란; 주일학교 크리스마스 트리 언급, 개인 사교 소식 중심",1908-12-30_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0121,1900s,1908-12-30,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",8,https://www.loc.gov/resource/sn82014248/1908-12-30/ed-1/,29,Christmas,False,1,"Side
+linger in Nobleboro.
+Mrs. T. H. Mank, who has been pass
+ing a few days with her daughter, Mrs.
+Winnie Matthew's, at Waldoboro, return
+ed home Sunday.
+A family Christmas tree was held at
+the home of Mr. and Mrs. Aldon Wiiuh
+enbach Christma^ evening and the fol
+lowing families were present: Mr. and
+Mrs. W. F. Teague, Mr. and","Side linger in Nobleboro. Mrs. T. H. Mank, who has been pass ing a few days with her daughter, Mrs. Winnie Matthew's, at Waldoboro, return ed home Sunday. A family Christmas tree was held at the home of Mr. and Mrs. Aldon Wiiuh enbach Christma evening and the fol lowing families were present: Mr. and Mrs. W. F. Teague, Mr. and",0.836,False,,가정 크리스마스 트리 모임과 참석 가족을 전하는 개인 사교 소식,1908-12-30_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0122,1900s,1908-12-30,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",8,https://www.loc.gov/resource/sn82014248/1908-12-30/ed-1/,30,Christmas,False,1,"F. L.
+Teague and family, Mr. and Mrs. R. M.
+Carroll of Union, and Mr. and Mrs. EI
+mus Shuman and family. The evening
+was very pleasantly passed. A large
+Christmas tree was well loaded with
+man pretty and useful presents and
+trimmed with silver and gold spangles
+and brilliantly lighted with candles. At
+S o’clock Santa Claus began to distribute","F. L. Teague and family, Mr. and Mrs. R. M. Carroll of Union, and Mr. and Mrs. EI mus Shuman and family. The evening was very pleasantly passed. A large Christmas tree was well loaded with man pretty and useful presents and trimmed with silver and gold spangles and brilliantly lighted with candles. At S o’clock Santa Claus began to distribute",0.927,False,,"가족 모임, 크리스마스 트리와 산타의 선물 나눔 등 사교 소식",1908-12-30_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0130,1900s,1908-12-30,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",8,https://www.loc.gov/resource/sn82014248/1908-12-30/ed-1/,38,Christmas,False,3,"to North
+Wayne, lie has employment with the
+Tool Company.
+Mr. Kadcltff has moved into the Ta$>
+lor house. He will work in the box
+shop.
+MONMOUTH.
+An entertainment and Christmas
+tree was held at Grange hall Wednes
+day evening. The two churches ob
+served Christmas Thursday evening
+with a Christmas tree and appropriate
+exercises at their churche$.
+There will be","to North Wayne, lie has employment with the Tool Company. Mr. Kadcltff has moved into the Ta$ lor house. He will work in the box shop. MONMOUTH. An entertainment and Christmas tree was held at Grange hall Wednes day evening. The two churches ob served Christmas Thursday evening with a Christmas tree and appropriate exercises at their churche$. There will be",0.933,False,,그레인지 홀 오락회와 크리스마스 트리 등 지역 소식; 교회 행사도 트리 중심,1908-12-30_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0039,1900s,1905-12-23,종교·기원,medium,Daily Kennebec journal,"Augusta, Me.",3,https://www.loc.gov/resource/sn82014248/1905-12-23/ed-1/,9,Christmas,False,1,"tree. There
+will he singing for the little folks. Tin
+pastor will give a 15-minute sermon to
+tl»e children on “The Story of the Birth
+of Jesus and the First Christmas Tree.”
+After this the tree will he unloaded and
+the little folks treated to refreshments.
+This event is for the children and all of
+the children of tlie church are",tree. There will he singing for the little folks. Tin pastor will give a 15-minute sermon to tle children on “The Story of the Birth of Jesus and the First Christmas Tree.” After this the tree will he unloaded and the little folks treated to refreshments. This event is for the children and all of the children of tlie church are,0.967,False,,"교회 주관 어린이 행사, 목사의 예수 탄생 설교와 트리 행사",1905-12-23_sn82014248,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0050,1900s,1905-12-23,종교·기원,medium,Daily Kennebec journal,"Augusta, Me.",3,https://www.loc.gov/resource/sn82014248/1905-12-23/ed-1/,20,Christmas,False,1,"MISS X. M. FARXIIAM.
+Local Notice.
+Always rimember the evening meat
+market and the prices. J. E. Croteau,
+proprietor, 134 Water street, Augusta,
+where the cars stop. dec23d2t*
+mXTHUOP.
+A Christmas tree and concert is to
+be given at the M. E. church Monday
+evening by the members of the Sunday
+school. This will be the second service
+to bo liolden","MISS X. M. FARXIIAM. Local Notice. Always rimember the evening meat market and the prices. J. E. Croteau, proprietor, 134 Water street, Augusta, where the cars stop. dec23d2t mXTHUOP. A Christmas tree and concert is to be given at the M. E. church Monday evening by the members of the Sunday school. This will be the second service to bo liolden",0.887,False,,감리교회 주일학교가 크리스마스 트리와 음악회를 주최(규칙 2),1905-12-23_sn82014248,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0057,1900s,1908-01-01,종교·기원,medium,Daily Kennebec journal,"Augusta, Me.",5,https://www.loc.gov/resource/sn82014248/1908-01-01/ed-1/,6,Christmas,False,2,"house thor
+oughly fumigated.
+Ernest Worang lias airiveil home from
+the west, where he has been for several
+years.
+CROSS HILL.
+The. First Baptist Sabbath school held
+a concert and Christmas tree at the
+church Christmas eve. the concert con
+sisted of recitations, dialogues and music
+under tiic care of Miss G:ace Perkins,
+assisted by Miss Nellie Coombs.
+Arthur Casey of","house thor oughly fumigated. Ernest Worang lias airiveil home from the west, where he has been for several years. CROSS HILL. The. First Baptist Sabbath school held a concert and Christmas tree at the church Christmas eve. the concert con sisted of recitations, dialogues and music under tiic care of Miss G:ace Perkins, assisted by Miss Nellie Coombs. Arthur Casey of",0.9,False,,침례교 주일학교가 교회에서 연 크리스마스 트리 음악회·낭송 프로그램,1908-01-01_sn82014248,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0084,1900s,1908-01-01,종교·기원,low,Daily Kennebec journal,"Augusta, Me.",5,https://www.loc.gov/resource/sn82014248/1908-01-01/ed-1/,33,Christmas,False,2,"which
+improves the looks of It very mdcfl.
+C. II. Plummer is sick with iho grip.
+J. E. Hall shipped apples from Unity
+to the Liverpool market last week.
+A Christmas tree and concert was
+held at the church Christmas eve.
+The next meeting of the Ladies’ CIuo
+will be with Mrs. B. F. Foster Friday
+evening, Jan. 9.
+‘‘Uncle’’ Oliver","which improves the looks of It very mdcfl. C. II. Plummer is sick with iho grip. J. E. Hall shipped apples from Unity to the Liverpool market last week. A Christmas tree and concert was held at the church Christmas eve. The next meeting of the Ladies’ CIuo will be with Mrs. B. F. Foster Friday evening, Jan. 9. ‘‘Uncle’’ Oliver",0.926,False,,"교회에서 열린 크리스마스 트리와 음악회, 주최가 불분명한 지역 단신",1908-01-01_sn82014248,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0144,1910s,1911-12-26,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",9,https://www.loc.gov/resource/sn82014248/1911-12-26/ed-1/,7,Christmas,False,1,"Walter Damroseh and
+daughters, Alice, Margaret, Polly and
+Anita, of New York, were guests, on
+Christinas day. of Mrs. Harriet Blaine
+Beale at the Blaine mansion. A dinner
+party and Christmas tree in the after
+noon were features of the observance.
+The December term of the law
+court adjourned shortly before noon,
+Saturday. The term has been an un
+usually busy","Walter Damroseh and daughters, Alice, Margaret, Polly and Anita, of New York, were guests, on Christinas day. of Mrs. Harriet Blaine Beale at the Blaine mansion. A dinner party and Christmas tree in the after noon were features of the observance. The December term of the law court adjourned shortly before noon, Saturday. The term has been an un usually busy",0.933,False,,"크리스마스 날 손님, 저녁 만찬과 트리 등 개인 사교 소식",1911-12-26_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0148,1910s,1911-12-26,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",9,https://www.loc.gov/resource/sn82014248/1911-12-26/ed-1/,11,Christmas,False,2,"were in force. The
+city carriers made their morning de
+livery and the 5 P. M. collection of
+fiexes, while the rural carriers made
+their regular delivery and collection.
+Grange Christmas Tree.
+About 100 were present at the
+Christmas tree exercises held, Satur
+day night, under the auspices of Cap
+ital Grange, Xo. J4H. The gifts were
+distributed by Worthy Master-elect","were in force. The city carriers made their morning de livery and the 5 P. M. collection of fiexes, while the rural carriers made their regular delivery and collection. Grange Christmas Tree. About 100 were present at the Christmas tree exercises held, Satur day night, under the auspices of Cap ital Grange, Xo. J4H. The gifts were distributed by Worthy Master-elect",0.947,False,,"그레인지(공동체 단체)가 연 크리스마스 트리 행사, 선물 분배",1911-12-26_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0155,1910s,1911-12-26,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",9,https://www.loc.gov/resource/sn82014248/1911-12-26/ed-1/,18,Christmas,False,2,"and a duet by the Misses Rill Ian Hard
+ing and Ruth Hill. .1. Harry cham
+berlain officiated as conductor.
+Following the cantata gifts were dis
+tributed from a well-laden Christmas
+tree, which proved one of the most en
+joyable features of the evening.
+Salvation Army Christmas Dinners.
+The local corps of the Salvation
+Army fed almost 4'M people with th""","and a duet by the Misses Rill Ian Hard ing and Ruth Hill. .1. Harry cham berlain officiated as conductor. Following the cantata gifts were dis tributed from a well-laden Christmas tree, which proved one of the most en joyable features of the evening. Salvation Army Christmas Dinners. The local corps of the Salvation Army fed almost 4'M people with th""",0.948,False,,칸타타 후 크리스마스 트리 선물 배분; 구세군 만찬 기사 혼재,1911-12-26_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0161,1910s,1911-12-26,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",9,https://www.loc.gov/resource/sn82014248/1911-12-26/ed-1/,24,Christmas,False,2,"3 P. M., at the
+Children's Home, Sewall street. A
+nnmber of visitors were present and
+a musical and literary program was
+rendered by the children at the Home.
+The Christmas tree was loaded with
+gifts, the children at the _ institution
+being generously remembered by
+friends of the institution in Augusta
+and vicinity. The children enjoyed a
+fine Christmas dinner, the","3 P. M., at the Children's Home, Sewall street. A nnmber of visitors were present and a musical and literary program was rendered by the children at the Home. The Christmas tree was loaded with gifts, the children at the institution being generously remembered by friends of the institution in Augusta and vicinity. The children enjoyed a fine Christmas dinner, the",0.964,False,,"아동 보호시설의 크리스마스 트리, 프로그램, 만찬 행사 소식",1911-12-26_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0163,1910s,1911-12-26,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",9,https://www.loc.gov/resource/sn82014248/1911-12-26/ed-1/,26,Christmas,False,2,"just the same
+tvay. When used instead of butter,
+add salt.
+Purchase a package this week
+and try it. It will repay you.
+SoM in 25c. packages
+by all grocers
+Christmas tree in the Chapel hall were
+features of the Christmas observance
+at the Insane hospital. The mule pa
+tients each had cigars after dinner.
+The new picture machine was in","just the same tvay. When used instead of butter, add salt. Purchase a package this week and try it. It will repay you. SoM in 25c. packages by all grocers Christmas tree in the Chapel hall were features of the Christmas observance at the Insane hospital. The mule pa tients each had cigars after dinner. The new picture machine was in",0.966,False,,"병원 크리스마스 행사: 트리, 저녁식사, 시가 등 세속적 공동체 행사",1911-12-26_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0168,1910s,1913-12-31,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",7,https://www.loc.gov/resource/sn82014248/1913-12-31/ed-1/,1,Christmas,False,1,"Weekly News Letters From Our Regular Correspondents in Kennebec County Towns.
+t>
+NEWS FROM ALL
+THE VASSALBOROS.
+
+VASSALBORO.
+The Christmas tree at Adams Mem
+orial church, Vassalboro, Wednesday
+evening was a decided success. 1 he
+decorations were fine and the fruitage
+of the two trees abundant and well
+chosen. The","Weekly News Letters From Our Regular Correspondents in Kennebec County Towns. t NEWS FROM ALL THE VASSALBOROS. VASSALBORO. The Christmas tree at Adams Mem orial church, Vassalboro, Wednesday evening was a decided success. 1 he decorations were fine and the fruitage of the two trees abundant and well chosen. The",0.872,False,,"교회에서 열린 크리스마스 트리 행사의 지역 소식, 장식과 선물 위주",1913-12-31_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0171,1910s,1913-12-31,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",7,https://www.loc.gov/resource/sn82014248/1913-12-31/ed-1/,4,Christmas,False,2,"M. 12.. Brann left Saturday for Au
+gusta to j>ass the Sabbath with friends.
+Mrs. C. W. Randall and John Ran
+dall, who have been quite poorly, are
+convalescing.
+A Christmas tree was greatly en
+joyed by the family in the home of
+Mahlon Brann.
+Harold Morse, who has employment!
+at Oquosett, arrived Thursday to pass
+Christmas with his parents, Mr.","M. 12.. Brann left Saturday for Au gusta to jass the Sabbath with friends. Mrs. C. W. Randall and John Ran dall, who have been quite poorly, are convalescing. A Christmas tree was greatly en joyed by the family in the home of Mahlon Brann. Harold Morse, who has employment! at Oquosett, arrived Thursday to pass Christmas with his parents, Mr.",0.875,False,,"가족 크리스마스 트리, 부모와 보낸 크리스마스 등 개인 사교 소식",1913-12-31_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0181,1910s,1913-12-31,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",7,https://www.loc.gov/resource/sn82014248/1913-12-31/ed-1/,14,Christmas,False,2,"Norris in Auburn.
+Mrs. Bessie Dickinson passed Sunday
+at her father’s, Ira Lucas, Readfleld.
+Miss Phyllis Ward returned from Gar
+diner Sunday and will attend school at
+Kent’s Hill.
+The Christmas tree and entertainment
+at the vestry Wednesday evening was
+well attended.
+T. K. Jennings passed the Christmas
+vacation with his family returning to
+Gray Sunday.
+The families of J. E.","Norris in Auburn. Mrs. Bessie Dickinson passed Sunday at her father’s, Ira Lucas, Readfleld. Miss Phyllis Ward returned from Gar diner Sunday and will attend school at Kent’s Hill. The Christmas tree and entertainment at the vestry Wednesday evening was well attended. T. K. Jennings passed the Christmas vacation with his family returning to Gray Sunday. The families of J. E.",0.982,False,,"지역 사교 소식: 크리스마스 트리 행사, 휴가를 가족과 보냄",1913-12-31_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0185,1910s,1913-12-31,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",7,https://www.loc.gov/resource/sn82014248/1913-12-31/ed-1/,18,Christmas,False,1,"dance at
+Belgrade grange hall Thursday eve
+ning. Jar.. 8. Music will be furnished
+by Lee's orchestra of five pieces. An
+oyster supper will be served at inter
+mission.
+A Christmas tree was given Wednes
+day evening, Dec. 24, at the Old South
+church. On account of the storm and
+bad traveling the crowd was small and
+program short. Those present","dance at Belgrade grange hall Thursday eve ning. Jar.. 8. Music will be furnished by Lee's orchestra of five pieces. An oyster supper will be served at inter mission. A Christmas tree was given Wednes day evening, Dec. 24, at the Old South church. On account of the storm and bad traveling the crowd was small and program short. Those present",0.966,False,,"지역 소식란의 크리스마스 트리 행사; 교회는 장소로만 언급, 예배 초점 없음",1913-12-31_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0214,1910s,1913-12-31,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",7,https://www.loc.gov/resource/sn82014248/1913-12-31/ed-1/,47,Christmas,False,1,"made by our
+famous bread maker, Mrs. E, C.
+AVeeks; oranges, bananas, nuts of all
+kind and candies. After the banquet
+was over all repaired to the parlor,
+where a Christmas tree had been ar
+ranged, which was a beautiful sight,
+being artfully decorated and trimmed
+by Mrs. Peck and Philbrick, with
+presents which loaded It to the floor.
+Before removing","made by our famous bread maker, Mrs. E, C. AVeeks; oranges, bananas, nuts of all kind and candies. After the banquet was over all repaired to the parlor, where a Christmas tree had been ar ranged, which was a beautiful sight, being artfully decorated and trimmed by Mrs. Peck and Philbrick, with presents which loaded It to the floor. Before removing",0.965,False,,연회 후 응접실의 크리스마스 트리와 선물 등 사교 모임 소식,1913-12-31_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0254,1910s,1915-12-29,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",2,https://www.loc.gov/resource/sn82014248/1915-12-29/ed-1/,23,Christmas,False,1,"Beecher.” Julia Millett;
+“Harry and Dottle,"" Earl Luce and Alice
+Townsend; “Mrs. Primrose,” Mildred
+Brown; ‘•John Stacker,” Edgar Luce;
+singing, eight fairies, five brownies;
+recitation, Albert Hutchinson.
+The richly laden Christmas tree was
+unladen by Clifton Bickford, who made
+a fine Santa Claus. Every one present
+had a fancy bag of candy, for which they
+were indebted to M. S. Collins","Beecher.” Julia Millett; “Harry and Dottle,"" Earl Luce and Alice Townsend; “Mrs. Primrose,” Mildred Brown; ‘John Stacker,” Edgar Luce; singing, eight fairies, five brownies; recitation, Albert Hutchinson. The richly laden Christmas tree was unladen by Clifton Bickford, who made a fine Santa Claus. Every one present had a fancy bag of candy, for which they were indebted to M. S. Collins",0.965,False,,"학교/공동체 크리스마스 연예 프로그램, 산타와 트리, 사탕 나눔; 교회 주관 불명",1915-12-29_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0224,1910s,1915-12-17,시사·기타,low,The Glasgow courier.,"Glasgow, Mont.",9,https://www.loc.gov/resource/sn85042379/1915-12-17/ed-1/,10,Christmas,False,2,"infidel!
+Mamma ,An infidel?
+Milly—Yes. He said he don't believe
+there's <iny Santa Claus,
+""What is the baby crying about?'
+""Oh, nothing much. He only wants
+to eat the Christmas tree.""
+Thirty-seven young ladles of the con
+gregatlon had In mind thirty-seven
+pairs of slippers for the curate for
+Christmas.
+But one young lady made known her
+intention. And when","infidel! Mamma ,An infidel? Milly — Yes. He said he don't believe there's iny Santa Claus, ""What is the baby crying about?' ""Oh, nothing much. He only wants to eat the Christmas tree."" Thirty-seven young ladles of the con gregatlon had In mind thirty-seven pairs of slippers for the curate for Christmas. But one young lady made known her intention. And when",0.952,False,,Santa·트리를 소재로 한 유머 단편; 어느 범주에도 맞지 않음,1915-12-17_sn85042379,시사·단신,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0152,1910s,1911-12-26,종교·기원,medium,Daily Kennebec journal,"Augusta, Me.",9,https://www.loc.gov/resource/sn82014248/1911-12-26/ed-1/,15,Christmas,False,3,"M., Saturday, at the
+Winthrop Street Baptist church. The pu
+pils of the Sunday school met in the
+church vestry and with the older ones
+enjoyed a pleasing entertainment and
+Christmas tree. R. D. rainier took the
+part of Santa Claus very successfully.
+The program was as follows:
+Welcome, Merritt Hewitt
+Song—""Merry Christmas.""
+Primary Department
+Recitation—“Telling About Christmas,""
+Ada","M., Saturday, at the Winthrop Street Baptist church. The pu pils of the Sunday school met in the church vestry and with the older ones enjoyed a pleasing entertainment and Christmas tree. R. D. rainier took the part of Santa Claus very successfully. The program was as follows: Welcome, Merritt Hewitt Song — ""Merry Christmas."" Primary Department Recitation — “Telling About Christmas,"" Ada",0.982,False,,"교회 주일학교가 주최한 크리스마스 프로그램(낭송·노래), 산타와 트리도 언급",1911-12-26_sn82014248,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0187,1910s,1913-12-31,종교·기원,medium,Daily Kennebec journal,"Augusta, Me.",7,https://www.loc.gov/resource/sn82014248/1913-12-31/ed-1/,20,Christmas,False,2,"and Blanche Han
+son.
+Mrs. Geo. Stoddard passed Christmas
+with her daughter, Mrs. Winnie Stev
+ens.
+William Wadleigh recently purchased
+some tine stock of Bert Damren.
+LITCHFIELD.
+CORNER—The annual Christmas
+tree with the accompanying excercises
+was held at the church Thursday eve
+ning. The exercises were especially
+interesting as the youngest ones in the
+Sunday school took part, quite a","and Blanche Han son. Mrs. Geo. Stoddard passed Christmas with her daughter, Mrs. Winnie Stev ens. William Wadleigh recently purchased some tine stock of Bert Damren. LITCHFIELD. CORNER — The annual Christmas tree with the accompanying excercises was held at the church Thursday eve ning. The exercises were especially interesting as the youngest ones in the Sunday school took part, quite a",0.883,False,,교회·주일학교가 크리스마스 트리 행사 진행; 지역 소식과 혼재,1913-12-31_sn82014248,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0205,1910s,1913-12-31,종교·기원,low,Daily Kennebec journal,"Augusta, Me.",7,https://www.loc.gov/resource/sn82014248/1913-12-31/ed-1/,38,Christmas,False,1,"of Winthrop.
+PITTSTOft.
+EAST—Mrs. F. W. Manslr has been
+sueiing with a slight attack of blood
+poisoning in her hand, caused by a
+scratch fropi a pet cat.
+The Christmas tree which vas held
+at the church on Thursday evening
+was largely attended. The children
+rendered a fine program which was
+enjoyed by all present, after which
+Santa Claus made","of Winthrop. PITTSTOft. EAST — Mrs. F. W. Manslr has been sueiing with a slight attack of blood poisoning in her hand, caused by a scratch fropi a pet cat. The Christmas tree which vas held at the church on Thursday evening was largely attended. The children rendered a fine program which was enjoyed by all present, after which Santa Claus made",0.927,False,,"교회에서 열린 크리스마스 트리 행사, 아이들 프로그램과 산타; 교회 주관 여부 모호",1913-12-31_sn82014248,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0313,1920s,1920-12-17,가정·사교·공동체,medium,The Glasgow courier.,"Glasgow, Mont.",10,https://www.loc.gov/resource/sn85042379/1920-12-17/ed-1/,23,Christmas,False,2,"francs.
+j
+
+
+(c,
+Mr. Santa Claus was in Helena a
+few days ago, and he sent word that
+he wants to see all the Valley
+county kiddies at the Big Christmas
+Tree at seven o'clock, Dec. 24th.
+Don't Forget.
+Don't Forget
+The Other
+Little Girl
+WHAT A SEASON is Christmas. All the good thoughts of
+the old year seem to find","francs. j (c, Mr. Santa Claus was in Helena a few days ago, and he sent word that he wants to see all the Valley county kiddies at the Big Christmas Tree at seven o'clock, Dec. 24th. Don't Forget. Don't Forget The Other Little Girl WHAT A SEASON is Christmas. All the good thoughts of the old year seem to find",1.0,False,,산타가 지역 아이들을 크리스마스 트리 행사에 초대하는 공동체 행사 안내,1920-12-17_sn85042379,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0369,1920s,1924-12-26,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",3,https://www.loc.gov/resource/sn82014248/1924-12-26/ed-1/,9,Christmas,False,3,"Marion
+Monbleau: anthem. ""Thee We Adore.” j
+After the program had been complet
+ed Superintendent Charles J. Monbleau
+assisted by the young people of the
+Sunday school distributed the presents.
+Christmas Tree Is
+Feature Sunset Home
+The parlors at the Sunset Home
+were very beautiful Christmas morn
+ing and to add to the attractiveness
+was a large Christmas tree brilllan
+ly","Marion Monbleau: anthem. ""Thee We Adore.” j After the program had been complet ed Superintendent Charles J. Monbleau assisted by the young people of the Sunday school distributed the presents. Christmas Tree Is Feature Sunset Home The parlors at the Sunset Home were very beautiful Christmas morn ing and to add to the attractiveness was a large Christmas tree brilllan ly",0.914,False,,키워드 인근은 양로원 크리스마스 트리 장식 소식; 앞부분 주일학교 선물 배분과 혼재,1924-12-26_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0381,1920s,1924-12-26,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",3,https://www.loc.gov/resource/sn82014248/1924-12-26/ed-1/,21,Christmas,False,1,"mothers and friends, with the
+children, enjoyed an interesting pro
+gram of recitations, singing and class
+exercises, and a visit from Santa Claus
+with the distribution of gifts from the
+Christmas tree. The committee In
+charge was Mrs. William Anderson,
+Miss Bertha Snell and Mrs. Maurice
+Fiies. V
+Miss Ruth Henderson of Augusta Is
+passing a few days at her home","mothers and friends, with the children, enjoyed an interesting pro gram of recitations, singing and class exercises, and a visit from Santa Claus with the distribution of gifts from the Christmas tree. The committee In charge was Mrs. William Anderson, Miss Bertha Snell and Mrs. Maurice Fiies. V Miss Ruth Henderson of Augusta Is passing a few days at her home",0.983,False,,"어린이 낭송·노래, 산타 방문과 트리 선물 배분, 사교 소식; 종교단체 주관 불명확",1924-12-26_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0305,1920s,1920-12-17,시사·기타,low,The Glasgow courier.,"Glasgow, Mont.",10,https://www.loc.gov/resource/sn85042379/1920-12-17/ed-1/,15,Christmas,False,1,"set to jg
+work cutting these trees for tlie y
+market, and by early November
+:5|. a little fleet of vessels makes its
+way down Lake Michigan, a V.
+0 Christmas tree hauled to the v
+:S foremast of each one, that by
+,'i: this sign all may know that in fï
+their holds is a cargo which
+B might not","set to jg work cutting these trees for tlie y market, and by early November :5. a little fleet of vessels makes its way down Lake Michigan, a V. 0 Christmas tree hauled to the v :S foremast of each one, that by ,'i: this sign all may know that in fï their holds is a cargo which B might not",0.98,False,,"크리스마스 트리 운송 선박 이야기, 상업·민속 서술이나 분류 모호",1920-12-17_sn85042379,시사·단신,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0348,1920s,1921-12-24,종교·기원,medium,Daily Kennebec journal,"Augusta, Me.",10,https://www.loc.gov/resource/sn82014248/1921-12-24/ed-1/,11,Christmas,False,4,"to attend.
+Doxology.
+Prayer.
+Scripture. St. I,like. Ch. 2. 1-1S.
+Hymn, ""Silent Might, Holy Might.”
+Welcome, Leon Dearborn
+Ire tings. Linda Hayes
+Recitation, ""Tell the Story,”
+Willard Tolland
+Itecitation, “The Christmas Tree,""
+Dorothy Dearborn
+Chorus, ""On Christmas Morn.”
+Reading, ""Our Christmas Light.”
+Mildred Wright
+Dialogue. ""Christmas Bells,”
+Webster Mountfort, Dorothy Mal
+loy, Herbert Chapman
+Reading, ""The Gift for Him,”
+Thelma Swift","to attend. Doxology. Prayer. Scripture. St. I,like. Ch. 2. 1-1S. Hymn, ""Silent Might, Holy Might.” Welcome, Leon Dearborn Ire tings. Linda Hayes Recitation, ""Tell the Story,” Willard Tolland Itecitation, “The Christmas Tree,"" Dorothy Dearborn Chorus, ""On Christmas Morn.” Reading, ""Our Christmas Light.” Mildred Wright Dialogue. ""Christmas Bells,” Webster Mountfort, Dorothy Mal loy, Herbert Chapman Reading, ""The Gift for Him,” Thelma Swift",0.915,False,,"성경 낭독, 찬송, 기도가 포함된 크리스마스 프로그램 순서",1921-12-24_sn82014248,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0357,1920s,1921-12-24,종교·기원,medium,Daily Kennebec journal,"Augusta, Me.",10,https://www.loc.gov/resource/sn82014248/1921-12-24/ed-1/,20,Christmas,False,2,"Men. The afternoon service
+is for the children o£ St. Mark's and
+St. Barnabas' church schools. Fol
+lowing tlie service, the members of
+St. Mark's church school will have
+their Christmas tree exercises in the
+Parish hoifse. The Christmas tree for
+St. Barnabas school will be on Wednes
+day evening of next week.
+Pupils of the church school are re
+minded","Men. The afternoon service is for the children o£ St. Mark's and St. Barnabas' church schools. Fol lowing tlie service, the members of St. Mark's church school will have their Christmas tree exercises in the Parish hoifse. The Christmas tree for St. Barnabas school will be on Wednes day evening of next week. Pupils of the church school are re minded",0.933,False,,교회 학교가 주관하는 예배 및 크리스마스 트리 행사 안내,1921-12-24_sn82014248,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0401,1920s,1928-12-13,종교·기원,high,The Poplar standard,"Poplar, Mont.",10,https://www.loc.gov/resource/sn86075284/1928-12-13/ed-1/,11,Christ mas,True,2,"lights and
+gifts, the hitter In commemo
+rutlou of tiie gifts brought tc
+the Chriet Child by tbe “wise
+men."" There Is a diversity ot
+opinion as to where tbe Christ
+mas tree custom originated. It
+being credited to botb Italy and
+Gernmny.
+A Fine Christmas Plant
+The Solunus Cupscnstrnm or what
+is better known by Its old-fashioned
+mi me <4","lights and gifts, the hitter In commemo rutlou of tiie gifts brought tc the Chriet Child by tbe “wise men."" There Is a diversity ot opinion as to where tbe Christ mas tree custom originated. It being credited to botb Italy and Gernmny. A Fine Christmas Plant The Solunus Cupscnstrnm or what is better known by Its old-fashioned mi me 4",0.814,False,,크리스마스 트리 풍습의 기원(이탈리아·독일)을 설명하는 글,1928-12-13_sn86075284,기원·역사해설,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0446,1930s,1935-01-04,가정·사교·공동체,high,The Hardin tribune-herald,"Hardin, Mont.",6,https://www.loc.gov/resource/sn86075229/1935-01-04/ed-1/,9,Christ mas,True,2,"in our
+room. Her name is Donna Mae.
+She came Wednesday morning.
+GEORGE DORN.
+My father and mother, my
+brother and I were back to my
+brother-in-law’s. We had a Christ
+mas tree. We burned candles on It.
+EDWARD SCHAFER.
+I got a set of paints on Christ
+mas. There are ten paints in the
+set and four colors in it.","in our room. Her name is Donna Mae. She came Wednesday morning. GEORGE DORN. My father and mother, my brother and I were back to my brother-in-law’s. We had a Christ mas tree. We burned candles on It. EDWARD SCHAFER. I got a set of paints on Christ mas. There are ten paints in the set and four colors in it.",0.966,False,,"아이들이 가족 방문, 트리, 선물 받은 일을 적은 개인 일상 소식",1935-01-04_sn86075229,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0483,1930s,1939-12-28,가정·사교·공동체,high,The Western news.,"Libby, Mont.",7,https://www.loc.gov/resource/sn82006551/1939-12-28/ed-1/,16,Christmas,False,2,"presented
+a Christmas program for the com-1
+mumty Friday, Dec 22. The pro
+gram consisted of plays, recitations!
+?_ nd sf n f s by tbe ei tire f cbooL
+beautiful Christmas tree, laden with
+LEONIA
+Montana-Idaho Line
+A
+pregents> completely filled one cor
+rier of the school. Santa Claus ar
+rived and the presents were given
+out. The community was well","presented a Christmas program for the com-1 mumty Friday, Dec 22. The pro gram consisted of plays, recitations! ? nd sf n f s by tbe ei tire f cbooL beautiful Christmas tree, laden with LEONIA Montana-Idaho Line A pregents completely filled one cor rier of the school. Santa Claus ar rived and the presents were given out. The community was well",0.855,False,,"학교 크리스마스 프로그램, 트리, 산타 방문 등 세속적 공동체 행사",1939-12-28_sn82006551,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0554,1940s,1949-12-22,가정·사교·공동체,medium,The Hardin tribune-herald,"Hardin, Mont.",9,https://www.loc.gov/resource/sn86075229/1949-12-22/ed-1/,9,Christmas,False,2,"songs and recitations. Parents
+and friends are invited to at
+tend and enjoy the evening
+with the children. After the
+program a party will be held
+for all around the Christmas
+tree. At least one famous guest
+is expected to arrive. It is San
+ta Claus, a world traveler and
+friend of children everywhere.
+Christmas Sunday, church
+school, 9:45; morning worship,","songs and recitations. Parents and friends are invited to at tend and enjoy the evening with the children. After the program a party will be held for all around the Christmas tree. At least one famous guest is expected to arrive. It is San ta Claus, a world traveler and friend of children everywhere. Christmas Sunday, church school, 9:45; morning worship,",1.0,False,,"어린이 프로그램, 트리 파티, 산타 방문 중심; 교회 예배 공지는 말미에만 나옴",1949-12-22_sn86075229,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0543,1940s,1948-12-23,시사·기타,low,The Durant news.,"Durant, Miss.",7,https://www.loc.gov/resource/sn87065228/1948-12-23/ed-1/,14,Christmas,False,2,"of the birth of Jesus
+is described in w’hich two hooks of
+the New Testament (a) St. John,
+(b) St. Matthew, (c) St. Luke, (d)
+St. Mark’
+3. The national Christmas tree ol
+America is located in (a) Indiana
+<b) New York, fc) Washington,
+D. C., <d) California.
+4. Who wrote “The Night Before
+Christmas”? (a) Longfellow, (b)
+Guest, <c) Moore?","of the birth of Jesus is described in w’hich two hooks of the New Testament (a) St. John, (b) St. Matthew, (c) St. Luke, (d) St. Mark’ 3. The national Christmas tree ol America is located in (a) Indiana b) New York, fc) Washington, D. C., d) California. 4. Who wrote “The Night Before Christmas”? (a) Longfellow, (b) Guest, c) Moore?",0.936,False,,"크리스마스 상식 퀴즈 문항; 예배·광고 아님, 기타 분류",1948-12-23_sn87065228,시사·단신,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0508,1940s,1946-12-26,종교·기원,high,The Camas Hot Springs exchange,"Camas, Mont.",4,https://www.loc.gov/resource/sn85053223/1946-12-26/ed-1/,6,Christmas,False,2,"Field
+Bonchevalier and
+The tale of Bonchevalier and the
+tree of humanity, told with minor
+variations throughout France and
+Germany, is one of the most charm
+ing of all the Christmas tree leg
+ends.
+Bonchevalier was traveling
+through a dense forest once upon a
+Christmas Eve. In the distance one
+tall evergreen stood apart from all
+the others; it seemed aglow","Field Bonchevalier and The tale of Bonchevalier and the tree of humanity, told with minor variations throughout France and Germany, is one of the most charm ing of all the Christmas tree leg ends. Bonchevalier was traveling through a dense forest once upon a Christmas Eve. In the distance one tall evergreen stood apart from all the others; it seemed aglow",0.949,False,,크리스마스 트리 전설의 기원을 설명하는 민담 이야기,1946-12-26_sn85053223,기원·역사해설,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0553,1940s,1949-12-22,종교·기원,high,The Hardin tribune-herald,"Hardin, Mont.",9,https://www.loc.gov/resource/sn86075229/1949-12-22/ed-1/,8,Christmas,False,4,"main feature is a
+carol service, ""Christmas
+Around the World,” accompan
+ied by the scenes of the Christ
+mas story in pantomine. The
+program will close with the an
+nual Christmas tree and treats.
+On Sunday, Christmas Day,
+there will be both morning and
+evening services at the usual
+time.
+First Congregational Church
+A. Clair King, minister-
+On Friday evening, Dec.","main feature is a carol service, ""Christmas Around the World,” accompan ied by the scenes of the Christ mas story in pantomine. The program will close with the an nual Christmas tree and treats. On Sunday, Christmas Day, there will be both morning and evening services at the usual time. First Congregational Church A. Clair King, minister- On Friday evening, Dec.",0.932,False,,"교회가 캐럴 예배, 탄생 판토마임, Christmas Day 예배를 안내함",1949-12-22_sn86075229,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0613,1950s,1953-12-15,가정·사교·공동체,medium,Montana farmer-stockman.,"Great Falls, Mont.",16,https://www.loc.gov/resource/sn86075096/1953-12-15/ed-1/,3,Christmas,False,2,"and tinsel on it, and it was just
+as beautiful and every bit as fragrant as any fir. To this
+day any particularly large and flourishing red geranium
+recalls that ""Christmas tree.""
+The other was an artificial Christmas tree with fold
+ing branches, for which we had sent to a catalog house.
+It stood in a small flowerpot. Its wire branches","and tinsel on it, and it was just as beautiful and every bit as fragrant as any fir. To this day any particularly large and flourishing red geranium recalls that ""Christmas tree."" The other was an artificial Christmas tree with fold ing branches, for which we had sent to a catalog house. It stood in a small flowerpot. Its wire branches",1.0,False,,"개인 회고, 가정의 크리스마스 트리 추억 이야기",1953-12-15_sn86075096,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0614,1950s,1953-12-15,가정·사교·공동체,medium,Montana farmer-stockman.,"Great Falls, Mont.",16,https://www.loc.gov/resource/sn86075096/1953-12-15/ed-1/,4,Christmas,False,3,"gradually fading. On the
+whole, though it served its purpose, it was far less satis
+factory than the living, fragrant geranium.
+Real Trees
+Some years, though, we had a real Christmas tree.
+The smell of a fir tree still means Christmas to me. Each
+Christmas, in addition to the glass balls and the tinsel,
+there were six wax angels with spun","gradually fading. On the whole, though it served its purpose, it was far less satis factory than the living, fragrant geranium. Real Trees Some years, though, we had a real Christmas tree. The smell of a fir tree still means Christmas to me. Each Christmas, in addition to the glass balls and the tinsel, there were six wax angels with spun",0.983,False,,"개인적 회상, 가정의 크리스마스 트리와 장식 이야기",1953-12-15_sn86075096,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0615,1950s,1953-12-15,가정·사교·공동체,medium,Montana farmer-stockman.,"Great Falls, Mont.",16,https://www.loc.gov/resource/sn86075096/1953-12-15/ed-1/,5,Christmas,False,3,"lovely, fragrant, but oh, so
+dangerous wax candles. We never had any trouble with
+these candles, but every year we would read in the paper
+how some school or home Christmas tree caught fire.
+Christmas Program
+Unless school had closed in November, there usually
+was a Christmas program. Of course, those years we
+went to town school, there always -vas a","lovely, fragrant, but oh, so dangerous wax candles. We never had any trouble with these candles, but every year we would read in the paper how some school or home Christmas tree caught fire. Christmas Program Unless school had closed in November, there usually was a Christmas program. Of course, those years we went to town school, there always -vas a",1.0,False,,"학교 크리스마스 프로그램과 트리 촛불 회상, 세속적 공동체 풍경",1953-12-15_sn86075096,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0616,1950s,1953-12-15,가정·사교·공동체,medium,Montana farmer-stockman.,"Great Falls, Mont.",16,https://www.loc.gov/resource/sn86075096/1953-12-15/ed-1/,6,Christmas,False,2,"Oranges were sometimes given out, and some
+times Delicious apples and I still connect those large,
+glossy, red Delicious apples with Christmas. Small gifts
+were given out, also, at the Christmas tree. They were
+well-earned too, by the time we bashful country kids
+had gone through with the ""pieces,"" the songs, and the
+""dialogues.""
+a
+ii
+\i]
+S>\
+n
+
+
+
+it
+
+A","Oranges were sometimes given out, and some times Delicious apples and I still connect those large, glossy, red Delicious apples with Christmas. Small gifts were given out, also, at the Christmas tree. They were well-earned too, by the time we bashful country kids had gone through with the ""pieces,"" the songs, and the ""dialogues."" a ii i] S n it A",0.982,False,,"어린 시절 크리스마스 트리 행사 회고; 낭송·노래 등 학교/공동체 행사, 종교 주관 불명",1953-12-15_sn86075096,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0714,1950s,1958-12-26,상업·소비,medium,The Poplar standard,"Poplar, Mont.",6,https://www.loc.gov/resource/sn86075284/1958-12-26/ed-1/,24,Christmas,False,1,"Values to *6=
+Now only s 2=
+Fort Peck Me rcantile
+sincere and untouched, that it 1a
+sublime, Or, we should »watch
+their sees when we first light up
+the Christmas tree —the awe and
+wonder are more precious than
+the most expensive gift that mon
+ey can buy. And the joy and ex
+uberance children give as they
+sing their","Values to 6= Now only s 2= Fort Peck Me rcantile sincere and untouched, that it 1a sublime, Or, we should watch their sees when we first light up the Christmas tree — the awe and wonder are more precious than the most expensive gift that mon ey can buy. And the joy and ex uberance children give as they sing their",0.947,False,,아이들의 경이가 비싼 선물보다 소중하다는 성찰; 상점 광고 흔적 있어 medium,1958-12-26_sn86075284,상업화 비판·성찰형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0774,1960–63,1963-12-26,가정·사교·공동체,high,The Lexington advertiser.,"Lexington, Miss.",3,https://www.loc.gov/resource/sn84024271/1963-12-26/ed-1/,2,Christmas,False,1,"mem
+bers and their wives or hus
+bands. Dr. R R. Surrett, ra
+diologist of Jackson was an
+out of town guest.
+As guests arrived they ad
+mired a lighted Christmas
+tree in the living room. The
+dinner table was spread with
+a cover; of red linen and cen
+I' tered with a pedestal cande
+labra, silver pine, icicles and
+I","mem bers and their wives or hus bands. Dr. R R. Surrett, ra diologist of Jackson was an out of town guest. As guests arrived they ad mired a lighted Christmas tree in the living room. The dinner table was spread with a cover; of red linen and cen I' tered with a pedestal cande labra, silver pine, icicles and I",0.852,False,,"손님 만찬 모임, 크리스마스 트리와 식탁 장식 묘사",1963-12-26_sn84024271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0785,1960–63,1963-12-26,가정·사교·공동체,medium,The Lexington advertiser.,"Lexington, Miss.",3,https://www.loc.gov/resource/sn84024271/1963-12-26/ed-1/,13,Christmas,False,1,"ber 22, was cancelled due to
+weather conditions. No fu
+ture program is planned.
+Santa Claus was unable to
+come to the Fellowship Hall
+at 5 p. m. for tihe Christmas
+tree held for the children.
+Members of the Methodist
+Youth Fellowship delivered
+his gifts on Monday to chil
+dren in the nursery and up
+(through the junior depart
+ment.
+Holmes","ber 22, was cancelled due to weather conditions. No fu ture program is planned. Santa Claus was unable to come to the Fellowship Hall at 5 p. m. for tihe Christmas tree held for the children. Members of the Methodist Youth Fellowship delivered his gifts on Monday to chil dren in the nursery and up (through the junior depart ment. Holmes",0.877,False,,"교회 친교관 어린이 트리 행사, 산타 선물 전달; 예배 중심 아님",1963-12-26_sn84024271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+2,christmas tree,S0728,1960–63,1960-12-22,종교·기원,medium,The Hardin tribune-herald,"Hardin, Mont.",1,https://www.loc.gov/resource/sn86075229/1960-12-22/ed-1/,11,Christmas,False,4,"services Christmas eve
+or Christmas d'ay or both to place
+emphasis on the spiritual signifi
+cance of the holiday.
+At the Burgess Memorial in Crow
+Agency there will be a Christmas
+tree for the Crow people Saturday
+evening and a midnight commun
+ion service. Christmas party for the
+Crow people will be held at 7:30
+pm.
+At Hardin's First Methodist
+church,","services Christmas eve or Christmas d'ay or both to place emphasis on the spiritual signifi cance of the holiday. At the Burgess Memorial in Crow Agency there will be a Christmas tree for the Crow people Saturday evening and a midnight commun ion service. Christmas party for the Crow people will be held at 7:30 pm. At Hardin's First Methodist church,",0.948,False,,"교회 예배 안내, 영적 의미 강조, 자정 성찬식; 트리·파티도 언급",1960-12-22_sn86075229,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule

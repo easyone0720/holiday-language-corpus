@@ -1,0 +1,289 @@
+﻿ngram_rank,ngram,snippet_id,period,date,category,confidence,newspaper_title,place,page_no,url,hit_no,hit_text,is_split_hit,n_hits_in_window,snippet_raw,snippet_clean,dict_ratio,is_duplicate,dup_of,rationale,page_id,sub_type,status,model,prompt_version
+7,christmas party,S0113,1900s,1908-12-30,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",8,https://www.loc.gov/resource/sn82014248/1908-12-30/ed-1/,21,Christmas,False,3,"Monday after tile Christmas recess ol
+three days.
+TROY CENTER.
+Edward Myi 'ck and Mrs. Salome
+Ward passed t iM'nts with Mr. and
+Mrs. A. C. M; i Vi..
+The Christmas party of relatives at
+Otis Danfo-i.i’s numbered p>.
+Mr. and .Irs. T. P. Tyler, Mr. and
+Mi's. Enoch Barker and Miss Jennie
+Barker passed Christmas with Mr. and
+Mrs. N.","Monday after tile Christmas recess ol three days. TROY CENTER. Edward Myi 'ck and Mrs. Salome Ward passed t iM'nts with Mr. and Mrs. A. C. M; i Vi.. The Christmas party of relatives at Otis Danfo-i.i’s numbered p. Mr. and .Irs. T. P. Tyler, Mr. and Mi's. Enoch Barker and Miss Jennie Barker passed Christmas with Mr. and Mrs. N.",0.849,False,,"친척 크리스마스 모임, 지인 집에서 보낸 사교 소식",1908-12-30_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0458,1930s,1935-01-04,가정·사교·공동체,high,The Hardin tribune-herald,"Hardin, Mont.",6,https://www.loc.gov/resource/sn86075229/1935-01-04/ed-1/,21,Christmas,False,1,"McCormick, Mrs. Dan Eggart, Dan
+and Aileen Eggart and Glen Simp
+son were dinner guests, Monday
+evening, of Mr. and E. L.
+Wiley.
+The Wyola Woman’s club held
+their annual Christmas party, Fri
+day evening, at the Wyola case.
+There was a very small attend
+ance. Bridge, fan tan and travel
+were plaved. No prizes were
+given. Gifts were given each","McCormick, Mrs. Dan Eggart, Dan and Aileen Eggart and Glen Simp son were dinner guests, Monday evening, of Mr. and E. L. Wiley. The Wyola Woman’s club held their annual Christmas party, Fri day evening, at the Wyola case. There was a very small attend ance. Bridge, fan tan and travel were plaved. No prizes were given. Gifts were given each",0.897,False,,"여성클럽 크리스마스 파티, 카드게임과 선물 교환 등 사교 소식",1935-01-04_sn86075229,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0557,1940s,1949-12-22,가정·사교·공동체,high,The Hardin tribune-herald,"Hardin, Mont.",9,https://www.loc.gov/resource/sn86075229/1949-12-22/ed-1/,12,Christmas,False,2,"Mrs. McNally is the for
+mer Helen Greenwald.
+Mrs. L. I. Kingston spent the
+week end at her home here.
+The young people of the B.
+Y. F. enjoyed their Christmas
+party at the home of Mr. and
+Mrs. Francis Swaby Friday
+night.
+Two Leggin home demonstra
+tion club members held their
+annual Christmas party Tues
+day, with 16 members and","Mrs. McNally is the for mer Helen Greenwald. Mrs. L. I. Kingston spent the week end at her home here. The young people of the B. Y. F. enjoyed their Christmas party at the home of Mr. and Mrs. Francis Swaby Friday night. Two Leggin home demonstra tion club members held their annual Christmas party Tues day, with 16 members and",0.891,False,,지역 사교 소식: 청년모임과 클럽의 크리스마스 파티,1949-12-22_sn86075229,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0558,1940s,1949-12-22,가정·사교·공동체,high,The Hardin tribune-herald,"Hardin, Mont.",9,https://www.loc.gov/resource/sn86075229/1949-12-22/ed-1/,13,Christmas,False,2,"Mrs. Sam Kern called on
+Mrs. Earl Gray Tuesday even
+ing.
+The Two Leggin home demon
+stration club and the Pride of
+the Big Horn 4-H club held a
+family Christmas party at the
+grade school gym Saturday ev
+ening. Various games and con
+tests furnished the entertain
+ment for the evening. A Christ
+mas tree was decorated and
+gifts were",Mrs. Sam Kern called on Mrs. Earl Gray Tuesday even ing. The Two Leggin home demon stration club and the Pride of the Big Horn 4-H club held a family Christmas party at the grade school gym Saturday ev ening. Various games and con tests furnished the entertain ment for the evening. A Christ mas tree was decorated and gifts were,0.931,False,,"클럽 주최 가족 크리스마스 파티, 게임과 트리, 선물 교환",1949-12-22_sn86075229,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0565,1940s,1949-12-23,가정·사교·공동체,high,Hungry Horse news.,"Columbia Falls, Mont.",3,https://www.loc.gov/resource/sn84027524/1949-12-23/ed-1/,6,Christmas,False,1,"They are Mrs. Joe Crosswhite,
+president; Mrs. John Eckelberry,
+vice president; and Mrs. T. S. Car
+ter, secretary-treasurer.
+The club met at the home of
+Mrs. Edward Lewis for their
+Christmas party. There was a gift
+exchange for members and treats
+for the children.
+Next meeting is January 19 at
+the home of Mrs. James Eckel
+berry.
+WSCS at Christensens
+For","They are Mrs. Joe Crosswhite, president; Mrs. John Eckelberry, vice president; and Mrs. T. S. Car ter, secretary-treasurer. The club met at the home of Mrs. Edward Lewis for their Christmas party. There was a gift exchange for members and treats for the children. Next meeting is January 19 at the home of Mrs. James Eckel berry. WSCS at Christensens For",0.897,False,,"클럽 크리스마스 파티, 선물 교환 등 사교 모임 소식",1949-12-23_sn84027524,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0567,1940s,1949-12-23,가정·사교·공동체,medium,Hungry Horse news.,"Columbia Falls, Mont.",3,https://www.loc.gov/resource/sn84027524/1949-12-23/ed-1/,8,Christmas,False,3,"George Westerland.
+During the afternoon the 15
+members present did fancywork.
+The next meeting is planned for
+January 11 at the home of Mrs.
+Troy Thacker.
+Lutheran Ladies Aid
+Holds Christmas Party
+The Lutheran Ladiees aid held
+their Christmas party last Thurs
+day at the parsonage.
+A pot luck luncheon opened the
+meeting. There were 30 present.
+A program of Christmas",George Westerland. During the afternoon the 15 members present did fancywork. The next meeting is planned for January 11 at the home of Mrs. Troy Thacker. Lutheran Ladies Aid Holds Christmas Party The Lutheran Ladiees aid held their Christmas party last Thurs day at the parsonage. A pot luck luncheon opened the meeting. There were 30 present. A program of Christmas,0.946,False,,"루터교 여성회의 크리스마스 파티, 친교 점심과 프로그램 등 사교 모임 소식",1949-12-23_sn84027524,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0582,1950s,1953-01-01,가정·사교·공동체,high,The Herald-news,"Wolf Point, Mont.",4,https://www.loc.gov/resource/sn86075271/1953-01-01/ed-1/,7,Christmas,False,1,"In the evening Ira Jensen.
+Mr. and Mrs. E. Gobbs, Mr. and
+Mrs. R. Alisch and Mr and M’-s.
+Lowell Young were her guests.
+The Merry Homemakers club had
+their Christmas party at the Eman
+uel Larsen home Monday evening.
+Enoch Barr is in a Rochester,
+Minn., hospital where he had an
+operation on December 16. Juilius
+Grele is in Bismarck","In the evening Ira Jensen. Mr. and Mrs. E. Gobbs, Mr. and Mrs. R. Alisch and Mr and M’-s. Lowell Young were her guests. The Merry Homemakers club had their Christmas party at the Eman uel Larsen home Monday evening. Enoch Barr is in a Rochester, Minn., hospital where he had an operation on December 16. Juilius Grele is in Bismarck",0.893,False,,"지역 사교 소식, 홈메이커스 클럽 크리스마스 파티",1953-01-01_sn86075271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0635,1950s,1954-12-31,가정·사교·공동체,high,The Poplar standard,"Poplar, Mont.",4,https://www.loc.gov/resource/sn86075284/1954-12-31/ed-1/,12,Christ mas,True,2,"night. Guests were Mr. and
+Mrs. Herbert Houg and son Bruce.
+and Mr. and Mrs. Albert Stai and
+family.
+Tuesday night most of the Ben
+rud community went to a Christ
+mas party at the Pershing school,
+given by teacher Wally Engdahl. i
+Bruce Houg stayed with the Al
+bert Stai’s Tuesday evening.
+Dinner guests at the Wilbur
+Mann home Christmas","night. Guests were Mr. and Mrs. Herbert Houg and son Bruce. and Mr. and Mrs. Albert Stai and family. Tuesday night most of the Ben rud community went to a Christ mas party at the Pershing school, given by teacher Wally Engdahl. i Bruce Houg stayed with the Al bert Stai’s Tuesday evening. Dinner guests at the Wilbur Mann home Christmas",0.898,False,,"지역 사교 소식: 가족 손님, 학교 크리스마스 파티, 저녁 식사 손님",1954-12-31_sn86075284,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0651,1950s,1954-12-31,가정·사교·공동체,high,The Poplar standard,"Poplar, Mont.",4,https://www.loc.gov/resource/sn86075284/1954-12-31/ed-1/,28,Christmas,False,3,"to spend their vaca
+tion with relatives. Miss Norma
+Brokopp also left Thursday after
+noon by plane for Wisconsin.
+The students and faculty of the
+Lustre Bible Academy had a
+Christmas party Thursday after
+noon.
+Mr. and Mrs. P. P. Fast were
+Christmas dinner guests at the
+Marvin Fast home.
+Mr. and Mrs. Les Brown and
+family were Christmas dinner
+gue^s",to spend their vaca tion with relatives. Miss Norma Brokopp also left Thursday after noon by plane for Wisconsin. The students and faculty of the Lustre Bible Academy had a Christmas party Thursday after noon. Mr. and Mrs. P. P. Fast were Christmas dinner guests at the Marvin Fast home. Mr. and Mrs. Les Brown and family were Christmas dinner gues,0.931,False,,크리스마스 파티와 가족 만찬 손님 등 개인 사교 소식,1954-12-31_sn86075284,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0673,1950s,1955-12-23,가정·사교·공동체,medium,Hungry Horse news.,"Columbia Falls, Mont.",3,https://www.loc.gov/resource/sn84027524/1955-12-23/ed-1/,5,Christ mas,True,1,"r ""-l
+9
+9
+9
+9
+
+4450
+'N
+9
+M UkP 9
+ki
+B and B FOOD MART NO. 2
+Columbia Falls
+Falls Club Calendar
+Three C's will have their Christ
+mas party, Monday, 7:30 p. m., at
+the city hall. It had originally been
+scheduled for Jan. 19.
+Senior League of Our Savior's
+Lutheran church meets next Mon
+day.
+Rocky","r ""-l 9 9 9 9 4450 'N 9 M UkP 9 ki B and B FOOD MART NO. 2 Columbia Falls Falls Club Calendar Three C's will have their Christ mas party, Monday, 7:30 p. m., at the city hall. It had originally been scheduled for Jan. 19. Senior League of Our Savior's Lutheran church meets next Mon day. Rocky",0.976,False,,"클럽 달력의 크리스마스 파티 안내, 시청에서 열리는 사교 모임",1955-12-23_sn84027524,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0676,1950s,1955-12-23,가정·사교·공동체,high,Hungry Horse news.,"Columbia Falls, Mont.",3,https://www.loc.gov/resource/sn84027524/1955-12-23/ed-1/,8,Christmas,False,2,"Mrs.
+Klaas DeWit.
+Slated for January is an all-day
+Flathead County Council meeting in
+Columbia Falls. Mrs. DeWit is presi
+dent. Local club members will be
+hostesses.
+Games for Monday's Christmas
+party were arranged by Mrs. R. V.
+Thomas, Mrs. Frank Connors, and
+Mrs. James Hooper. Prizes were re
+ceived by Mrs. Ruder, Mrs. DeWit,
+and Mrs. Hooper.
+Christmas gift exchange","Mrs. Klaas DeWit. Slated for January is an all-day Flathead County Council meeting in Columbia Falls. Mrs. DeWit is presi dent. Local club members will be hostesses. Games for Monday's Christmas party were arranged by Mrs. R. V. Thomas, Mrs. Frank Connors, and Mrs. James Hooper. Prizes were re ceived by Mrs. Ruder, Mrs. DeWit, and Mrs. Hooper. Christmas gift exchange",0.9,False,,"클럽 크리스마스 파티, 게임, 상품, 선물 교환 등 사교 모임 소식",1955-12-23_sn84027524,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0677,1950s,1955-12-23,가정·사교·공동체,high,Hungry Horse news.,"Columbia Falls, Mont.",3,https://www.loc.gov/resource/sn84027524/1955-12-23/ed-1/,9,Christmas,False,1,"She succeeds Mrs. Eva
+Jordan.
+Named as vice grand was Mrs.
+Mathilda Lund, who replaces Mrs.
+Hamilton. Reelected were Mrs. Leo
+nard Geer, secretary; and Mrs. J.
+W. Chapman, treasurer.
+Christmas party with gift exchange
+was held after the meeting. No-hos
+tess refreshments were served. New
+members by transfer are Mrs. Ag
+nes Nelson and Mrs. Lund.
+Installation of officers is","She succeeds Mrs. Eva Jordan. Named as vice grand was Mrs. Mathilda Lund, who replaces Mrs. Hamilton. Reelected were Mrs. Leo nard Geer, secretary; and Mrs. J. W. Chapman, treasurer. Christmas party with gift exchange was held after the meeting. No-hos tess refreshments were served. New members by transfer are Mrs. Ag nes Nelson and Mrs. Lund. Installation of officers is",0.933,False,,모임 후 선물 교환 크리스마스 파티를 한 클럽 소식,1955-12-23_sn84027524,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0691,1950s,1958-12-26,가정·사교·공동체,high,The Poplar standard,"Poplar, Mont.",6,https://www.loc.gov/resource/sn86075284/1958-12-26/ed-1/,1,CHRISTMAS,False,2,"Page Six
+Poplar and Vicinity Local and Social News
+t»M HOLOS ANNUAL
+CHRISTMAS PARTY FRIDAY
+The annual OES Christmas par
+ty was held Friday evening in the
+Masonic Temple. After the close
+of. chapter, Mrs .Milton Norgaard
+presented the following program:
+Reading “Something","Page Six Poplar and Vicinity Local and Social News tM HOLOS ANNUAL CHRISTMAS PARTY FRIDAY The annual OES Christmas par ty was held Friday evening in the Masonic Temple. After the close of. chapter, Mrs .Milton Norgaard presented the following program: Reading “Something",0.93,False,,"OES 지부의 연례 크리스마스 파티와 프로그램, 사교 소식",1958-12-26_sn86075284,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0704,1950s,1958-12-26,가정·사교·공동체,medium,The Poplar standard,"Poplar, Mont.",6,https://www.loc.gov/resource/sn86075284/1958-12-26/ed-1/,14,Christ mas,True,1,"are spending the holidays
+here with relatives.
+Linda Lindquist, a St. Luke’s hos
+pital nurse. Kansas City. Mo., is
+home for the holidays.
+Mrs. Lenore Lodmell, Brockton,
+attended Aurora Chapter's Christ
+mas party, Friday evening.
+ASC Announces
+Election of New
+Committeemen
+ASC election results announced
+names of persons elected to serve
+on Agricultural Stabilization and
+Conservation community commit
+tees next year","are spending the holidays here with relatives. Linda Lindquist, a St. Luke’s hos pital nurse. Kansas City. Mo., is home for the holidays. Mrs. Lenore Lodmell, Brockton, attended Aurora Chapter's Christ mas party, Friday evening. ASC Announces Election of New Committeemen ASC election results announced names of persons elected to serve on Agricultural Stabilization and Conservation community commit tees next year",0.917,False,,"휴가 친척 방문, 지부 크리스마스 파티 등 개인 사교 소식",1958-12-26_sn86075284,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0737,1960–63,1960-12-22,가정·사교·공동체,high,The Hardin tribune-herald,"Hardin, Mont.",1,https://www.loc.gov/resource/sn86075229/1960-12-22/ed-1/,20,Christmas,False,1,"am. in Cus
+ter, at 9.30 a.m. in St. Xavier and
+at 11 am. in Hardin.
+SANTA VISITS AT
+LIONS' PARTY
+Santa Claus dropped in at the
+annual Lions club Christmas party
+with gifts for all children Monday
+night. Dec. 19. at the Masonic tern
+pie.
+Parents and children got toge
+ther for an evening of games.
+Members of the committee","am. in Cus ter, at 9.30 a.m. in St. Xavier and at 11 am. in Hardin. SANTA VISITS AT LIONS' PARTY Santa Claus dropped in at the annual Lions club Christmas party with gifts for all children Monday night. Dec. 19. at the Masonic tern pie. Parents and children got toge ther for an evening of games. Members of the committee",0.93,False,,"라이온스 클럽 크리스마스 파티, 산타 방문과 아이들 게임",1960-12-22_sn86075229,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0771,1960–63,1962-12-19,가정·사교·공동체,medium,The Sidney herald.,"Sidney, Mont.",4,https://www.loc.gov/resource/sn83004278/1962-12-19/ed-1/,14,Christmas,False,3,"Golden band will sponsor
+a Christmas fellowship for all on
+Thursday afternoon and Thursday
+to
+at
+December 24. The
+will conclude with the
+evening the Luther League will
+have a Christmas party. It is hoped
+""hat all college students will come
+to this fellowship. Friday evening
+a Christmas fellowship will be
+enjoyed by the young people of
+i)he confirmation classes.
+Hospital","Golden band will sponsor a Christmas fellowship for all on Thursday afternoon and Thursday to at December 24. The will conclude with the evening the Luther League will have a Christmas party. It is hoped ""hat all college students will come to this fellowship. Friday evening a Christmas fellowship will be enjoyed by the young people of i)he confirmation classes. Hospital",1.0,False,,"청년·대학생 크리스마스 친교 모임과 파티 안내, 예배 중심 아님",1962-12-19_sn83004278,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0776,1960–63,1963-12-26,가정·사교·공동체,high,The Lexington advertiser.,"Lexington, Miss.",3,https://www.loc.gov/resource/sn84024271/1963-12-26/ed-1/,4,Christmas,False,3,"I joyeef a Christmas fellowship
+I ldst week a Lusco!$' in Green
+9 wood.
+1
+Employees Honored
+With Christmas Party
+Employees of Lexington
+Industries were honored with
+a luncheon and Christmas
+party at the Rotary room on
+Friday.
+ivir. (Jhn Dunn, Kickernic.*
+uiuuaga', w as in charge, wacu
+iiU oUcsis enjoyed tiie les
+nv t occasion, out ceriu.cates
+were presented to","I joyeef a Christmas fellowship I ldst week a Lusco!$' in Green 9 wood. 1 Employees Honored With Christmas Party Employees of Lexington Industries were honored with a luncheon and Christmas party at the Rotary room on Friday. ivir. (Jhn Dunn, Kickernic. uiuuaga', w as in charge, wacu iiU oUcsis enjoyed tiie les nv t occasion, out ceriu.cates were presented to",0.736,False,,직장 직원 크리스마스 오찬·파티 행사 소식,1963-12-26_sn84024271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0777,1960–63,1963-12-26,가정·사교·공동체,high,The Lexington advertiser.,"Lexington, Miss.",3,https://www.loc.gov/resource/sn84024271/1963-12-26/ed-1/,5,Christmas,False,1,"Monday, Decem
+ber 30th.
+Thurmond s Host
+To Yule Party
+All employees of Thur
+mond’s Hardware of Lexing
+ton and Durant and their
+wives attended a turkey din
+ner and Christmas party at
+Hotel Durant on Wednesday
+night, December 18. Every
+one present received a lovely
+useful gift. Mr. Thurmond re
+ceived a suit of clothes and
+waves of employees each","Monday, Decem ber 30th. Thurmond s Host To Yule Party All employees of Thur mond’s Hardware of Lexing ton and Durant and their wives attended a turkey din ner and Christmas party at Hotel Durant on Wednesday night, December 18. Every one present received a lovely useful gift. Mr. Thurmond re ceived a suit of clothes and waves of employees each",0.893,False,,"직원과 배우자 대상 칠면조 만찬·크리스마스 파티, 선물 교환 소식",1963-12-26_sn84024271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0780,1960–63,1963-12-26,가정·사교·공동체,high,The Lexington advertiser.,"Lexington, Miss.",3,https://www.loc.gov/resource/sn84024271/1963-12-26/ed-1/,8,Christmas,False,2,"Roberts, Sharon Rickman, Jeanette Roberts, Robin
+McLellan, Diana Vining, Billy Carol Zemp, Lucy Mayo and Glenda
+Davis.
+Weathersbys Hold
+Christmas Party
+Mr. ana Mrs. Norman
+Weathersby were hosts at a
+Christmas party held in the
+showroom of the Chevrolet
+Company at 6:30 p. m. on
+Friday, December 13. Wives,
+husbands and children of em
+ployees attended.
+Santa arrived win'll gifts
+for","Roberts, Sharon Rickman, Jeanette Roberts, Robin McLellan, Diana Vining, Billy Carol Zemp, Lucy Mayo and Glenda Davis. Weathersbys Hold Christmas Party Mr. ana Mrs. Norman Weathersby were hosts at a Christmas party held in the showroom of the Chevrolet Company at 6:30 p. m. on Friday, December 13. Wives, husbands and children of em ployees attended. Santa arrived win'll gifts for",0.86,False,,"직원 가족이 참석한 크리스마스 파티, 산타 방문 등 사교 소식",1963-12-26_sn84024271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0783,1960–63,1963-12-26,가정·사교·공동체,high,The Lexington advertiser.,"Lexington, Miss.",3,https://www.loc.gov/resource/sn84024271/1963-12-26/ed-1/,11,Christmas,False,1,"Mr Wea
+thersty was stationed writh
+tbe National Guard in Ber
+muda for several days.
+Brozville HD Club
+Holds Yule Party
+Mrs. W L. Devine was hos
+tess to a Christmas party for
+the Brozville Home Demon
+stration Ciub at her home at
+2 p. m. on Tuesday. The club
+enjoys a large membership
+but only eight members were
+able to",Mr Wea thersty was stationed writh tbe National Guard in Ber muda for several days. Brozville HD Club Holds Yule Party Mrs. W L. Devine was hos tess to a Christmas party for the Brozville Home Demon stration Ciub at her home at 2 p. m. on Tuesday. The club enjoys a large membership but only eight members were able to,0.778,False,,"홈 데먼스트레이션 클럽의 크리스마스 파티, 사교 소식",1963-12-26_sn84024271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+7,christmas party,S0731,1960–63,1960-12-22,종교·기원,medium,The Hardin tribune-herald,"Hardin, Mont.",1,https://www.loc.gov/resource/sn86075229/1960-12-22/ed-1/,14,Christmas,False,2,"Heart devotions followed by
+confessions at 7:30 pm. on Wednes
+day. On Friday, Dec. 23. confess
+ion for children of the parish will
+begin at 2:15 pm. followed by a
+Christmas party for all the child
+ren from the first through the
+eighth grade at 3.30 p.m. Satur
+day, followed by High Mass at mid
+night. Christmas carols, led by Joe","Heart devotions followed by confessions at 7:30 pm. on Wednes day. On Friday, Dec. 23. confess ion for children of the parish will begin at 2:15 pm. followed by a Christmas party for all the child ren from the first through the eighth grade at 3.30 p.m. Satur day, followed by High Mass at mid night. Christmas carols, led by Joe",0.945,False,,"본당의 고해·자정 미사 일정 공지, 어린이 파티가 섞임",1960-12-22_sn86075229,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule

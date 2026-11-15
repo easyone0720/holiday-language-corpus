@@ -1,0 +1,767 @@
+﻿ngram_rank,ngram,snippet_id,period,date,category,confidence,newspaper_title,place,page_no,url,hit_no,hit_text,is_split_hit,n_hits_in_window,snippet_raw,snippet_clean,dict_ratio,is_duplicate,dup_of,rationale,page_id,sub_type,status,model,prompt_version
+1,christmas day,S0006,1900s,1900-12-20,가정·사교·공동체,high,The Kalispell bee.,"Kalispell, Mont.",14,https://www.loc.gov/resource/sn85053327/1900-12-20/ed-1/,6,Christmas,False,3,"Clara Gould
+Piano Solo........Crystal Fisher
+Dialogue—Fitz James and Rod
+erick, Glenn Jaqueth, Frank Moxley
+Piano Solo— Sonatine
+Kate Montelius
+Third Grade.
+Miss Pomeroy, Teacher.
+Song—Welcome to Winter
+School
+Christmas Day Edna Streeter
+A Note to Santa Claus Clara Slack
+Holiday Gifts......Florence Duffy
+Christmas Time Lester Streeter
+Song—Christmas Carol.....
+School
+Winter's Gifts Isabella Toskelson
+Letter to Santa Claus Myrtle","Clara Gould Piano Solo........Crystal Fisher Dialogue — Fitz James and Rod erick, Glenn Jaqueth, Frank Moxley Piano Solo — Sonatine Kate Montelius Third Grade. Miss Pomeroy, Teacher. Song — Welcome to Winter School Christmas Day Edna Streeter A Note to Santa Claus Clara Slack Holiday Gifts......Florence Duffy Christmas Time Lester Streeter Song — Christmas Carol..... School Winter's Gifts Isabella Toskelson Letter to Santa Claus Myrtle",0.855,False,,"학교 크리스마스 프로그램(피아노 독주, 산타에게 편지, 캐럴), 교회 주관 아님",1900-12-20_sn85053327,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0009,1900s,1900-12-20,가정·사교·공동체,medium,The Kalispell bee.,"Kalispell, Mont.",14,https://www.loc.gov/resource/sn85053327/1900-12-20/ed-1/,9,Christmas,False,4,"Song—North Pole........School
+Eliza's Broom......Johnnie Briant
+Christmas Carol .Isabella Larcher
+Class Exercise—Christmas Carol.
+Mrs. Auntie Claus Theresa Bjorneby
+Song—Merrily..........School
+First Primary—East Side.
+Mrs. Thwaites, Teacher.
+Opening Chorus..........School
+Christmas Day Has Come at
+Lust........Louisa Mahundrue
+Jack Horner Four Little Boys
+Clap, Clap the Hands for Joy..
+School
+A Song ot' Christmas......
+Beulah Disbrow
+Song—Oh, Little Town of Beth","Song — North Pole........School Eliza's Broom......Johnnie Briant Christmas Carol .Isabella Larcher Class Exercise — Christmas Carol. Mrs. Auntie Claus Theresa Bjorneby Song — Merrily..........School First Primary — East Side. Mrs. Thwaites, Teacher. Opening Chorus..........School Christmas Day Has Come at Lust........Louisa Mahundrue Jack Horner Four Little Boys Clap, Clap the Hands for Joy.. School A Song ot' Christmas...... Beulah Disbrow Song — Oh, Little Town of Beth",0.877,False,,학교 크리스마스 프로그램 순서; 교회 주관 표시 없고 세속 노래·낭송 위주,1900-12-20_sn85053327,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0016,1900s,1900-12-20,가정·사교·공동체,high,The Kalispell bee.,"Kalispell, Mont.",14,https://www.loc.gov/resource/sn85053327/1900-12-20/ed-1/,16,Christmas,False,3,"and
+they will be able to leave tonight.
+They will go by way of Spokane
+where they will commence their jour
+ney, to San Diago, Cal., by water,
+leaving Spokane Christmas day.
+Mr. and Mrs. Fred Whiteside will
+entertain a number of their friends,
+and their families Christmas Eve. The
+little ones living near their home will
+be given a Christmas","and they will be able to leave tonight. They will go by way of Spokane where they will commence their jour ney, to San Diago, Cal., by water, leaving Spokane Christmas day. Mr. and Mrs. Fred Whiteside will entertain a number of their friends, and their families Christmas Eve. The little ones living near their home will be given a Christmas",0.932,False,,"크리스마스 이브 친구 초대, 여행 등 개인 사교 소식",1900-12-20_sn85053327,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0067,1900s,1908-01-01,가정·사교·공동체,medium,Daily Kennebec journal,"Augusta, Me.",5,https://www.loc.gov/resource/sn82014248/1908-01-01/ed-1/,16,Christmas,False,1,"been considerable sick
+ness in the place. Miss Kindrick was
+quite sick and was obliged to be out
+of school a few days. Miss Bertha
+Bowers was sick in bed Christmas day
+and went home Thursday. Severe colds
+are prevailing.
+Joseph Hatch bf Richmond, a former
+resident of this place, was in town
+Saturday.
+Miss Lettie .Alexander has been at
+home","been considerable sick ness in the place. Miss Kindrick was quite sick and was obliged to be out of school a few days. Miss Bertha Bowers was sick in bed Christmas day and went home Thursday. Severe colds are prevailing. Joseph Hatch bf Richmond, a former resident of this place, was in town Saturday. Miss Lettie .Alexander has been at home",0.949,False,,지역 인사 소식 중 크리스마스 날 아팠다는 개인 사교 단신,1908-01-01_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0108,1900s,1908-12-30,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",8,https://www.loc.gov/resource/sn82014248/1908-12-30/ed-1/,16,Christmas,False,1,"Whittier; Mr. and Mrs.
+C. F. Maines and Miss Gladys Maines
+were the guests of Mr. and Mrs. J. C.
+Millett and Mr. and Mrs. E. H. Park
+man on Christmas day.
+Mrs. Homer Adamse is quite sick
+with erysipelas and nervous prostra
+tion.
+Mr. and Mrs. Littlefield from Exeter
+visited Noah Parkman at J. B. Lan
+pher’s on Sunday.
+Mr.",Whittier; Mr. and Mrs. C. F. Maines and Miss Gladys Maines were the guests of Mr. and Mrs. J. C. Millett and Mr. and Mrs. E. H. Park man on Christmas day. Mrs. Homer Adamse is quite sick with erysipelas and nervous prostra tion. Mr. and Mrs. Littlefield from Exeter visited Noah Parkman at J. B. Lan pher’s on Sunday. Mr.,0.83,False,,크리스마스 날 손님 방문 등 지역 사교 소식,1908-12-30_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0109,1900s,1908-12-30,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",8,https://www.loc.gov/resource/sn82014248/1908-12-30/ed-1/,17,Christmas,False,1,"father, who have
+been visiting with Mr. and Mrs. D. N.
+Stackpolp returned to their home in
+Bridgewater on Saturday afternoon.
+Mr. and Mrs. A. J. Leavitt enter
+tained on Christmas day Mr. and Mrs.
+C. A. Leavitt; Mr. and Mrs. E. C.
+Leavitt; Mr. and Mrs. W. E. Leavitt
+and daughter Florence; Mr. and Mrs.
+P. R. Leavitt and daughter","father, who have been visiting with Mr. and Mrs. D. N. Stackpolp returned to their home in Bridgewater on Saturday afternoon. Mr. and Mrs. A. J. Leavitt enter tained on Christmas day Mr. and Mrs. C. A. Leavitt; Mr. and Mrs. E. C. Leavitt; Mr. and Mrs. W. E. Leavitt and daughter Florence; Mr. and Mrs. P. R. Leavitt and daughter",0.837,False,,크리스마스 날 가족 초대·방문을 전하는 개인 사교 소식,1908-12-30_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0110,1900s,1908-12-30,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",8,https://www.loc.gov/resource/sn82014248/1908-12-30/ed-1/,18,Christmas,False,1,"Mr. 1
+ind. Mrs. L. H. Tibbetts have moved 1
+nto their house. 1
+Mr. and Mrs. Daniel Wakefield en
+:ertained their children and families
+:o the number of 25 Christmas day.
+Mrs. Martha Prescott is improving. 1
+Mrs. Rose Richardson was recently r
+n Harmony, y
+WALDO'.
+BURNHAM.
+Mrs. Leroy Libby and son Harold aro
+visiting in town and are","Mr. 1 ind. Mrs. L. H. Tibbetts have moved 1 nto their house. 1 Mr. and Mrs. Daniel Wakefield en :ertained their children and families :o the number of 25 Christmas day. Mrs. Martha Prescott is improving. 1 Mrs. Rose Richardson was recently r n Harmony, y WALDO'. BURNHAM. Mrs. Leroy Libby and son Harold aro visiting in town and are",0.9,False,,Christmas day 가족 모임을 알리는 지역 사교 소식,1908-12-30_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0115,1900s,1908-12-30,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",8,https://www.loc.gov/resource/sn82014248/1908-12-30/ed-1/,23,Christmas,False,1,"Eugene Rowe,
+Bnmia Nelson and Hariy Black passed
+Friday at their homes.
+Air. and Mrs. Samuel Marden ah.l Mrs
+Rlthea Perkins were at Mr. and Mrs.
+rohn Ayer’s in Liberty Christmas day.
+Misses Bertha Small and Sallie Simpson
+>f Augusta passed a few days at 'Mrs.
+5arah Young’s.
+Blanche Nelson has been quite sick.
+Win. Jackson went to Iiallowell last
+veek,","Eugene Rowe, Bnmia Nelson and Hariy Black passed Friday at their homes. Air. and Mrs. Samuel Marden ah.l Mrs Rlthea Perkins were at Mr. and Mrs. rohn Ayer’s in Liberty Christmas day. Misses Bertha Small and Sallie Simpson f Augusta passed a few days at 'Mrs. 5arah Young’s. Blanche Nelson has been quite sick. Win. Jackson went to Iiallowell last veek,",0.864,False,,크리스마스 날 친지 방문을 전하는 개인 사교 소식,1908-12-30_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0141,1910s,1911-12-26,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",9,https://www.loc.gov/resource/sn82014248/1911-12-26/ed-1/,4,Christmas,False,2,"newcomer arrived, Sunday, and both
+mpther and child are doing nicely.
+Chief Justice William P. Whitehouse
+and Mrs. Whitehouse went, Sunday
+afternoon, to Portland, where they
+were the guests, on Christmas day, of
+11 heir son, Itobert Treat Whitehouse.
+Hon. and Mrs. Don A. H. Powers of
+Houlton are Christmas visitors at the
+home of F. G. Kinsman, while Mr. and","newcomer arrived, Sunday, and both mpther and child are doing nicely. Chief Justice William P. Whitehouse and Mrs. Whitehouse went, Sunday afternoon, to Portland, where they were the guests, on Christmas day, of 11 heir son, Itobert Treat Whitehouse. Hon. and Mrs. Don A. H. Powers of Houlton are Christmas visitors at the home of F. G. Kinsman, while Mr. and",0.891,False,,크리스마스 방문객과 가족 방문을 다룬 개인 사교 소식,1911-12-26_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0164,1910s,1911-12-26,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",9,https://www.loc.gov/resource/sn82014248/1911-12-26/ed-1/,27,Christ mas,True,1,"at Mrs. Brickett's residence.
+Gifts to Worthy Children.
+Mrs. J. F. Dearborn of Dickman
+street distribute a large number of
+presents to worthy children of this
+city, Saturday afternoon and Christ
+mas day, from her residence. Mrs.
+Dearborn states that about 225 chil
+dren were supplied with presents of
+different kinds. The funds received
+for this work amounted to $40, and","at Mrs. Brickett's residence. Gifts to Worthy Children. Mrs. J. F. Dearborn of Dickman street distribute a large number of presents to worthy children of this city, Saturday afternoon and Christ mas day, from her residence. Mrs. Dearborn states that about 225 chil dren were supplied with presents of different kinds. The funds received for this work amounted to $40, and",0.929,False,,기금으로 가난한 아이들 225명에게 선물 나눔,1911-12-26_sn82014248,자선·나눔형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0166,1910s,1911-12-26,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",9,https://www.loc.gov/resource/sn82014248/1911-12-26/ed-1/,29,Christmas,False,2,"of the Augusta
+House gave a dancing party in the
+bum.uet hall, Monday evening, to the
+employes of the House, which was
+thoroughly enjoyed by all attending.
+81 Years Old, Christmas Day.
+Mrs. A. D. Hewitt of 3 Gannett
+street celebrated her Slst birthday
+very pleasantly, Christmas day. by
+entertaining callers and receiving
+presents, letters and a shower of more
+than","of the Augusta House gave a dancing party in the bum.uet hall, Monday evening, to the employes of the House, which was thoroughly enjoyed by all attending. 81 Years Old, Christmas Day. Mrs. A. D. Hewitt of 3 Gannett street celebrated her Slst birthday very pleasantly, Christmas day. by entertaining callers and receiving presents, letters and a shower of more than",0.946,False,,"크리스마스 날 81세 생일 축하와 방문객, 댄스파티 등 사교 소식",1911-12-26_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0174,1910s,1913-12-31,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",7,https://www.loc.gov/resource/sn82014248/1913-12-31/ed-1/,7,Christmas,False,2,"South China
+was a recent guest of Mrs. David
+Cates.
+Arthur Richardson passed Saturday
+night with Ernest Priest.
+Mrs. Anna Cates, was the guest of
+Mr. and Mrs. John Morfett Christmas
+day.
+Mrs. Dolloft of Oakland passed
+Christmas eve with her parents, Mr.
+nd qoldgp4t». Je%vlpg In the
+morning accompanied by Miss Ada
+Goldsmith.
+The many friends of Mrs. Mary A.","South China was a recent guest of Mrs. David Cates. Arthur Richardson passed Saturday night with Ernest Priest. Mrs. Anna Cates, was the guest of Mr. and Mrs. John Morfett Christmas day. Mrs. Dolloft of Oakland passed Christmas eve with her parents, Mr. nd qoldgp4t. Je%vlpg In the morning accompanied by Miss Ada Goldsmith. The many friends of Mrs. Mary A.",0.883,False,,크리스마스 방문·손님 등 개인 사교 소식,1913-12-31_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0183,1910s,1913-12-31,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",7,https://www.loc.gov/resource/sn82014248/1913-12-31/ed-1/,16,Christmas,False,2,"Thursday evening, January 1.
+Music by Teague's orchestra. An
+ayster supper will be served.
+Mrs. Annie Hall and Mrs. Esther
+Dunn visited their brother, E. A. Cot
+tle and family, Christmas day.
+Nathaniel Robinson is home from
+Colby for the Christmas recess and
+Clifton Allen from IT. of M.
+Ada Russ was home from Bath for
+a few days last week.","Thursday evening, January 1. Music by Teague's orchestra. An ayster supper will be served. Mrs. Annie Hall and Mrs. Esther Dunn visited their brother, E. A. Cot tle and family, Christmas day. Nathaniel Robinson is home from Colby for the Christmas recess and Clifton Allen from IT. of M. Ada Russ was home from Bath for a few days last week.",0.946,False,,크리스마스 날 친척 방문 등 개인 사교 소식,1913-12-31_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0210,1910s,1913-12-31,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",7,https://www.loc.gov/resource/sn82014248/1913-12-31/ed-1/,43,Christmas,False,1,"the din
+ing room, where a delicious oyster
+stew awaited them; also cake, coffee,
+doughnuts, stuffed dates and salted
+peanuts.
+Mr. and Mrs. C. C. Ballard of Au
+gusta passed Christmas day at West
+Sidney with Mr. Ballard's parents,
+Mr. and Mrs. Ephraim Ballard; also
+their son Ralph Ballard of Bangor was
+at home and will remain until after
+New Year’s.","the din ing room, where a delicious oyster stew awaited them; also cake, coffee, doughnuts, stuffed dates and salted peanuts. Mr. and Mrs. C. C. Ballard of Au gusta passed Christmas day at West Sidney with Mr. Ballard's parents, Mr. and Mrs. Ephraim Ballard; also their son Ralph Ballard of Bangor was at home and will remain until after New Year’s.",0.983,False,,"가족 방문과 식사 등 개인 사교 소식(""passed Christmas day"")",1913-12-31_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0212,1910s,1913-12-31,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",7,https://www.loc.gov/resource/sn82014248/1913-12-31/ed-1/,45,Christmas,False,3,"and little daughter Dorothy
+passed Christmas day at the Mills'
+homestead.
+Mr. and Mrs. Charles I* Swift with
+their daughter, Mr. and Mrs. Sanford
+A. Phllbrook of New Hampshire, pass
+Christmas day with Mrs. Swift’s broth
+er, Frank L. Bickford of Oakland.
+E. L. Swift and family passed Christ
+mas day at Charles Waites, Center
+Sidney.
+Miss Josephine Wyman, a teacher","and little daughter Dorothy passed Christmas day at the Mills' homestead. Mr. and Mrs. Charles I Swift with their daughter, Mr. and Mrs. Sanford A. Phllbrook of New Hampshire, pass Christmas day with Mrs. Swift’s broth er, Frank L. Bickford of Oakland. E. L. Swift and family passed Christ mas day at Charles Waites, Center Sidney. Miss Josephine Wyman, a teacher",0.927,False,,크리스마스 당일 친척 방문을 알리는 개인 사교 소식,1913-12-31_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0213,1910s,1913-12-31,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",7,https://www.loc.gov/resource/sn82014248/1913-12-31/ed-1/,46,Christmas,False,2,"of Worcester, Mass,
+has been visiting his brother, Austlr
+Hunt.
+Austin Hunt with his father, W. F
+Hunt of North Sgarsmont and his
+brother. Burton Hunt of. Worcester
+Mass., passed Christmas day with Mrs
+Charles Cushman of Gardiner.
+CENTER—One* of the most enjoy
+able events of the season was held
+■Christmas day, when the Sidney
+Whist Club with their families","of Worcester, Mass, has been visiting his brother, Austlr Hunt. Austin Hunt with his father, W. F Hunt of North Sgarsmont and his brother. Burton Hunt of. Worcester Mass., passed Christmas day with Mrs Charles Cushman of Gardiner. CENTER — One of the most enjoy able events of the season was held Christmas day, when the Sidney Whist Club with their families",0.949,False,,크리스마스 당일 가족 방문과 휘스트 클럽 모임 등 개인 사교 소식,1913-12-31_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0245,1910s,1915-12-29,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",2,https://www.loc.gov/resource/sn82014248/1915-12-29/ed-1/,14,Christmas,False,3,"home in Augusta for the win
+ter.
+Henry Richardson and family of Skow
+hegan were guests Christmas day at 1
+Irving Davis’.
+Mr. and Mrs. Almon Smith were dinner
+guests Christmas day of Mr. and Mrs.
+Henry Manson.
+Miss Minnie Williams spent the week
+end at home and returned Monday to her
+work in Augusta.
+A Christmas tree was held at",home in Augusta for the win ter. Henry Richardson and family of Skow hegan were guests Christmas day at 1 Irving Davis’. Mr. and Mrs. Almon Smith were dinner guests Christmas day of Mr. and Mrs. Henry Manson. Miss Minnie Williams spent the week end at home and returned Monday to her work in Augusta. A Christmas tree was held at,0.932,False,,크리스마스 당일 손님·저녁 식사 등 개인 사교 소식,1915-12-29_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0258,1910s,1915-12-29,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",2,https://www.loc.gov/resource/sn82014248/1915-12-29/ed-1/,27,Christmas,False,2,"Brown, the sister, and Mrs. Jones, the
+daughter of Mrs. Carle, Mrs. Phinnev.
+Winthrop, anil Miss Izetta Hoynl of
+Manchester were also guests.
+Mrs. Melvin l.i'obv entertained rela
+tives on Christmas day.
+Mr. and Mrs. X. T. Gordon and son
+Nelson, Jr., were Christmas guests of
+Mrs. Gordon’s parents. Mr. and Mrs.
+George Pike. Winthrop.
+Mrs. John Purcelle and Tt. A.","Brown, the sister, and Mrs. Jones, the daughter of Mrs. Carle, Mrs. Phinnev. Winthrop, anil Miss Izetta Hoynl of Manchester were also guests. Mrs. Melvin l.i'obv entertained rela tives on Christmas day. Mr. and Mrs. X. T. Gordon and son Nelson, Jr., were Christmas guests of Mrs. Gordon’s parents. Mr. and Mrs. George Pike. Winthrop. Mrs. John Purcelle and Tt. A.",0.845,False,,크리스마스 날 손님·친척 방문 등 개인 사교 소식,1915-12-29_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0147,1910s,1911-12-26,종교·기원,medium,Daily Kennebec journal,"Augusta, Me.",9,https://www.loc.gov/resource/sn82014248/1911-12-26/ed-1/,10,Christmas,False,2,"parties in honor
+of the day. The elaborate musical pro
+grams printed in the Journal of Sat
+urday morning were fully carried out
+in the various churches, on Sunday and
+Christmas day and in addition some
+of the Sunday schools held special
+Christmas tree exercises, Saturday af
+ternoon.
+Holiday hours were observed, Mon
+day, at the courthouse, State House
+and posfcnfflce.","parties in honor of the day. The elaborate musical pro grams printed in the Journal of Sat urday morning were fully carried out in the various churches, on Sunday and Christmas day and in addition some of the Sunday schools held special Christmas tree exercises, Saturday af ternoon. Holiday hours were observed, Mon day, at the courthouse, State House and posfcnfflce.",0.951,False,,"교회 음악 프로그램과 주일학교 트리 행사가 중심, 휴일 근무 단신은 부수적",1911-12-26_sn82014248,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0150,1910s,1911-12-26,종교·기원,medium,Daily Kennebec journal,"Augusta, Me.",9,https://www.loc.gov/resource/sn82014248/1911-12-26/ed-1/,13,Christmas,False,2,"wen
+distributed to the children and they all
+passed an enjoyable afternoon.
+The program fur the exercises was as
+follows:
+Prayer Rev. C. D. Boothby
+■I Heard the Bells on Christmas Day,""
+Theodore Tscliamler
+""While Shepherds Watched Their Flocks
+by Night,"" Miss Manfield's clas.
+""i'o Bring God’s Love,""
+Miss Pidrce a class
+••Jesus’ Birthday."" Marguerite Chas
+Song—“Ring. Ye Happy Christmas","wen distributed to the children and they all passed an enjoyable afternoon. The program fur the exercises was as follows: Prayer Rev. C. D. Boothby I Heard the Bells on Christmas Day,"" Theodore Tscliamler ""While Shepherds Watched Their Flocks by Night,"" Miss Manfield's clas. ""i'o Bring God’s Love,"" Miss Pidrce a class Jesus’ Birthday."" Marguerite Chas Song — “Ring. Ye Happy Christmas",0.893,False,,"기도, 캐럴, 예수 탄생 낭송 등 교회학교 성탄 프로그램 순서",1911-12-26_sn82014248,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0216,1910s,1915-12-17,종교·기원,high,The Glasgow courier.,"Glasgow, Mont.",9,https://www.loc.gov/resource/sn85042379/1915-12-17/ed-1/,2,Christmas,False,1,"night
+From blossom bearing lands of sun
+To lands of frozen white,
+First heard on old Judea's plain.
+Where flocks and shepherds lay,
+By time and distance multiplied
+To welcome Christmas day.
+FOR then a shepherd boy awoke
+And rubbed his sleepy eyes
+And saw a star of wondrous light
+Above him in the skies
+And, pointing to its glory, cried","night From blossom bearing lands of sun To lands of frozen white, First heard on old Judea's plain. Where flocks and shepherds lay, By time and distance multiplied To welcome Christmas day. FOR then a shepherd boy awoke And rubbed his sleepy eyes And saw a star of wondrous light Above him in the skies And, pointing to its glory, cried",1.0,False,,"유대 평원, 목동, 별을 노래한 성탄 찬미 시",1915-12-17_sn85042379,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0222,1910s,1915-12-17,종교·기원,low,The Glasgow courier.,"Glasgow, Mont.",9,https://www.loc.gov/resource/sn85042379/1915-12-17/ed-1/,8,Christmas,False,1,"vent a better way of doing it Of
+course it has been done sometimes.
+We have the steam engine, the electric
+telegraph, and so on, but with regard
+to keeping Christmas day no one seems
+likely to invent anything new that will
+l»e as good as the old. l'oses and lilies
+will not do Instead of holly and mistle
+toe, nnd","vent a better way of doing it Of course it has been done sometimes. We have the steam engine, the electric telegraph, and so on, but with regard to keeping Christmas day no one seems likely to invent anything new that will le as good as the old. l'oses and lilies will not do Instead of holly and mistle toe, nnd",0.967,False,,"옛 크리스마스 풍습(호랑가시나무, 겨우살이) 논평; 맥락 불명확",1915-12-17_sn85042379,기원·역사해설,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0376,1920s,1924-12-26,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",3,https://www.loc.gov/resource/sn82014248/1924-12-26/ed-1/,16,Christmas,False,1,"daughter. Miss
+I'lorence Larlee, passed the holiday
+in 'Skowhegan as guests of Mr. and
+Mrs. W. B. Kowles.
+Mr. and Mrs. Arthur Levenailor
+and son Arthur. Jr., were guests on
+Christmas day of Mr. and Mrs. Ed
+ward Antill in Pittsfield.
+Mrs. Maude Hardy and children,
+Doris and Theodore. Mrs. John Haidy
+of Waterville and Mr. and Mrs. Ray
+Smart passed","daughter. Miss I'lorence Larlee, passed the holiday in 'Skowhegan as guests of Mr. and Mrs. W. B. Kowles. Mr. and Mrs. Arthur Levenailor and son Arthur. Jr., were guests on Christmas day of Mr. and Mrs. Ed ward Antill in Pittsfield. Mrs. Maude Hardy and children, Doris and Theodore. Mrs. John Haidy of Waterville and Mr. and Mrs. Ray Smart passed",0.847,False,,크리스마스에 손님으로 방문한 개인 사교 소식,1924-12-26_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0377,1920s,1924-12-26,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",3,https://www.loc.gov/resource/sn82014248/1924-12-26/ed-1/,17,Christmas,False,2,"Mr. and Mrs. C. W. Kcnniston of
+Kelly street entertained Mr. and Mrs.
+Bernard Lowry and daughter Berna
+iene Christmas day.
+Mr. and Mrs. Ernest L. Ames of
+Benton passed Christmas day with Mr.
+ind Mrs. Clair Ames on Gibson street.
+Walker Lnntz has gone to Newport
+lo pass a few days with his sister.
+Miss Christine Richardson went to
+'ighf",Mr. and Mrs. C. W. Kcnniston of Kelly street entertained Mr. and Mrs. Bernard Lowry and daughter Berna iene Christmas day. Mr. and Mrs. Ernest L. Ames of Benton passed Christmas day with Mr. ind Mrs. Clair Ames on Gibson street. Walker Lnntz has gone to Newport lo pass a few days with his sister. Miss Christine Richardson went to 'ighf,0.877,False,,크리스마스 당일 가족 방문·초대 등 개인 사교 소식,1924-12-26_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0379,1920s,1924-12-26,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",3,https://www.loc.gov/resource/sn82014248/1924-12-26/ed-1/,19,Christmas,False,2,"and Mrs. Abbott Adame of Sil
+ver street entertained Mr. and Mrs. E.
+A. Emery and daughter Edna of Shaw
+mut and Mr. and Mrs. Allen Hackett
+and daughter Barbara Christmas day.
+A Christmas tree was enjoyed ana
+gifts were exchanged.
+Miss Marjorie Ridley, who was re
+cently operated on at the Sisters Hos
+pital. has 'Sufficiently recovered to he
+aide","and Mrs. Abbott Adame of Sil ver street entertained Mr. and Mrs. E. A. Emery and daughter Edna of Shaw mut and Mr. and Mrs. Allen Hackett and daughter Barbara Christmas day. A Christmas tree was enjoyed ana gifts were exchanged. Miss Marjorie Ridley, who was re cently operated on at the Sisters Hos pital. has 'Sufficiently recovered to he aide",0.897,False,,"크리스마스 당일 가족 모임, 트리, 선물 교환 등 개인 사교 소식",1924-12-26_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0380,1920s,1924-12-26,가정·사교·공동체,high,Daily Kennebec journal,"Augusta, Me.",3,https://www.loc.gov/resource/sn82014248/1924-12-26/ed-1/,20,Christmas,False,2,"ing at the home of her aunt, Mrs. Da
+vid King.
+Ralph Blakney of Bath passed
+Christmas day with his mother, Mrs.
+Angie Blakney, on Maple street.
+David Campbell passed Christmas
+day with his mother. Mrs. Elizabeth
+Campbell, at Hinckley. Raul Camp
+bell of Boston returned home with him
+for the week end.
+Mrs. Clarice Footman of Newport Is
+passing a","ing at the home of her aunt, Mrs. Da vid King. Ralph Blakney of Bath passed Christmas day with his mother, Mrs. Angie Blakney, on Maple street. David Campbell passed Christmas day with his mother. Mrs. Elizabeth Campbell, at Hinckley. Raul Camp bell of Boston returned home with him for the week end. Mrs. Clarice Footman of Newport Is passing a",0.917,False,,크리스마스 당일 가족 방문을 전하는 개인 사교 소식,1924-12-26_sn82014248,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0370,1920s,1924-12-26,시사·기타,medium,Daily Kennebec journal,"Augusta, Me.",3,https://www.loc.gov/resource/sn82014248/1924-12-26/ed-1/,10,Christmas,False,2,"Thanks
+giving time and he wanted to make
+his contribution so recently sent by
+express a box of delicious prunes
+right from the growers 'which have
+been very acceptable. i
+Christmas Day
+Proves Ideal One
+For Waterville Folks
+December 25, 1924 will be remem
+bered by Waterville people for some
+time as an Ideal Christmas day.
+There was just enough snow","Thanks giving time and he wanted to make his contribution so recently sent by express a box of delicious prunes right from the growers 'which have been very acceptable. i Christmas Day Proves Ideal One For Waterville Folks December 25, 1924 will be remem bered by Waterville people for some time as an Ideal Christmas day. There was just enough snow",0.93,False,,"크리스마스 날씨 보도(눈, 이상적인 날); 지역 단신",1924-12-26_sn82014248,시사·단신,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0356,1920s,1921-12-24,종교·기원,high,Daily Kennebec journal,"Augusta, Me.",10,https://www.loc.gov/resource/sn82014248/1921-12-24/ed-1/,19,Christmas,False,1,"us and
+Agnes Dei. from Merbeek's Mass.
+Offertory Anthem, “The King of the
+Ages.” Oeihe'
+Hymn, “O I.ittle Town of‘Bethlehem,""
+Brooks
+Hymn. “It Came upon the Midnignt
+Clear.” Willis
+On Christmas Day, Sunday, at 10.30
+in the morning, the same music will
+be sung.
+Sunday afternoon at 4 o’clock:
+Procession of Choir, Shepherds and
+Wise Men.
+The following carols will be","us and Agnes Dei. from Merbeek's Mass. Offertory Anthem, “The King of the Ages.” Oeihe' Hymn, “O I.ittle Town of‘Bethlehem,"" Brooks Hymn. “It Came upon the Midnignt Clear.” Willis On Christmas Day, Sunday, at 10.30 in the morning, the same music will be sung. Sunday afternoon at 4 o’clock: Procession of Choir, Shepherds and Wise Men. The following carols will be",0.915,False,,"미사 음악, 봉헌 찬송, 성탄 예배 프로그램 안내",1921-12-24_sn82014248,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0424,1930s,1933-12-28,가정·사교·공동체,high,The Eureka mirror.,"Eureka, Mont.",1,https://www.loc.gov/resource/sn85053106/1933-12-28/ed-1/,4,Christmas,False,3,"of Libby,
+[Mr. and Mrs, Lem Collar and
+Leo were dinner guests at the
+Orin Farr home Christmas.
+The Hurst family v/ere the
+pinner guests a the Ed Arnold
+iiome Christmas day.
+The water wheel at the light
+lant is out of commissfon leav-!
+i n g Rexford in the dark.
+Miss Dorothy Mikleson arrived
+IBkunday to spend Christmas at
+Bhe","of Libby, [Mr. and Mrs, Lem Collar and Leo were dinner guests at the Orin Farr home Christmas. The Hurst family v/ere the pinner guests a the Ed Arnold iiome Christmas day. The water wheel at the light lant is out of commissfon leav-! i n g Rexford in the dark. Miss Dorothy Mikleson arrived IBkunday to spend Christmas at Bhe",0.825,False,,"크리스마스 만찬 손님, 휴일을 보내러 온 방문 등 지역 사교 소식",1933-12-28_sn85053106,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0440,1930s,1935-01-04,가정·사교·공동체,high,The Hardin tribune-herald,"Hardin, Mont.",6,https://www.loc.gov/resource/sn86075229/1935-01-04/ed-1/,3,Christmas,False,4,"I fell down twice.
+BOBBY MIELKE
+For Christmas I wanted a pair
+of boots, sweat shirt and a Buck
+Rogers pistol. I really got them.
+Mac Allister's were our guests.
+Christmas Day.
+RALPH STRAND.
+I had a very nice Christmas va
+cation and got many nice gifts.
+Christmas Day we went over to my
+Grandma and Grandpa Kelly’s
+house —-MARILYN KELLY.","I fell down twice. BOBBY MIELKE For Christmas I wanted a pair of boots, sweat shirt and a Buck Rogers pistol. I really got them. Mac Allister's were our guests. Christmas Day. RALPH STRAND. I had a very nice Christmas va cation and got many nice gifts. Christmas Day we went over to my Grandma and Grandpa Kelly’s house — -MARILYN KELLY.",0.963,False,,아이들이 쓴 크리스마스 선물·가족 방문 등 개인적 일상 소식,1935-01-04_sn86075229,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0472,1930s,1939-12-28,가정·사교·공동체,high,The Western news.,"Libby, Mont.",7,https://www.loc.gov/resource/sn82006551/1939-12-28/ed-1/,5,Christmas,False,1,"B. Farris receiving the prize for
+the most correct answers.
+Mr and Mrs. A. L. Dean and fam
+üy were dinner guests of Mr, and
+Mrs. L. R, Davis on Christmas day.
+Mr and Mrs John Yeager of
+SD ok a ne scent ChSmas wUh Mr
+n hlrt Renne« and fam
+f,?, Kooen ne
+Miss Lura Fewkes arrived in Trov
+I","B. Farris receiving the prize for the most correct answers. Mr and Mrs. A. L. Dean and fam üy were dinner guests of Mr, and Mrs. L. R, Davis on Christmas day. Mr and Mrs John Yeager of SD ok a ne scent ChSmas wUh Mr n hlrt Renne and fam f,?, Kooen ne Miss Lura Fewkes arrived in Trov I",0.765,False,,크리스마스 날 가족 저녁 초대와 방문 등 개인 사교 소식,1939-12-28_sn82006551,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0482,1930s,1939-12-28,가정·사교·공동체,high,The Western news.,"Libby, Mont.",7,https://www.loc.gov/resource/sn82006551/1939-12-28/ed-1/,15,Christmas,False,1,"the
+proud parents of twin boys born
+ue sday morning, Dec. 26, at the
+O]son Hospital in Eureka.
+Dean Kidder of Kalispell was a
+caller at the George Ross home
+Christmas day.
+Ed Ross of Seattle, who has been
+visiting his parents during the holi
+daySi j e ft for Chester where he will
+be employed as deputy county treas
+urer","the proud parents of twin boys born ue sday morning, Dec. 26, at the O]son Hospital in Eureka. Dean Kidder of Kalispell was a caller at the George Ross home Christmas day. Ed Ross of Seattle, who has been visiting his parents during the holi daySi j e ft for Chester where he will be employed as deputy county treas urer",0.86,False,,크리스마스 방문과 휴가 등 지역 개인 소식,1939-12-28_sn82006551,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0405,1930s,1930-12-19,시사·기타,medium,The Wolf Point herald.,"Wolf Point, Mont.",5,https://www.loc.gov/resource/sn86075272/1930-12-19/ed-1/,1,Christmas,False,1,"LOCAL AND OTHERWISE
+
+I
+Davey clean your clothes
+29-t
+Have
+Mrs. John Kelstrup underwent
+operation for appendicitis Sat
+n
+nr day.
+Matinee Christmas day at 3 p.
+j ni., showing ""Good News"" a col
+legiate musical comedy.
+Mr. and Mrs. T. O. Schauer of
+Benrud community were Wolf
+the
+■Point visitors Saturday.
+Will","LOCAL AND OTHERWISE I Davey clean your clothes 29-t Have Mrs. John Kelstrup underwent operation for appendicitis Sat n nr day. Matinee Christmas day at 3 p. j ni., showing ""Good News"" a col legiate musical comedy. Mr. and Mrs. T. O. Schauer of Benrud community were Wolf the Point visitors Saturday. Will",0.841,False,,"지역 단신 중 크리스마스 당일 영화 상영 공지, 날짜 표지로만 사용",1930-12-19_sn86075272,시사·단신,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0406,1930s,1930-12-19,시사·기타,low,The Wolf Point herald.,"Wolf Point, Mont.",5,https://www.loc.gov/resource/sn86075272/1930-12-19/ed-1/,2,Christmas,False,1,"left Tues
+Mrs.
+day morning for Havre after sev
+spent visiting Wolf
+eral days
+Point friends.
+25 26 27,
+Saturday
+3 p. m„
+""Good News"" Dec.
+Thursday,
+matinee Thursday at
+Christmas day.
+Friday,
+""Honey"" a
+than
+hits
+Carroll in
+entertainment
+Nancy
+sweeter
+""Sweetie,"" filled with song
+and comedy, Sunday-Monday.
+Frank Schott of Sumner, Iowa,
+Mrs. John Beaumont and Mrs. R.
+E.","left Tues Mrs. day morning for Havre after sev spent visiting Wolf eral days Point friends. 25 26 27, Saturday 3 p. m„ ""Good News"" Dec. Thursday, matinee Thursday at Christmas day. Friday, ""Honey"" a than hits Carroll in entertainment Nancy sweeter ""Sweetie,"" filled with song and comedy, Sunday-Monday. Frank Schott of Sumner, Iowa, Mrs. John Beaumont and Mrs. R. E.",0.925,False,,극장 상영 일정과 개인 소식이 뒤섞인 garbled 단신; Christmas는 날짜 표지,1930-12-19_sn86075272,시사·단신,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0411,1930s,1930-12-19,종교·기원,high,The Wolf Point herald.,"Wolf Point, Mont.",5,https://www.loc.gov/resource/sn86075272/1930-12-19/ed-1/,7,Christmas,False,2,"which is come to pass,
+which the Lord hath made known
+unto us."" (Luke 2, 15).
+Let us follow the shepherd to
+Bethlehem, namely, to the House
+of God on Christmas day and to
+""see this thing which is come to
+pass, which the Lord hath made
+known unto us.""
+Cordial Christmas Greetings
+and an invitation to attend their
+services is","which is come to pass, which the Lord hath made known unto us."" (Luke 2, 15). Let us follow the shepherd to Bethlehem, namely, to the House of God on Christmas day and to ""see this thing which is come to pass, which the Lord hath made known unto us."" Cordial Christmas Greetings and an invitation to attend their services is",1.0,False,,"누가복음 인용, 성탄절 예배 초대와 종교적 인사",1930-12-19_sn86075272,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0412,1930s,1930-12-19,종교·기원,high,The Wolf Point herald.,"Wolf Point, Mont.",5,https://www.loc.gov/resource/sn86075272/1930-12-19/ed-1/,8,Christmas,False,2,"Pastor.
+FIRST LUTHERAN CHURCH
+Sunday school, 10:00 a. m.
+Morning worship, 11:00 a. m.
+This service will be broadcast.
+Luther League program, 7:30.
+Choir rehearsal Monday eve
+ning, Dec. 22.
+Christmas day at 7:00 a. m. We
+shall broadcast a Christmas song
+service together with a sermon
+ette. Get up early and come to
+church. It will give you a good","Pastor. FIRST LUTHERAN CHURCH Sunday school, 10:00 a. m. Morning worship, 11:00 a. m. This service will be broadcast. Luther League program, 7:30. Choir rehearsal Monday eve ning, Dec. 22. Christmas day at 7:00 a. m. We shall broadcast a Christmas song service together with a sermon ette. Get up early and come to church. It will give you a good",0.957,False,,교회가 크리스마스 아침 노래 예배와 설교를 안내하는 공지,1930-12-19_sn86075272,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0510,1940s,1946-12-26,종교·기원,low,The Camas Hot Springs exchange,"Camas, Mont.",4,https://www.loc.gov/resource/sn85053223/1946-12-26/ed-1/,8,Christmas,False,2,"the
+bad ones inverted; and the child at
+the top was the Infant Jesus who
+watches over all the world of hu
+manity.
+THE CAMAS HOT SPRINGS EXCHANGE
+Cfjrtetmas
+On Christmas Day we repeat the
+old familiar greeting that, each
+year, in some mystic way rings
+fresh and true—“ Merry Christmas.”
+Like such words as ""hello” and
+“good-by,” there really isn't","the bad ones inverted; and the child at the top was the Infant Jesus who watches over all the world of hu manity. THE CAMAS HOT SPRINGS EXCHANGE Cfjrtetmas On Christmas Day we repeat the old familiar greeting that, each year, in some mystic way rings fresh and true — “ Merry Christmas.” Like such words as ""hello” and “good-by,” there really isn't",0.919,False,,"트리 유래 설명과 ""Merry Christmas"" 인사말 성찰이 섞여 있어 불확실",1946-12-26_sn85053223,기원·역사해설,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0561,1940s,1949-12-23,종교·기원,high,Hungry Horse news.,"Columbia Falls, Mont.",3,https://www.loc.gov/resource/sn84027524/1949-12-23/ed-1/,2,Christmas,False,2,"High
+Mass Christmas eve. Music will be
+by the senior choir under the dir
+ection of Mrs. Joe Reese, Jr. Low
+Masses will be at 9 a.m. and 10
+a.m. Christmas day. The Rev.
+Father Melady, Helena, will assist
+Father Hugh Faley with the pro
+gram. Confessions will be heard
+Saturday afternoon from 2 until
+4, and in the evening from","High Mass Christmas eve. Music will be by the senior choir under the dir ection of Mrs. Joe Reese, Jr. Low Masses will be at 9 a.m. and 10 a.m. Christmas day. The Rev. Father Melady, Helena, will assist Father Hugh Faley with the pro gram. Confessions will be heard Saturday afternoon from 2 until 4, and in the evening from",0.945,False,,"성당 미사 시간과 성가대, 고해성사 안내",1949-12-23_sn84027524,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0580,1950s,1953-01-01,가정·사교·공동체,high,The Herald-news,"Wolf Point, Mont.",4,https://www.loc.gov/resource/sn86075271/1953-01-01/ed-1/,5,Christmas,False,1,"Danish Brotherhood party at
+the school Fridqy evening was nnt
+very well attended.
+News of Lustre Vicinity
+By Liberty School
+LUSTRE—Mr. and Mrs. E. A.
+Dick and family were Christmas
+day dinner guests at the Les Brown
+home.
+Mr. and Mrs. E. A. Dick and
+family and the Rev. and Mrs. Leo
+Wiens and family visited at the
+John Rcdekopp",Danish Brotherhood party at the school Fridqy evening was nnt very well attended. News of Lustre Vicinity By Liberty School LUSTRE — Mr. and Mrs. E. A. Dick and family were Christmas day dinner guests at the Les Brown home. Mr. and Mrs. E. A. Dick and family and the Rev. and Mrs. Leo Wiens and family visited at the John Rcdekopp,0.93,False,,크리스마스 당일 가족 저녁 초대와 방문 등 개인 사교 소식,1953-01-01_sn86075271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0590,1950s,1953-01-01,가정·사교·공동체,high,The Herald-news,"Wolf Point, Mont.",4,https://www.loc.gov/resource/sn86075271/1953-01-01/ed-1/,15,Christmas,False,2,"Great Falls during
+the holidays.
+Mr. and Mrs. James Elgie, Donn i
+and Billy were business visitors in
+Culbertson Sunday.
+Mr. and Mrs Milo Stangeland
+had as their guests for Christmas
+day dinner Mr. and Mrs. Frank
+Mattelin and Mr. and Mrs. Robert
+Mattelin and family.
+Mr. and Mrs. Harold Johnson and
+family spent the Christmas holi
+days visiting relatives in","Great Falls during the holidays. Mr. and Mrs. James Elgie, Donn i and Billy were business visitors in Culbertson Sunday. Mr. and Mrs Milo Stangeland had as their guests for Christmas day dinner Mr. and Mrs. Frank Mattelin and Mr. and Mrs. Robert Mattelin and family. Mr. and Mrs. Harold Johnson and family spent the Christmas holi days visiting relatives in",0.917,False,,크리스마스 만찬과 친지 방문 등 개인 사교 소식,1953-01-01_sn86075271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0592,1950s,1953-01-01,가정·사교·공동체,high,The Herald-news,"Wolf Point, Mont.",4,https://www.loc.gov/resource/sn86075271/1953-01-01/ed-1/,17,Christmas,False,1,"along fine in the school
+for the hard of hearing in Seattle,
+and is in her second year there.
+Mr. and Mrs. Calvin Yellowrobe
+and young son of Poplar were
+Christmas day dinner guests of
+Mr. and Mrs. Norman Hollow.
+Carl Abraham of the Anderson
+community was a shopper in
+Brockton on Monday.
+Mr. and Mrs. Floyd Candce of
+the southside","along fine in the school for the hard of hearing in Seattle, and is in her second year there. Mr. and Mrs. Calvin Yellowrobe and young son of Poplar were Christmas day dinner guests of Mr. and Mrs. Norman Hollow. Carl Abraham of the Anderson community was a shopper in Brockton on Monday. Mr. and Mrs. Floyd Candce of the southside",0.95,False,,크리스마스 당일 저녁 손님 등 개인 사교 소식,1953-01-01_sn86075271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0593,1950s,1953-01-01,가정·사교·공동체,high,The Herald-news,"Wolf Point, Mont.",4,https://www.loc.gov/resource/sn86075271/1953-01-01/ed-1/,18,Christmas,False,1,"in Billings at the
+home of their daughter, Mrs. Ed
+gar Fisher, and family.
+Mr. and Mrs. Norman Hollow
+were shoppers in Sidney last Sat
+urday.
+Ernest Loedke was a Christmas
+day guest at the farm home of Mr.
+and Mrs. Franz Waschewski and
+family.
+Shopping in town from the south
+side on Monday were Mrs. Bailey
+Fisher, Mr. and Mrs.","in Billings at the home of their daughter, Mrs. Ed gar Fisher, and family. Mr. and Mrs. Norman Hollow were shoppers in Sidney last Sat urday. Ernest Loedke was a Christmas day guest at the farm home of Mr. and Mrs. Franz Waschewski and family. Shopping in town from the south side on Monday were Mrs. Bailey Fisher, Mr. and Mrs.",0.95,False,,크리스마스 당일 손님 방문 등 지역 사교 소식,1953-01-01_sn86075271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0597,1950s,1953-01-01,가정·사교·공동체,high,The Herald-news,"Wolf Point, Mont.",4,https://www.loc.gov/resource/sn86075271/1953-01-01/ed-1/,22,Christmas,False,2,"Mrs. Pete Nelson and Donny
+spent Christmas in Williston with
+a daughter of Mrs. Nelson’s and
+other children and grandchildren
+of Mrs. Nelson’s.
+Relatives at the Jim Elgie home
+on Christmas day for dinner were
+Mr. and Mrs. Ole Lien, Mrs. Jen
+nie Elgie. Hans Lien, Mr. and Mrs.
+Marvin Elgie and Mr. and Mrs.
+Albert McGinnis and Gary of Sioux","Mrs. Pete Nelson and Donny spent Christmas in Williston with a daughter of Mrs. Nelson’s and other children and grandchildren of Mrs. Nelson’s. Relatives at the Jim Elgie home on Christmas day for dinner were Mr. and Mrs. Ole Lien, Mrs. Jen nie Elgie. Hans Lien, Mr. and Mrs. Marvin Elgie and Mr. and Mrs. Albert McGinnis and Gary of Sioux",0.867,False,,크리스마스를 친척과 보낸 가족 방문·저녁식사 개인 소식,1953-01-01_sn86075271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0599,1950s,1953-01-01,가정·사교·공동체,high,The Herald-news,"Wolf Point, Mont.",4,https://www.loc.gov/resource/sn86075271/1953-01-01/ed-1/,24,Christmas,False,1,"Fivin Schutts and the Bill
+Eggcbrechts were Sunday dinner
+guests of the Wilbur Eggcbrechts.
+The Howard Braatens and the
+Ray Abrahams enjoyed a goose
+supper at the Anton Abraham home
+Christmas day.
+Mr and Mrs. Edward Schlepp
+and Alice Ann enjoyed a turkey
+dinner Chiistmas day at the Ever
+ett Hoflands.
+Mr and Mrs. Albert Maves and
+Charlie spent Chi istmas",Fivin Schutts and the Bill Eggcbrechts were Sunday dinner guests of the Wilbur Eggcbrechts. The Howard Braatens and the Ray Abrahams enjoyed a goose supper at the Anton Abraham home Christmas day. Mr and Mrs. Edward Schlepp and Alice Ann enjoyed a turkey dinner Chiistmas day at the Ever ett Hoflands. Mr and Mrs. Albert Maves and Charlie spent Chi istmas,0.814,False,,크리스마스 날 가족 저녁식사·방문을 전하는 지역 사교 소식,1953-01-01_sn86075271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0600,1950s,1953-01-01,가정·사교·공동체,high,The Herald-news,"Wolf Point, Mont.",4,https://www.loc.gov/resource/sn86075271/1953-01-01/ed-1/,25,Christmas,False,2,"guests
+of the Harold Olsons
+Christinas day guests at the Bob
+Nefzger ho ne were the Fred Mc-
+Cartneys and Grandma Thornburg.
+Mr. and Mrs. Boots Erickson and
+boys spent Christmas day with the
+Axel Ericksons.
+The Martin Leuenoe.’-gers had as
+their guests on Christmas day the
+Herman Leuenbergers, Mr. and
+Mrs. Ervin Lcuenberger and son.
+Mr. and Mrs. Melvin Leuenbergcr","guests of the Harold Olsons Christinas day guests at the Bob Nefzger ho ne were the Fred Mc- Cartneys and Grandma Thornburg. Mr. and Mrs. Boots Erickson and boys spent Christmas day with the Axel Ericksons. The Martin Leuenoe.’-gers had as their guests on Christmas day the Herman Leuenbergers, Mr. and Mrs. Ervin Lcuenberger and son. Mr. and Mrs. Melvin Leuenbergcr",0.806,False,,Christmas day 가족 방문·손님 등 개인 사교 소식,1953-01-01_sn86075271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0601,1950s,1953-01-01,가정·사교·공동체,high,The Herald-news,"Wolf Point, Mont.",4,https://www.loc.gov/resource/sn86075271/1953-01-01/ed-1/,26,Christmas,False,2,"Arnie Leuen
+bergers.
+Mr. and Mrs. Bud Erickson and
+children spent their holiday at the
+John LeVallev ranch home at Wat
+kins.
+Mr. and Mrs. Harry Sievers and
+children were Christmas day guests
+at the home of Mrs. Josephine
+Hayes, of Poplar.
+Mr. and Mrs. Glen Eigen and
+the Keith Caslerlines spent Christ
+mas day at the Edward Casterline
+home.
+Mr.","Arnie Leuen bergers. Mr. and Mrs. Bud Erickson and children spent their holiday at the John LeVallev ranch home at Wat kins. Mr. and Mrs. Harry Sievers and children were Christmas day guests at the home of Mrs. Josephine Hayes, of Poplar. Mr. and Mrs. Glen Eigen and the Keith Caslerlines spent Christ mas day at the Edward Casterline home. Mr.",0.852,False,,크리스마스 당일 가족·지인 방문을 전하는 개인 사교 소식,1953-01-01_sn86075271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0604,1950s,1953-01-01,가정·사교·공동체,high,The Herald-news,"Wolf Point, Mont.",4,https://www.loc.gov/resource/sn86075271/1953-01-01/ed-1/,29,Christmas,False,2,"of the Mike Boysuns.
+Mr and Mrs Wilbur Eggcbrecht
+and children spent their holiday at
+the Fred Steffen. Jr, home in
+Glendive
+Tl>£ Allan Schillingers and the
+Ji.n VanAllas were Christmas day
+guests of the Joe Schillingers.
+Claire Schillinger spent Christ
+mas with the Pau Schillingers at
+Billings.
+Guests on Chiistmas day at the
+Jake Schlepp. Jr., home were the
+Bill","of the Mike Boysuns. Mr and Mrs Wilbur Eggcbrecht and children spent their holiday at the Fred Steffen. Jr, home in Glendive Tl£ Allan Schillingers and the Ji.n VanAllas were Christmas day guests of the Joe Schillingers. Claire Schillinger spent Christ mas with the Pau Schillingers at Billings. Guests on Chiistmas day at the Jake Schlepp. Jr., home were the Bill",0.82,False,,크리스마스 당일 가족 방문·손님 등 개인 사교 소식,1953-01-01_sn86075271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0608,1950s,1953-01-01,가정·사교·공동체,high,The Herald-news,"Wolf Point, Mont.",4,https://www.loc.gov/resource/sn86075271/1953-01-01/ed-1/,33,Christmas,False,1,"Mrs. H. J.
+Borge.
+Mr. and Mrs. Vergil Albert and
+Mr. and Mrs. Arlie Fachner left
+Friday for California for a month's
+vacation.
+Lillian Davis arrived in Wolf
+Point on Christmas day from Kali
+spell to visit with her mother, Mrs.
+Peter Davis, for the holidays.
+Mr. and Mrs. Ellwood Grissom of
+Glendive visited a couple of days
+in Wolf Point","Mrs. H. J. Borge. Mr. and Mrs. Vergil Albert and Mr. and Mrs. Arlie Fachner left Friday for California for a month's vacation. Lillian Davis arrived in Wolf Point on Christmas day from Kali spell to visit with her mother, Mrs. Peter Davis, for the holidays. Mr. and Mrs. Ellwood Grissom of Glendive visited a couple of days in Wolf Point",0.912,False,,크리스마스 당일 방문 등 개인 사교 소식,1953-01-01_sn86075271,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0629,1950s,1954-12-31,가정·사교·공동체,high,The Poplar standard,"Poplar, Mont.",4,https://www.loc.gov/resource/sn86075284/1954-12-31/ed-1/,6,Christ mas,True,2,"week where they will visit
+bMr. Gamroth's parents before re
+turning to their home.
+Mrs. R. W. McConnen of Billings
+visited friends in Richey enroute to
+Fairview where she spent Christ
+mas Day with Mr. and Mrs. L. S
+Sedlacek.
+Mr. and Mrs. Bam Ritter return
+ed Monday from Sheridan. Wyo..
+where they visited over the Christ
+mas holidays with Mrs.",week where they will visit bMr. Gamroth's parents before re turning to their home. Mrs. R. W. McConnen of Billings visited friends in Richey enroute to Fairview where she spent Christ mas Day with Mr. and Mrs. L. S Sedlacek. Mr. and Mrs. Bam Ritter return ed Monday from Sheridan. Wyo.. where they visited over the Christ mas holidays with Mrs.,0.86,False,,크리스마스를 친지와 보냈다는 개인 사교 소식,1954-12-31_sn86075284,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0632,1950s,1954-12-31,가정·사교·공동체,high,The Poplar standard,"Poplar, Mont.",4,https://www.loc.gov/resource/sn86075284/1954-12-31/ed-1/,9,Christmas,False,1,"and Mrs. August Scheer. Mrs.
+J. P. Graber. Mr. and Mrs. Vernon
+Scheer, Mr. and Mrs. M. O. Mick
+elson and Mr. and Mrs. Gene Mick
+elson and family were Christmas
+day guests of Mr. and Mrs. Ralph
+Miller in Glendive. Other guests
+present were Mr. and Mrs. Myrl
+Mickelson and sons of Fallon and
+Mr. and Mrs. Ray Miller and","and Mrs. August Scheer. Mrs. J. P. Graber. Mr. and Mrs. Vernon Scheer, Mr. and Mrs. M. O. Mick elson and Mr. and Mrs. Gene Mick elson and family were Christmas day guests of Mr. and Mrs. Ralph Miller in Glendive. Other guests present were Mr. and Mrs. Myrl Mickelson and sons of Fallon and Mr. and Mrs. Ray Miller and",0.842,False,,크리스마스 당일 손님 방문을 알리는 개인 사교 소식,1954-12-31_sn86075284,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0634,1950s,1954-12-31,가정·사교·공동체,high,The Poplar standard,"Poplar, Mont.",4,https://www.loc.gov/resource/sn86075284/1954-12-31/ed-1/,11,Christmas,False,1,"occasion was
+also Lars Olson’s 31st wedding an
+niversary. Mrs. Alton Olson baked
+and decorated the wedding cake
+which centered the dinner table.
+The Wilbur Gibson family dinner
+guests on Christmas day were Mr,
+and Mrs. Paul Vaira and bojs from
+Andes, Mr. and Mrs. Julius Gibson
+and children and Mr. and Mrs.
+Wallace Gibson.
+Art Gering left Thursday for
+Seattle,","occasion was also Lars Olson’s 31st wedding an niversary. Mrs. Alton Olson baked and decorated the wedding cake which centered the dinner table. The Wilbur Gibson family dinner guests on Christmas day were Mr, and Mrs. Paul Vaira and bojs from Andes, Mr. and Mrs. Julius Gibson and children and Mr. and Mrs. Wallace Gibson. Art Gering left Thursday for Seattle,",0.934,False,,크리스마스 당일 가족 만찬 손님 등 개인 사교 소식,1954-12-31_sn86075284,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0638,1950s,1954-12-31,가정·사교·공동체,high,The Poplar standard,"Poplar, Mont.",4,https://www.loc.gov/resource/sn86075284/1954-12-31/ed-1/,15,Christmas,False,3,"and Rich
+ard.
+Christmas dinner guests at the
+Oline Houg’s in Wolf Point were
+Mr. and Mrs. Herbert Houg and
+I boys.
+Dinner guests at the Eddie Bach
+I home Christmas day were Mr. and
+I Mrs. Ed Zimmerman, Bernice and
+Richard, and Mr. and Mrs. Doug
+Berreth.
+Bill Walters. Mr. and Mrs. Mitch
+Dereschuk spent Christmas with
+the Slim Bachs.","and Rich ard. Christmas dinner guests at the Oline Houg’s in Wolf Point were Mr. and Mrs. Herbert Houg and I boys. Dinner guests at the Eddie Bach I home Christmas day were Mr. and I Mrs. Ed Zimmerman, Bernice and Richard, and Mr. and Mrs. Doug Berreth. Bill Walters. Mr. and Mrs. Mitch Dereschuk spent Christmas with the Slim Bachs.",0.897,False,,크리스마스 만찬 손님 등 개인 사교 소식,1954-12-31_sn86075284,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0647,1950s,1954-12-31,가정·사교·공동체,high,The Poplar standard,"Poplar, Mont.",4,https://www.loc.gov/resource/sn86075284/1954-12-31/ed-1/,24,Christmas,False,2,"Christmas Day guests at the
+Leonard Kallevig home were Mrs.
+J. Lawson. Jim and Jack Lawson.
+Mr. and Mrs. L. Peterson all of
+Culbertson.
+Mr. and Mrs. Al Schneider spent
+Christmas Day in Wolf Point vis
+iting with friends.
+Mrs. Art Erickson and Keith, and
+Miss Terra Gundlack were Wed
+nesday stoppers in Poplar and
+supper guests at the C. Knutson,","Christmas Day guests at the Leonard Kallevig home were Mrs. J. Lawson. Jim and Jack Lawson. Mr. and Mrs. L. Peterson all of Culbertson. Mr. and Mrs. Al Schneider spent Christmas Day in Wolf Point vis iting with friends. Mrs. Art Erickson and Keith, and Miss Terra Gundlack were Wed nesday stoppers in Poplar and supper guests at the C. Knutson,",0.897,False,,크리스마스 날 손님과 방문 등 개인 사교 소식,1954-12-31_sn86075284,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0655,1950s,1954-12-31,가정·사교·공동체,high,The Poplar standard,"Poplar, Mont.",4,https://www.loc.gov/resource/sn86075284/1954-12-31/ed-1/,32,Christmas,False,1,"Lien and Hans
+Lien were Friday evening dinner
+guests at the James Elgie home.
+Mr. and Mrs. Edward Smith and
+daughter Rhonda, Mr. and Mrs.
+Harold Kappel of Glasgow spent
+Christmas Day at the home of Mrs.
+Ole Smith across the river.
+Mr. and Mrs. Harotd Kappel, of
+Saco, Edward Smith and Rhonda,
+Mrs. Ole Smith and Howard were
+Williston shoppers","Lien and Hans Lien were Friday evening dinner guests at the James Elgie home. Mr. and Mrs. Edward Smith and daughter Rhonda, Mr. and Mrs. Harold Kappel of Glasgow spent Christmas Day at the home of Mrs. Ole Smith across the river. Mr. and Mrs. Harotd Kappel, of Saco, Edward Smith and Rhonda, Mrs. Ole Smith and Howard were Williston shoppers",0.869,False,,크리스마스 당일 가족 방문을 전하는 개인 사교 소식,1954-12-31_sn86075284,일상·사교형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0678,1950s,1955-12-23,종교·기원,high,Hungry Horse news.,"Columbia Falls, Mont.",3,https://www.loc.gov/resource/sn84027524/1955-12-23/ed-1/,10,Christmas,False,3,"Masonic temple.
+by Mrs. Gladys Shay
+Follow-up of Christmas eve and
+Christmas day services for Columbia
+Falls churches includes:
+EPISCOPAL
+St. Matthew's Episcopal church
+service is set for 9 a.m., Christmas
+day, with traditional service. Vicar
+is Father Douglas Beauchamp. Sun
+day school will not be conducted that
+day. Sunday school party was held,
+Tuesday. Mrs. Bob Trodick is in
+charge","Masonic temple. by Mrs. Gladys Shay Follow-up of Christmas eve and Christmas day services for Columbia Falls churches includes: EPISCOPAL St. Matthew's Episcopal church service is set for 9 a.m., Christmas day, with traditional service. Vicar is Father Douglas Beauchamp. Sun day school will not be conducted that day. Sunday school party was held, Tuesday. Mrs. Bob Trodick is in charge",0.967,False,,교회들의 성탄 전야·성탄절 예배 안내 공지,1955-12-23_sn84027524,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0682,1950s,1955-12-23,종교·기원,medium,Hungry Horse news.,"Columbia Falls, Mont.",3,https://www.loc.gov/resource/sn84027524/1955-12-23/ed-1/,14,Christmas,False,3,"from 2:30 until 5 p. m. and 7:30
+until 10:30 p. m.
+Other Columbia Falls churches,
+Methodist, Christian, Pentacostal
+Church of God, and the Assembly of
+God, will hold services, Christmas
+day. These are all at 11 a. m.
+Baptist Missionary Circle
+Holds Christmas Party
+Christmas party given by Baptist
+Missionary Circle was attended by
+18 members, Friday. It was held","from 2:30 until 5 p. m. and 7:30 until 10:30 p. m. Other Columbia Falls churches, Methodist, Christian, Pentacostal Church of God, and the Assembly of God, will hold services, Christmas day. These are all at 11 a. m. Baptist Missionary Circle Holds Christmas Party Christmas party given by Baptist Missionary Circle was attended by 18 members, Friday. It was held",0.98,False,,교회들의 성탄절 예배 안내가 중심이며 선교회 파티는 부차적,1955-12-23_sn84027524,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0772,1960–63,1962-12-19,상업·소비,low,The Sidney herald.,"Sidney, Mont.",4,https://www.loc.gov/resource/sn83004278/1962-12-19/ed-1/,15,Christmas,False,1,"Hostesses for the afternoon
+were Women of the Moose and
+the Royal Neighbors.
+Mrs. Milton Brunsvold, Sec.
+
+-Jar
+~'k.
+Hifi*
+VI;
+V
+
+L
+
+V
+n
+I
+
+u a
+cM ope
+Christmas Day is
+merry and bright,
+full of delight!
+1 L
+your
+v
+o
+î
+A
+
+""4fe
+■'tésf
+
+
+
+«W*
+Dr
+
+Jerry's Market
+H home protection at
+less cost with a
+Homeowners","Hostesses for the afternoon were Women of the Moose and the Royal Neighbors. Mrs. Milton Brunsvold, Sec. -Jar 'k. Hifi VI; V L V n I u a cM ope Christmas Day is merry and bright, full of delight! 1 L your v o î A ""4fe 'tésf W Dr Jerry's Market H home protection at less cost with a Homeowners",0.909,False,,"garbled; 상점 광고 인사말(""Jerry's Market"", 보험 광고)이 키워드 근처",1962-12-19_sn83004278,판촉·광고형,ok,claude-sonnet-5-5,v0.3-presenter-rule
+1,christmas day,S0768,1960–63,1962-12-19,종교·기원,high,The Sidney herald.,"Sidney, Mont.",4,https://www.loc.gov/resource/sn83004278/1962-12-19/ed-1/,11,Christmas,False,1,"on
+Saturday, Dec. 22 at 7 p.m.; at
+Highland on Sunday, Dec. 23 at
+2 p.m. and at Trinity on Sunday,
+Dec. 23 at 7:30 p.m. Worship ser
+vices on Christmas Day will be
+at St. Olaf at 9:30 a.m.; Trinity at
+11 a.m. and at Highland at 2 p.m.
+St. Michaels and All Angels
+Episcopal Church of Cartwright
+will observe","on Saturday, Dec. 22 at 7 p.m.; at Highland on Sunday, Dec. 23 at 2 p.m. and at Trinity on Sunday, Dec. 23 at 7:30 p.m. Worship ser vices on Christmas Day will be at St. Olaf at 9:30 a.m.; Trinity at 11 a.m. and at Highland at 2 p.m. St. Michaels and All Angels Episcopal Church of Cartwright will observe",0.957,False,,교회들의 성탄절 예배 시간 안내,1962-12-19_sn83004278,예배·신학,ok,claude-sonnet-5-5,v0.3-presenter-rule
